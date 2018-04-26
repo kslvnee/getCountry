@@ -10,4 +10,9 @@ internal class GetCountryTest {
     fun getTest() {
         assertEquals("Hello A",get("A"))
     }
+
+    @Test
+    fun getTestIfCondition() {
+        assertEquals("Hello",get("D"))
+    }
 }
