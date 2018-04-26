@@ -1,12 +1,13 @@
 package getcountry
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
 
 
 internal class GetCountryTest {
 
     @Test
-    fun get() {
-        assert(true)
+    fun getTest() {
+        assertEquals("Hello A",get("A"))
     }
 }
