@@ -7,12 +7,12 @@ import org.junit.Test
 internal class GetCountryTest {
 
     @Test
-    fun getTest() {
-        assertEquals("Hello A",get("A"))
+    fun getTestWithWrongLocation() {
+        assertEquals(ArrayList<IResultCountry>(),get("location"))
     }
 
     @Test
-    fun getTestIfCondition() {
-        assertEquals("Hello",get("D"))
+    fun getTestWithEmptyLocation() {
+        assertEquals(ArrayList<IResultCountry>(),get(""))
     }
 }
