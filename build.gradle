@@ -29,6 +29,7 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    compile 'com.google.code.gson:gson:2.8.0'
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
@@ -44,7 +45,7 @@ compileTestKotlin {
 publish {
     groupId = 'com.github.getcoderio'
     artifactId = 'GetCountry'
-    publishVersion = '0.0.1'
+    publishVersion = '0.0.2'
     desc = 'The library that transforms String location into Country/Region/City names'
     licences = ['MIT']
     website = 'https://github.com/getcoderio/getCountry'

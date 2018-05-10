@@ -1,0 +1,1855 @@
+{
+  "country_name" : "USA",
+  "country_synonyms" : [
+    "USA",
+    "US",
+    "Unated States of America",
+    "United States"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Alabama",
+      "region_synonyms" : [
+        "Alabama"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Birmingham",
+          "city_synonyms" : [
+            "Birmingham"
+          ]
+        },
+        {
+          "city_name" : "Huntsville",
+          "city_synonyms" : [
+            "Huntsville"
+          ]
+        },
+        {
+          "city_name" : "Mobile",
+          "city_synonyms" : [
+            "Mobile"
+          ]
+        },
+        {
+          "city_name" : "Montgomery",
+          "city_synonyms" : [
+            "Montgomery"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Arizona",
+      "region_synonyms" : [
+        "Arizona"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chandler",
+          "city_synonyms" : [
+            "Chandler"
+          ]
+        },
+        {
+          "city_name" : "Gilbert",
+          "city_synonyms" : [
+            "Gilbert"
+          ]
+        },
+        {
+          "city_name" : "Glendale",
+          "city_synonyms" : [
+            "Glendale"
+          ]
+        },
+        {
+          "city_name" : "Mesa",
+          "city_synonyms" : [
+            "Mesa"
+          ]
+        },
+        {
+          "city_name" : "Peoria",
+          "city_synonyms" : [
+            "Peoria"
+          ]
+        },
+        {
+          "city_name" : "Phoenix",
+          "city_synonyms" : [
+            "Phoenix"
+          ]
+        },
+        {
+          "city_name" : "Scottsdale",
+          "city_synonyms" : [
+            "Scottsdale"
+          ]
+        },
+        {
+          "city_name" : "Surprise",
+          "city_synonyms" : [
+            "Surprise"
+          ]
+        },
+        {
+          "city_name" : "Tempe",
+          "city_synonyms" : [
+            "Tempe"
+          ]
+        },
+        {
+          "city_name" : "Tucson",
+          "city_synonyms" : [
+            "Tucson"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "California",
+      "region_synonyms" : [
+        "California",
+        "CA"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Anaheim",
+          "city_synonyms" : [
+            "Anaheim"
+          ]
+        },
+        {
+          "city_name" : "Antioch",
+          "city_synonyms" : [
+            "Antioch"
+          ]
+        },
+        {
+          "city_name" : "Bakersfield",
+          "city_synonyms" : [
+            "Bakersfield"
+          ]
+        },
+        {
+          "city_name" : "Berkeley",
+          "city_synonyms" : [
+            "Berkeley"
+          ]
+        },
+        {
+          "city_name" : "Burbank",
+          "city_synonyms" : [
+            "Burbank"
+          ]
+        },
+        {
+          "city_name" : "Carlsbad",
+          "city_synonyms" : [
+            "Carlsbad"
+          ]
+        },
+        {
+          "city_name" : "Chula Vista",
+          "city_synonyms" : [
+            "Chula Vista"
+          ]
+        },
+        {
+          "city_name" : "Clovis",
+          "city_synonyms" : [
+            "Clovis"
+          ]
+        },
+        {
+          "city_name" : "Concord",
+          "city_synonyms" : [
+            "Concord"
+          ]
+        },
+        {
+          "city_name" : "Corona",
+          "city_synonyms" : [
+            "Corona"
+          ]
+        },
+        {
+          "city_name" : "Costa Mesa",
+          "city_synonyms" : [
+            "Costa Mesa"
+          ]
+        },
+        {
+          "city_name" : "Daly City",
+          "city_synonyms" : [
+            "Daly City"
+          ]
+        },
+        {
+          "city_name" : "Downwey",
+          "city_synonyms" : [
+            "Downwey"
+          ]
+        },
+        {
+          "city_name" : "El Cajon",
+          "city_synonyms" : [
+            "El Cajon"
+          ]
+        },
+        {
+          "city_name" : "El Monte",
+          "city_synonyms" : [
+            "El Monte"
+          ]
+        },
+        {
+          "city_name" : "Elk Grove",
+          "city_synonyms" : [
+            "Elk Grove"
+          ]
+        },
+        {
+          "city_name" : "Escondido",
+          "city_synonyms" : [
+            "Escondido"
+          ]
+        },
+        {
+          "city_name" : "Fairfield",
+          "city_synonyms" : [
+            "Fairfield"
+          ]
+        },
+        {
+          "city_name" : "Fontana",
+          "city_synonyms" : [
+            "Fontana"
+          ]
+        },
+        {
+          "city_name" : "Fremont",
+          "city_synonyms" : [
+            "Fremont"
+          ]
+        },
+        {
+          "city_name" : "Fresno",
+          "city_synonyms" : [
+            "Fresno"
+          ]
+        },
+        {
+          "city_name" : "Fullerton",
+          "city_synonyms" : [
+            "Fullerton"
+          ]
+        },
+        {
+          "city_name" : "Garden Grove",
+          "city_synonyms" : [
+            "Garden Grove"
+          ]
+        },
+        {
+          "city_name" : "Glendale",
+          "city_synonyms" : [
+            "Glendale"
+          ]
+        },
+        {
+          "city_name" : "Hayward",
+          "city_synonyms" : [
+            "Hayward"
+          ]
+        },
+        {
+          "city_name" : "Huntington Beach",
+          "city_synonyms" : [
+            "Huntington Beach"
+          ]
+        },
+        {
+          "city_name" : "Inglewood",
+          "city_synonyms" : [
+            "Inglewood"
+          ]
+        },
+        {
+          "city_name" : "Irvine",
+          "city_synonyms" : [
+            "Irvine"
+          ]
+        },
+        {
+          "city_name" : "Jurupa Valley",
+          "city_synonyms" : [
+            "Jurupa Valley"
+          ]
+        },
+        {
+          "city_name" : "Lancaster",
+          "city_synonyms" : [
+            "Lancaster"
+          ]
+        },
+        {
+          "city_name" : "Long Beach",
+          "city_synonyms" : [
+            "Long Beach"
+          ]
+        },
+        {
+          "city_name" : "Los Angeles",
+          "city_synonyms" : [
+            "Los Angeles"
+          ]
+        },
+        {
+          "city_name" : "Modesto",
+          "city_synonyms" : [
+            "Modesto"
+          ]
+        },
+        {
+          "city_name" : "Moreno Valley",
+          "city_synonyms" : [
+            "Moreno Valley"
+          ]
+        },
+        {
+          "city_name" : "Murrieta",
+          "city_synonyms" : [
+            "Murrieta"
+          ]
+        },
+        {
+          "city_name" : "Norwalk",
+          "city_synonyms" : [
+            "Norwalk"
+          ]
+        },
+        {
+          "city_name" : "Oakland",
+          "city_synonyms" : [
+            "Oakland"
+          ]
+        },
+        {
+          "city_name" : "Oceanside",
+          "city_synonyms" : [
+            "Oceanside"
+          ]
+        },
+        {
+          "city_name" : "Ontario",
+          "city_synonyms" : [
+            "Ontario"
+          ]
+        },
+        {
+          "city_name" : "Orange",
+          "city_synonyms" : [
+            "Orange"
+          ]
+        },
+        {
+          "city_name" : "Oxnard",
+          "city_synonyms" : [
+            "Oxnard"
+          ]
+        },
+        {
+          "city_name" : "Palmdale",
+          "city_synonyms" : [
+            "Palmdale"
+          ]
+        },
+        {
+          "city_name" : "Pasadena",
+          "city_synonyms" : [
+            "Pasadena"
+          ]
+        },
+        {
+          "city_name" : "Pomona",
+          "city_synonyms" : [
+            "Pomona"
+          ]
+        },
+        {
+          "city_name" : "Rancho Cucamonga",
+          "city_synonyms" : [
+            "Rancho Cucamonga"
+          ]
+        },
+        {
+          "city_name" : "Rialto",
+          "city_synonyms" : [
+            "Rialto"
+          ]
+        },
+        {
+          "city_name" : "Richmond",
+          "city_synonyms" : [
+            "Richmond"
+          ]
+        },
+        {
+          "city_name" : "Riverside",
+          "city_synonyms" : [
+            "Riverside"
+          ]
+        },
+        {
+          "city_name" : "Rocklin",
+          "city_synonyms" : [
+            "Rocklin"
+          ]
+        },
+        {
+          "city_name" : "Roseville",
+          "city_synonyms" : [
+            "Roseville"
+          ]
+        },
+        {
+          "city_name" : "Sacramento",
+          "city_synonyms" : [
+            "Sacramento"
+          ]
+        },
+        {
+          "city_name" : "Salinas",
+          "city_synonyms" : [
+            "Salinas"
+          ]
+        },
+        {
+          "city_name" : "San Bernardino",
+          "city_synonyms" : [
+            "San Bernardino"
+          ]
+        },
+        {
+          "city_name" : "San Diego",
+          "city_synonyms" : [
+            "San Diego"
+          ]
+        },
+        {
+          "city_name" : "San Francisco",
+          "city_synonyms" : [
+            "San Francisco",
+            "Bay Area"
+          ]
+        },
+        {
+          "city_name" : "San Jose",
+          "city_synonyms" : [
+            "San Jose"
+          ]
+        },
+        {
+          "city_name" : "San Mateo",
+          "city_synonyms" : [
+            "San Mateo"
+          ]
+        },
+        {
+          "city_name" : "Santa Ana",
+          "city_synonyms" : [
+            "Santa Ana"
+          ]
+        },
+        {
+          "city_name" : "Santa Clara",
+          "city_synonyms" : [
+            "Santa Clara"
+          ]
+        },
+        {
+          "city_name" : "Santa Clarita",
+          "city_synonyms" : [
+            "Santa Clarita"
+          ]
+        },
+        {
+          "city_name" : "Santa Maria",
+          "city_synonyms" : [
+            "Santa Maria"
+          ]
+        },
+        {
+          "city_name" : "Santa Rosa",
+          "city_synonyms" : [
+            "Santa Rosa"
+          ]
+        },
+        {
+          "city_name" : "Simi Valley",
+          "city_synonyms" : [
+            "Simi Valley"
+          ]
+        },
+        {
+          "city_name" : "Stockton",
+          "city_synonyms" : [
+            "Stockton"
+          ]
+        },
+        {
+          "city_name" : "Sunnyvale",
+          "city_synonyms" : [
+            "Sunnyvale"
+          ]
+        },
+        {
+          "city_name" : "Temecula",
+          "city_synonyms" : [
+            "Temecula"
+          ]
+        },
+        {
+          "city_name" : "Thousand Oaks",
+          "city_synonyms" : [
+            "Thousand Oaks"
+          ]
+        },
+        {
+          "city_name" : "Torrance",
+          "city_synonyms" : [
+            "Torrance"
+          ]
+        },
+        {
+          "city_name" : "Tulare",
+          "city_synonyms" : [
+            "Tulare"
+          ]
+        },
+        {
+          "city_name" : "Vallejo",
+          "city_synonyms" : [
+            "Vallejo"
+          ]
+        },
+        {
+          "city_name" : "Ventura",
+          "city_synonyms" : [
+            "Ventura"
+          ]
+        },
+        {
+          "city_name" : "Victorville",
+          "city_synonyms" : [
+            "Victorville"
+          ]
+        },
+        {
+          "city_name" : "Visalia",
+          "city_synonyms" : [
+            "Visalia"
+          ]
+        },
+        {
+          "city_name" : "Vista",
+          "city_synonyms" : [
+            "Vista"
+          ]
+        },
+        {
+          "city_name" : "West Covina",
+          "city_synonyms" : [
+            "West Covina"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Colorado",
+      "region_synonyms" : [
+        "Colorado"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Arvada",
+          "city_synonyms" : [
+            "Arvada"
+          ]
+        },
+        {
+          "city_name" : "Aurora",
+          "city_synonyms" : [
+            "Aurora"
+          ]
+        },
+        {
+          "city_name" : "Boulder",
+          "city_synonyms" : [
+            "Boulder"
+          ]
+        },
+        {
+          "city_name" : "Centennial",
+          "city_synonyms" : [
+            "Centennial"
+          ]
+        },
+        {
+          "city_name" : "Colorado Springs",
+          "city_synonyms" : [
+            "Colorado Springs"
+          ]
+        },
+        {
+          "city_name" : "Denver",
+          "city_synonyms" : [
+            "Denver"
+          ]
+        },
+        {
+          "city_name" : "Fort Collins",
+          "city_synonyms" : [
+            "Fort Collins"
+          ]
+        },
+        {
+          "city_name" : "Greeley",
+          "city_synonyms" : [
+            "Greeley"
+          ]
+        },
+        {
+          "city_name" : "Lakewood",
+          "city_synonyms" : [
+            "Lakewood"
+          ]
+        },
+        {
+          "city_name" : "Pueblo",
+          "city_synonyms" : [
+            "Pueblo"
+          ]
+        },
+        {
+          "city_name" : "Thornton",
+          "city_synonyms" : [
+            "Thornton"
+          ]
+        },
+        {
+          "city_name" : "Westminster",
+          "city_synonyms" : [
+            "Westminster"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Connecticut",
+      "region_synonyms" : [
+        "Connecticut"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bridgeport",
+          "city_synonyms" : [
+            "Bridgeport"
+          ]
+        },
+        {
+          "city_name" : "Hartford",
+          "city_synonyms" : [
+            "Hartford"
+          ]
+        },
+        {
+          "city_name" : "New Haven",
+          "city_synonyms" : [
+            "New Haven"
+          ]
+        },
+        {
+          "city_name" : "Stamford",
+          "city_synonyms" : [
+            "Stamford"
+          ]
+        },
+        {
+          "city_name" : "Waterbury",
+          "city_synonyms" : [
+            "Stamford"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Florida",
+      "region_synonyms" : [
+        "Florida",
+        "FL"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cape Coral",
+          "city_synonyms" : [
+            "Cape Coral"
+          ]
+        },
+        {
+          "city_name" : "Clearwater",
+          "city_synonyms" : [
+            "Clearwater"
+          ]
+        },
+        {
+          "city_name" : "Coral Springs",
+          "city_synonyms" : [
+            "Coral Springs"
+          ]
+        },
+        {
+          "city_name" : "Davie",
+          "city_synonyms" : [
+            "Davie"
+          ]
+        },
+        {
+          "city_name" : "Fort Lauderdale",
+          "city_synonyms" : [
+            "Fort Lauderdale"
+          ]
+        },
+        {
+          "city_name" : "Gainesville",
+          "city_synonyms" : [
+            "Gainesville"
+          ]
+        },
+        {
+          "city_name" : "Hialeah",
+          "city_synonyms" : [
+            "Hialeah"
+          ]
+        },
+        {
+          "city_name" : "Hollywood",
+          "city_synonyms" : [
+            "Hollywood"
+          ]
+        },
+        {
+          "city_name" : "Jacksonville",
+          "city_synonyms" : [
+            "Jacksonville"
+          ]
+        },
+        {
+          "city_name" : "Lakeland",
+          "city_synonyms" : [
+            "Lakeland"
+          ]
+        },
+        {
+          "city_name" : "Miami",
+          "city_synonyms" : [
+            "Miami"
+          ]
+        },
+        {
+          "city_name" : "Miramar",
+          "city_synonyms" : [
+            "Miramar"
+          ]
+        },
+        {
+          "city_name" : "Orlando",
+          "city_synonyms" : [
+            "Orlando"
+          ]
+        },
+        {
+          "city_name" : "Palm Bay",
+          "city_synonyms" : [
+            "Palm Bay"
+          ]
+        },
+        {
+          "city_name" : "Pembroke Pines",
+          "city_synonyms" : [
+            "Pembroke Pines"
+          ]
+        },
+        {
+          "city_name" : "Pompano Beach",
+          "city_synonyms" : [
+            "Pompano Beach"
+          ]
+        },
+        {
+          "city_name" : "St. Petersburg",
+          "city_synonyms" : [
+            "St. Petersburg",
+            "Saint Petersburg"
+          ]
+        },
+        {
+          "city_name" : "Tampa",
+          "city_synonyms" : [
+            "Tampa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Georgia",
+      "region_synonyms" : [
+        "Georgia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Athens",
+          "city_synonyms" : [
+            "Athens"
+          ]
+        },
+        {
+          "city_name" : "Atlanta",
+          "city_synonyms" : [
+            "Atlanta"
+          ]
+        },
+        {
+          "city_name" : "Augusta",
+          "city_synonyms" : [
+            "Augusta"
+          ]
+        },
+        {
+          "city_name" : "Columbus",
+          "city_synonyms" : [
+            "Columbus"
+          ]
+        },
+        {
+          "city_name" : "Macon",
+          "city_synonyms" : [
+            "Macon"
+          ]
+        },
+        {
+          "city_name" : "Sandy Springs",
+          "city_synonyms" : [
+            "Sandy Springs"
+          ]
+        },
+        {
+          "city_name" : "Savannah",
+          "city_synonyms" : [
+            "Savannah"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Illinois",
+      "region_synonyms" : [
+        "Illinois"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aurora",
+          "city_synonyms" : [
+            "Aurora"
+          ]
+        },
+        {
+          "city_name" : "Chicago",
+          "city_synonyms" : [
+            "Chicago"
+          ]
+        },
+        {
+          "city_name" : "Elgin",
+          "city_synonyms" : [
+            "Elgin"
+          ]
+        },
+        {
+          "city_name" : "Joliet",
+          "city_synonyms" : [
+            "Joliet"
+          ]
+        },
+        {
+          "city_name" : "Naperville",
+          "city_synonyms" : [
+            "Naperville"
+          ]
+        },
+        {
+          "city_name" : "Peoria",
+          "city_synonyms" : [
+            "Peoria"
+          ]
+        },
+        {
+          "city_name" : "Rockford",
+          "city_synonyms" : [
+            "Rockford"
+          ]
+        },
+        {
+          "city_name" : "Springfield",
+          "city_synonyms" : [
+            "Springfield"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Indiana",
+      "region_synonyms" : [
+        "Indiana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Evansville",
+          "city_synonyms" : [
+            "Evansville"
+          ]
+        },
+        {
+          "city_name" : "Fort Wayne",
+          "city_synonyms" : [
+            "Fort Wayne"
+          ]
+        },
+        {
+          "city_name" : "Indianapolis",
+          "city_synonyms" : [
+            "Indianapolis"
+          ]
+        },
+        {
+          "city_name" : "South Bend",
+          "city_synonyms" : [
+            "South Bend"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Massachusetts",
+      "region_synonyms" : [
+        "Massachusetts"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Boston",
+          "city_synonyms" : [
+            "Boston"
+          ]
+        },
+        {
+          "city_name" : "Brookline",
+          "city_synonyms" : [
+            "Brookline"
+          ]
+        },
+        {
+          "city_name" : "Cambridge",
+          "city_synonyms" : [
+            "Cambridge"
+          ]
+        },
+        {
+          "city_name" : "Lowell",
+          "city_synonyms" : [
+            "Lowell"
+          ]
+        },
+        {
+          "city_name" : "Springfield",
+          "city_synonyms" : [
+            "Springfield"
+          ]
+        },
+        {
+          "city_name" : "Worcester",
+          "city_synonyms" : [
+            "Worcester"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Michigan",
+      "region_synonyms" : [
+        "Michigan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ann Arbor",
+          "city_synonyms" : [
+            "Ann Arbor"
+          ]
+        },
+        {
+          "city_name" : "Detroit",
+          "city_synonyms" : [
+            "Detroit"
+          ]
+        },
+        {
+          "city_name" : "Grand Rapids",
+          "city_synonyms" : [
+            "Grand Rapids"
+          ]
+        },
+        {
+          "city_name" : "Lansing",
+          "city_synonyms" : [
+            "Lansing"
+          ]
+        },
+        {
+          "city_name" : "Sterling Heights",
+          "city_synonyms" : [
+            "Sterling Heights"
+          ]
+        },
+        {
+          "city_name" : "Warren",
+          "city_synonyms" : [
+            "Warren"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Minnesota",
+      "region_synonyms" : [
+        "Minnesota",
+        "MN"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Minneapolis",
+          "city_synonyms" : [
+            "Minneapolis"
+          ]
+        },
+        {
+          "city_name" : "Rochester",
+          "city_synonyms" : [
+            "Rochester"
+          ]
+        },
+        {
+          "city_name" : "Saint Paul",
+          "city_synonyms" : [
+            "Saint Paul",
+            "Saint-Paul"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Missouri",
+      "region_synonyms" : [
+        "Missouri"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Columbia",
+          "city_synonyms" : [
+            "Columbia"
+          ]
+        },
+        {
+          "city_name" : "Independence",
+          "city_synonyms" : [
+            "Independence"
+          ]
+        },
+        {
+          "city_name" : "Kansas City",
+          "city_synonyms" : [
+            "Kansas City"
+          ]
+        },
+        {
+          "city_name" : "Springfield",
+          "city_synonyms" : [
+            "Springfield"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nebraska",
+      "region_synonyms" : [
+        "Nebraska"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lincoln",
+          "city_synonyms" : [
+            "Lincoln"
+          ]
+        },
+        {
+          "city_name" : "Omaha",
+          "city_synonyms" : [
+            "Omaha"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nevada",
+      "region_synonyms" : [
+        "Nevada"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Henderson",
+          "city_synonyms" : [
+            "Henderson"
+          ]
+        },
+        {
+          "city_name" : "Las Vegas",
+          "city_synonyms" : [
+            "Las Vegas"
+          ]
+        },
+        {
+          "city_name" : "North Las Vegas",
+          "city_synonyms" : [
+            "North Las Vegas"
+          ]
+        },
+        {
+          "city_name" : "Reno",
+          "city_synonyms" : [
+            "Reno"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "New Jersey",
+      "region_synonyms" : [
+        "New Jersey"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Edison",
+          "city_synonyms" : [
+            "Edison"
+          ]
+        },
+        {
+          "city_name" : "Elizabeth",
+          "city_synonyms" : [
+            "Elizabeth"
+          ]
+        },
+        {
+          "city_name" : "Jersey City",
+          "city_synonyms" : [
+            "Jersey City"
+          ]
+        },
+        {
+          "city_name" : "Newark",
+          "city_synonyms" : [
+            "Newark"
+          ]
+        },
+        {
+          "city_name" : "Paterson",
+          "city_synonyms" : [
+            "Paterson"
+          ]
+        },
+        {
+          "city_name" : "Woodbridge",
+          "city_synonyms" : [
+            "Woodbridge"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "New York",
+      "region_synonyms" : [
+        "New York"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Buffalo",
+          "city_synonyms" : [
+            "Buffalo"
+          ]
+        },
+        {
+          "city_name" : "New York",
+          "city_synonyms" : [
+            "New York"
+          ]
+        },
+        {
+          "city_name" : "Rochester",
+          "city_synonyms" : [
+            "Rochester"
+          ]
+        },
+        {
+          "city_name" : "Syracuse",
+          "city_synonyms" : [
+            "Syracuse"
+          ]
+        },
+        {
+          "city_name" : "Yonkers",
+          "city_synonyms" : [
+            "Yonkers"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North Carolina",
+      "region_synonyms" : [
+        "North Carolina"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cary",
+          "city_synonyms" : [
+            "Cary"
+          ]
+        },
+        {
+          "city_name" : "Charlotte",
+          "city_synonyms" : [
+            "Charlotte"
+          ]
+        },
+        {
+          "city_name" : "Durham",
+          "city_synonyms" : [
+            "Durham"
+          ]
+        },
+        {
+          "city_name" : "Fayetteville",
+          "city_synonyms" : [
+            "Fayetteville"
+          ]
+        },
+        {
+          "city_name" : "Greensboro",
+          "city_synonyms" : [
+            "Greensboro"
+          ]
+        },
+        {
+          "city_name" : "High Point",
+          "city_synonyms" : [
+            "High Point"
+          ]
+        },
+        {
+          "city_name" : "Raleigh",
+          "city_synonyms" : [
+            "Raleigh"
+          ]
+        },
+        {
+          "city_name" : "Wilmington",
+          "city_synonyms" : [
+            "Wilmington"
+          ]
+        },
+        {
+          "city_name" : "Winston-Salem",
+          "city_synonyms" : [
+            "Winston-Salem"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ohio",
+      "region_synonyms" : [
+        "Ohio"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Akron",
+          "city_synonyms" : [
+            "Akron"
+          ]
+        },
+        {
+          "city_name" : "Cincinnati",
+          "city_synonyms" : [
+            "Cincinnati"
+          ]
+        },
+        {
+          "city_name" : "Cleveland",
+          "city_synonyms" : [
+            "Cleveland"
+          ]
+        },
+        {
+          "city_name" : "Columbus",
+          "city_synonyms" : [
+            "Columbus"
+          ]
+        },
+        {
+          "city_name" : "Dayton",
+          "city_synonyms" : [
+            "Dayton"
+          ]
+        },
+        {
+          "city_name" : "Toledo",
+          "city_synonyms" : [
+            "Toledo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Oklahoma",
+      "region_synonyms" : [
+        "Oklahoma"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Broken Arrow",
+          "city_synonyms" : [
+            "Broken Arro"
+          ]
+        },
+        {
+          "city_name" : "Norman",
+          "city_synonyms" : [
+            "Norman"
+          ]
+        },
+        {
+          "city_name" : "Oklahoma",
+          "city_synonyms" : [
+            "Oklahoma"
+          ]
+        },
+        {
+          "city_name" : "Tulsa",
+          "city_synonyms" : [
+            "Tulsa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Oregon",
+      "region_synonyms" : [
+        "Oregon"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Eugene",
+          "city_synonyms" : [
+            "Eugene"
+          ]
+        },
+        {
+          "city_name" : "Gresham",
+          "city_synonyms" : [
+            "Gresham"
+          ]
+        },
+        {
+          "city_name" : "Hillsboro",
+          "city_synonyms" : [
+            "Hillsboro"
+          ]
+        },
+        {
+          "city_name" : "Portland",
+          "city_synonyms" : [
+            "Portland"
+          ]
+        },
+        {
+          "city_name" : "Salem",
+          "city_synonyms" : [
+            "Salem"
+          ]
+        },
+        {
+          "city_name" : "West Linn",
+          "city_synonyms" : [
+            "West Linn"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pennsylvania",
+      "region_synonyms" : [
+        "Pennsylvania"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Allentown",
+          "city_synonyms" : [
+            "Allentown"
+          ]
+        },
+        {
+          "city_name" : "King of Prussia",
+          "city_synonyms" : [
+            "King of Prussia"
+          ]
+        },
+        {
+          "city_name" : "Philadelphia",
+          "city_synonyms" : [
+            "Philadelphia"
+          ]
+        },
+        {
+          "city_name" : "Pittsburgh",
+          "city_synonyms" : [
+            "Pittsburgh"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tennessee",
+      "region_synonyms" : [
+        "Tennessee"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chattanooga",
+          "city_synonyms" : [
+            "Chattanooga"
+          ]
+        },
+        {
+          "city_name" : "Clarksville",
+          "city_synonyms" : [
+            "Clarksville"
+          ]
+        },
+        {
+          "city_name" : "Knoxville",
+          "city_synonyms" : [
+            "Knoxville"
+          ]
+        },
+        {
+          "city_name" : "Memphis",
+          "city_synonyms" : [
+            "Memphis"
+          ]
+        },
+        {
+          "city_name" : "Murfreesboro",
+          "city_synonyms" : [
+            "Murfreesboro"
+          ]
+        },
+        {
+          "city_name" : "Nashville",
+          "city_synonyms" : [
+            "Nashville"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Texas",
+      "region_synonyms" : [
+        "Texas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Abilene",
+          "city_synonyms" : [
+            "Abilene"
+          ]
+        },
+        {
+          "city_name" : "Amarillo",
+          "city_synonyms" : [
+            "Amarillo"
+          ]
+        },
+        {
+          "city_name" : "Arlington",
+          "city_synonyms" : [
+            "Arlington"
+          ]
+        },
+        {
+          "city_name" : "Austin",
+          "city_synonyms" : [
+            "Austin"
+          ]
+        },
+        {
+          "city_name" : "Beaumont",
+          "city_synonyms" : [
+            "Beaumont"
+          ]
+        },
+        {
+          "city_name" : "Brownsville",
+          "city_synonyms" : [
+            "Brownsville"
+          ]
+        },
+        {
+          "city_name" : "Carrollton",
+          "city_synonyms" : [
+            "Carrollton"
+          ]
+        },
+        {
+          "city_name" : "College Station",
+          "city_synonyms" : [
+            "College Station"
+          ]
+        },
+        {
+          "city_name" : "Corpus Christi",
+          "city_synonyms" : [
+            "Corpus Christi"
+          ]
+        },
+        {
+          "city_name" : "Dallas",
+          "city_synonyms" : [
+            "Dallas"
+          ]
+        },
+        {
+          "city_name" : "Denton",
+          "city_synonyms" : [
+            "Denton"
+          ]
+        },
+        {
+          "city_name" : "El Paso",
+          "city_synonyms" : [
+            "El Paso"
+          ]
+        },
+        {
+          "city_name" : "Fort Worth",
+          "city_synonyms" : [
+            "Fort Worth"
+          ]
+        },
+        {
+          "city_name" : "Frisco",
+          "city_synonyms" : [
+            "Frisco"
+          ]
+        },
+        {
+          "city_name" : "Garland",
+          "city_synonyms" : [
+            "Garland"
+          ]
+        },
+        {
+          "city_name" : "Grand Prairie",
+          "city_synonyms" : [
+            "Grand Prairie"
+          ]
+        },
+        {
+          "city_name" : "Houston",
+          "city_synonyms" : [
+            "Houston"
+          ]
+        },
+        {
+          "city_name" : "Irving",
+          "city_synonyms" : [
+            "Irving"
+          ]
+        },
+        {
+          "city_name" : "Killeen",
+          "city_synonyms" : [
+            "Killeen"
+          ]
+        },
+        {
+          "city_name" : "Laredo",
+          "city_synonyms" : [
+            "Laredo"
+          ]
+        },
+        {
+          "city_name" : "Lewisville",
+          "city_synonyms" : [
+            "Lewisville"
+          ]
+        },
+        {
+          "city_name" : "Lubbock",
+          "city_synonyms" : [
+            "Lubbock"
+          ]
+        },
+        {
+          "city_name" : "McAllen",
+          "city_synonyms" : [
+            "McAllen"
+          ]
+        },
+        {
+          "city_name" : "McKinney",
+          "city_synonyms" : [
+            "McKinney"
+          ]
+        },
+        {
+          "city_name" : "Mesquite",
+          "city_synonyms" : [
+            "Mesquite"
+          ]
+        },
+        {
+          "city_name" : "Midland",
+          "city_synonyms" : [
+            "Midland"
+          ]
+        },
+        {
+          "city_name" : "Pasadena",
+          "city_synonyms" : [
+            "Pasadena"
+          ]
+        },
+        {
+          "city_name" : "Pearland",
+          "city_synonyms" : [
+            "Pearland"
+          ]
+        },
+        {
+          "city_name" : "Plano",
+          "city_synonyms" : [
+            "Plano"
+          ]
+        },
+        {
+          "city_name" : "Richardson",
+          "city_synonyms" : [
+            "Richardson"
+          ]
+        },
+        {
+          "city_name" : "Round Rock",
+          "city_synonyms" : [
+            "Round Rock"
+          ]
+        },
+        {
+          "city_name" : "San Angelo",
+          "city_synonyms" : [
+            "San Angelo"
+          ]
+        },
+        {
+          "city_name" : "Tyler",
+          "city_synonyms" : [
+            "Tyler"
+          ]
+        },
+        {
+          "city_name" : "Waco",
+          "city_synonyms" : [
+            "Waco"
+          ]
+        },
+        {
+          "city_name" : "Wichita Falls",
+          "city_synonyms" : [
+            "Wichita Falls"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Utah",
+      "region_synonyms" : [
+        "Utah"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Salt Lake City",
+          "city_synonyms" : [
+            "Salt Lake City"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Virginia",
+      "region_synonyms" : [
+        "Virginia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alexandria",
+          "city_synonyms" : [
+            "Alexandria"
+          ]
+        },
+        {
+          "city_name" : "Chesapeake",
+          "city_synonyms" : [
+            "Chesapeake"
+          ]
+        },
+        {
+          "city_name" : "Fairfax",
+          "city_synonyms" : [
+            "Fairfax"
+          ]
+        },
+        {
+          "city_name" : "Hampton",
+          "city_synonyms" : [
+            "Hampton"
+          ]
+        },
+        {
+          "city_name" : "Newport News",
+          "city_synonyms" : [
+            "Newport News"
+          ]
+        },
+        {
+          "city_name" : "Norfolk",
+          "city_synonyms" : [
+            "Norfolk"
+          ]
+        },
+        {
+          "city_name" : "Richmond",
+          "city_synonyms" : [
+            "Richmond"
+          ]
+        },
+        {
+          "city_name" : "Virginia",
+          "city_synonyms" : [
+            "Richmond"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Washington",
+      "region_synonyms" : [
+        "Washington"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bellevue",
+          "city_synonyms" : [
+            "Bellevue"
+          ]
+        },
+        {
+          "city_name" : "Everett",
+          "city_synonyms" : [
+            "Everett"
+          ]
+        },
+        {
+          "city_name" : "Kent",
+          "city_synonyms" : [
+            "Kent"
+          ]
+        },
+        {
+          "city_name" : "Renton",
+          "city_synonyms" : [
+            "Renton"
+          ]
+        },
+        {
+          "city_name" : "Seattle",
+          "city_synonyms" : [
+            "Seattle"
+          ]
+        },
+        {
+          "city_name" : "Spokane",
+          "city_synonyms" : [
+            "Spokane"
+          ]
+        },
+        {
+          "city_name" : "Tacoma",
+          "city_synonyms" : [
+            "Tacoma"
+          ]
+        },
+        {
+          "city_name" : "Vancouver",
+          "city_synonyms" : [
+            "Vancouver"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Wisconsin",
+      "region_synonyms" : [
+        "Wisconsin"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Green Bay",
+          "city_synonyms" : [
+            "Green Bay"
+          ]
+        },
+        {
+          "city_name" : "Madison",
+          "city_synonyms" : [
+            "Madison"
+          ]
+        },
+        {
+          "city_name" : "Milwaukee",
+          "city_synonyms" : [
+            "Milwaukee"
+          ]
+        }
+      ]
+    }
+  ]
+}
