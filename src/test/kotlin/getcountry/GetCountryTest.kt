@@ -26,9 +26,7 @@ internal class GetCountryTest {
 
     @Test
     fun getTestWithKazan() {
-        val result = get("Kazan")
+        val result = get("Russia")
         assertEquals("Russia",result[0].country)
-        assertEquals("Tatarstan",result[0].region)
-        assertEquals("Kazan",result[0].city)
     }
 }
