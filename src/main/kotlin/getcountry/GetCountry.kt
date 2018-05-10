@@ -63,10 +63,10 @@ fun get(location:String):List<IResultCountry> {
         var found = false
         for (result in results) {
             if (result.country.equals(midResult.country)) {
-                if (!midResult.region.isEmpty()) {
+                if (midResult.region.isNotEmpty()) {
                     result.region = midResult.region
                 }
-                if (!midResult.city.isEmpty()) {
+                if (midResult.city.isNotEmpty()) {
                     result.city = midResult.city
                 }
                 result.foundNubmer += 1
