@@ -45,8 +45,8 @@ fun get(location:String):List<IResultCountry> {
 
             for (pCity in pRegion.cities) {
                 for (citySynonym in pCity.synonims) {
-                    val pattern = Pattern.compile("(\\W|^)" + citySynonym.toLowerCase() + "(\\W|$)")
-                    val m = pattern.matcher(location.toLowerCase())
+                    val pattern = Pattern.compile("(\\W|^)$citySynonym(\\W|$)")
+                    val m = pattern.matcher(location)
                     if (m.find()) {
                         midResults.add(ResultCountry(pCountry.name, pRegion.name, pCity.name))
                         break
