@@ -47,9 +47,9 @@ fun get(location:String):List<IResultCountry> {
                 for (citySynonym in pCity.synonims) {
                     val lowerCaseCity = citySynonym.toLowerCase()
                     if (citySynonym == lowerCaseCity) {
-
+                        println("1")
                     } else {
-
+                        println("2")
                     }
                     val pattern = Pattern.compile("(\\W|^)$lowerCaseCity(\\W|$)")
                     val m = pattern.matcher(location.toLowerCase())
