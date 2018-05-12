@@ -45,13 +45,7 @@ fun get(location:String):List<IResultCountry> {
 
             for (pCity in pRegion.cities) {
                 for (citySynonym in pCity.synonims) {
-                    val lowerCaseCity = citySynonym.toLowerCase()
-                    if (citySynonym == lowerCaseCity) {
-                        println("1")
-                    } else {
-                        println("2")
-                    }
-                    val pattern = Pattern.compile("(\\W|^)$lowerCaseCity(\\W|$)")
+                    val pattern = Pattern.compile("(\\W|^)" + citySynonym.toLowerCase() + "(\\W|$)")
                     val m = pattern.matcher(location.toLowerCase())
                     if (m.find()) {
                         midResults.add(ResultCountry(pCountry.name, pRegion.name, pCity.name))
@@ -94,7 +88,5 @@ fun getOriginalCountries() : List<Country> {
     for (file in listOfFiles) {
             countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
     }
-    //var d = countries.sortedBy { it.name }
-    println(countries.size)
     return countries
 }
