@@ -11,8 +11,8 @@ buildscript {
     }
 }
 
-group 'com.github.getcoderio'
-version '0.0.1'
+//group 'com.github.getcoderio'
+//version '0.0.1'
 
 apply plugin: 'java'
 apply plugin: 'kotlin'
@@ -45,7 +45,7 @@ compileTestKotlin {
 publish {
     groupId = 'com.github.getcoderio'
     artifactId = 'GetCountry'
-    publishVersion = '0.0.2'
+    publishVersion = '0.1.0'
     desc = 'The library that transforms String location into Country/Region/City names'
     licences = ['MIT']
     website = 'https://github.com/getcoderio/getCountry'
