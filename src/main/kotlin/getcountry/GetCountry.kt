@@ -1,7 +1,9 @@
 package getcountry
 
 import com.google.gson.GsonBuilder
+
 import java.io.File
+import java.net.URI
 import java.util.regex.Pattern
 import java.util.ArrayList
 
@@ -19,7 +21,11 @@ val countries : List<Country> = getOriginalCountries()
  * @see Country
  */
 fun getOriginalCountries() : List<Country> {
-    val listOfFiles = File("src/main/resources/countries").listFiles()
+    //val listOfFiles = File("src/main/resources/countries").listFiles()
+    //getClass().getResource("/images/test2.bmp")
+
+    //::class.java.getResource("/html/file.html").readText()
+    val listOfFiles = File(URI("src/main/resources/countries").path).listFiles()
     val countries : MutableList<Country> = ArrayList()
     for (file in listOfFiles) {
         countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
