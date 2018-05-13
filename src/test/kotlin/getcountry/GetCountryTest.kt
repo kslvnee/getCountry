@@ -54,4 +54,10 @@ internal class GetCountryTest {
         val result = get("030, 123")
         assertEquals(ArrayList<IResultCountry>(),result)
     }
+
+    @Test
+    fun getTestWithUsa() {
+        val result = get("USA")
+        assertEquals("USA",result[0].country)
+    }
 }

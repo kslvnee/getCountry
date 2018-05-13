@@ -1,6 +1,7 @@
 package getcountry
 
 
+import com.google.common.base.MoreObjects
 import com.google.common.io.Files
 import com.google.common.io.Resources
 import com.google.gson.GsonBuilder
@@ -12,6 +13,8 @@ import java.net.URI
 import java.util.regex.Pattern
 import java.util.ArrayList
 import java.io.IOException
+import java.net.URL
+
 
 import java.nio.file.Paths
 import java.util.stream.Collectors
@@ -40,10 +43,38 @@ fun getOriginalCountries() : List<Country> {
 //        countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
 //    }
 
-    val url = Resources.getResource("countries/Russia.json")
-    val text = Resources.toString(url, Charsets.UTF_8)
-    countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
+  //  val url = Resources.getResource("countries/Russia.json")
+
+//    val loader = MoreObjects.firstNonNull(Thread.currentThread().contextClassLoader, Resources::class.java.classLoader)
+//    val urls = loader.getResources("countries/Russia.json").toList()
+//
+
+    //val text = Resources.toString(url, Charsets.UTF_8)
+
+//    urls.forEach {
+//        val text = Resources.toString(it, Charsets.UTF_8)
+//        countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
+//    }
+
+    val files = getResourceFolderFiles("countries")
+    files.forEach { countries.add(GsonBuilder().create().fromJson(it.readText(), Country::class.java)) }
+
+
+
+
+    // countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
+
+    //Files.fileTraverser().breadthFirst("").forEach()
+
+
     return countries
+}
+
+private fun getResourceFolderFiles(folder: String): Array<File> {
+    val loader = Thread.currentThread().contextClassLoader
+    val url = loader.getResource(folder)
+    val path = url!!.path
+    return File(path).listFiles()
 }
 
 /**
