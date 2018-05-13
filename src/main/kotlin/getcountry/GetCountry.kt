@@ -1,11 +1,22 @@
 package getcountry
 
+
+import com.google.common.io.Files
+import com.google.common.io.Resources
 import com.google.gson.GsonBuilder
 
+
 import java.io.File
+import java.io.InputStreamReader
 import java.net.URI
 import java.util.regex.Pattern
 import java.util.ArrayList
+import java.io.IOException
+
+import java.nio.file.Paths
+import java.util.stream.Collectors
+
+
 
 /**
  * List of all countries with regions and cities
@@ -21,15 +32,17 @@ val countries : List<Country> = getOriginalCountries()
  * @see Country
  */
 fun getOriginalCountries() : List<Country> {
-    //val listOfFiles = File("src/main/resources/countries").listFiles()
-    //getClass().getResource("/images/test2.bmp")
 
-    //::class.java.getResource("/html/file.html").readText()
-    val listOfFiles = File(URI("src/main/resources/countries").path).listFiles()
+
+   // val listOfFiles = File(URI("src/main/resources/countries").path).listFiles()
     val countries : MutableList<Country> = ArrayList()
-    for (file in listOfFiles) {
-        countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
-    }
+//    for (file in listOfFiles) {
+//        countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
+//    }
+
+    val url = Resources.getResource("countries/Russia.json")
+    val text = Resources.toString(url, Charsets.UTF_8)
+    countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
     return countries
 }
 
