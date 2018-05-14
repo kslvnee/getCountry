@@ -23,3 +23,21 @@ fun main(args: Array<out String>) {
     // [ResultCountry(country=USA, region=Florida, city=St. Petersburg)]
 }
 ```
+
+## Dependency
+
+Stable releases are hosted on [JCenter](https://bintray.com/bintray/jcenter).
+
+```xml
+<repository>
+  <id>jcenter</id>
+  <url>http://jcenter.bintray.com/</url>
+</repository>
+<!-- ... -->
+<dependency>
+  <groupId>com.github.getcoderio</groupId>
+  <artifactId>GetCountry</artifactId>
+  <version>0.1.5</version>
+  <type>pom</type>
+</dependency>
+```
