@@ -1,0 +1,374 @@
+{
+  "country_name" : "Ireland",
+  "country_synonyms" : [
+    "Ireland"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Carlow",
+      "region_synonyms" : [
+        "Carlow"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Carlow",
+          "city_synonyms" : [
+            "Carlow"
+          ]
+        },
+        {
+          "city_name" : "Muine Bheag",
+          "city_synonyms" : [
+            "Muine Bheag"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Cavan",
+      "region_synonyms" : [
+        "Cavan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cavan",
+          "city_synonyms" : [
+            "Cavan"
+          ]
+        },
+        {
+          "city_name" : "Cootehill",
+          "city_synonyms" : [
+            "Cootehill"
+          ]
+        },
+        {
+          "city_name" : "Belturbet",
+          "city_synonyms" : [
+            "Belturbet"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Clare",
+      "region_synonyms" : [
+        "Clare"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ennis",
+          "city_synonyms" : [
+            "Ennis"
+          ]
+        },
+        {
+          "city_name" : "Kilrush",
+          "city_synonyms" : [
+            "Kilrush"
+          ]
+        },
+        {
+          "city_name" : "Shannon",
+          "city_synonyms" : [
+            "Shannon"
+          ]
+        },
+        {
+          "city_name" : "Kilkee",
+          "city_synonyms" : [
+            "Kilkee"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Cork",
+      "region_synonyms" : [
+        "Cork"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cork",
+          "city_synonyms" : [
+            "Cork"
+          ]
+        },
+        {
+          "city_name" : "Cobh",
+          "city_synonyms" : [
+            "Cobh"
+          ]
+        },
+        {
+          "city_name" : "Midleton",
+          "city_synonyms" : [
+            "Midleton"
+          ]
+        },
+        {
+          "city_name" : "Mallow",
+          "city_synonyms" : [
+            "Mallow"
+          ]
+        },
+        {
+          "city_name" : "Youghal",
+          "city_synonyms" : [
+            "Youghal"
+          ]
+        },
+        {
+          "city_name" : "Fermoy",
+          "city_synonyms" : [
+            "Fermoy"
+          ]
+        },
+        {
+          "city_name" : "Kinsale",
+          "city_synonyms" : [
+            "Kinsale"
+          ]
+        },
+        {
+          "city_name" : "Clonakilty",
+          "city_synonyms" : [
+            "Clonakilty"
+          ]
+        },
+        {
+          "city_name" : "Macroom",
+          "city_synonyms" : [
+            "Macroom"
+          ]
+        },
+        {
+          "city_name" : "Skibbereen",
+          "city_synonyms" : [
+            "Skibbereen"
+          ]
+        },
+        {
+          "city_name" : "Bandon",
+          "city_synonyms" : [
+            "Bandon"
+          ]
+        },
+        {
+          "city_name" : "Passage West",
+          "city_synonyms" : [
+            "Passage West"
+          ]
+        },
+        {
+          "city_name" : "Bantry",
+          "city_synonyms" : [
+            "Bantry"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Donegal",
+      "region_synonyms" : [
+        "Donegal"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Letterkenny",
+          "city_synonyms" : [
+            "Letterkenny"
+          ]
+        },
+        {
+          "city_name" : "Buncrana",
+          "city_synonyms" : [
+            "Buncrana"
+          ]
+        },
+        {
+          "city_name" : "Bundoran",
+          "city_synonyms" : [
+            "Bundoran"
+          ]
+        },
+        {
+          "city_name" : "Ballyshannon",
+          "city_synonyms" : [
+            "Ballyshannon"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Dublin",
+      "region_synonyms" : [
+        "Dublin"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dublin",
+          "city_synonyms" : [
+            "Dublin"
+          ]
+        },
+        {
+          "city_name" : "Balbriggan",
+          "city_synonyms" : [
+            "Balbriggan"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Galway",
+      "region_synonyms" : [
+        "Galway"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Galway",
+          "city_synonyms" : [
+            "Galway"
+          ]
+        },
+        {
+          "city_name" : "Ballinasloe",
+          "city_synonyms" : [
+            "Ballinasloe"
+          ]
+        },
+        {
+          "city_name" : "Tuam",
+          "city_synonyms" : [
+            "Tuam"
+          ]
+        },
+        {
+          "city_name" : "Loughrea",
+          "city_synonyms" : [
+            "Loughrea"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kerry",
+      "region_synonyms" : [
+        "Kerry"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tralee",
+          "city_synonyms" : [
+            "Tralee"
+          ]
+        },
+        {
+          "city_name" : "Killarney",
+          "city_synonyms" : [
+            "Killarney"
+          ]
+        },
+        {
+          "city_name" : "Listowel",
+          "city_synonyms" : [
+            "Listowel"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kildare",
+      "region_synonyms" : [
+        "Kildare"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Naas",
+          "city_synonyms" : [
+            "Naas"
+          ]
+        },
+        {
+          "city_name" : "Athy",
+          "city_synonyms" : [
+            "Athy"
+          ]
+        },
+        {
+          "city_name" : "Newbridge",
+          "city_synonyms" : [
+            "Newbridge"
+          ]
+        },
+        {
+          "city_name" : "Leixlip",
+          "city_synonyms" : [
+            "Leixlip"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Limerick",
+      "region_synonyms" : [
+        "Limerick"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Limerick",
+          "city_synonyms" : [
+            "Limerick"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Longford",
+      "region_synonyms" : [
+        "Longford"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Longford",
+          "city_synonyms" : [
+            "Longford"
+          ]
+        },
+        {
+          "city_name" : "Granard",
+          "city_synonyms" : [
+            "Granard"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Louth",
+      "region_synonyms" : [
+        "Louth"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Drogheda",
+          "city_synonyms" : [
+            "Drogheda"
+          ]
+        },
+        {
+          "city_name" : "Dundalk",
+          "city_synonyms" : [
+            "Dundalk"
+          ]
+        },
+        {
+          "city_name" : "Ardee",
+          "city_synonyms" : [
+            "Ardee"
+          ]
+        }
+      ]
+    }
+  ]
+}

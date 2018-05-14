@@ -1,0 +1,626 @@
+{
+  "country_name" : "India",
+  "country_synonyms" : [
+    "India"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Andhra Pradesh",
+      "region_synonyms" : [
+        "Andhra Pradesh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Guntur",
+          "city_synonyms" : [
+            "Guntur"
+          ]
+        },
+        {
+          "city_name" : "Visakhapatnam",
+          "city_synonyms" : [
+            "Visakhapatnam"
+          ]
+        },
+        {
+          "city_name" : "Vijayawada",
+          "city_synonyms" : [
+            "Vijayawada"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Assam",
+      "region_synonyms" : [
+        "Assam"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Guwahati",
+          "city_synonyms" : [
+            "Guwahati"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bihar",
+      "region_synonyms" : [
+        "Bihar"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Patna",
+          "city_synonyms" : [
+            "Patna"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chandigarh",
+      "region_synonyms" : [
+        "Chandigarh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chandigarh",
+          "city_synonyms" : [
+            "Chandigarh"
+          ]
+        },
+        {
+          "city_name" : "Raipur",
+          "city_synonyms" : [
+            "Raipur"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chhattisgarh",
+      "region_synonyms" : [
+        "Chhattisgarh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bhilai",
+          "city_synonyms" : [
+            "Bhilai"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Delhi",
+      "region_synonyms" : [
+        "Delhi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Delhi",
+          "city_synonyms" : [
+            "Delhi"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Gujarat",
+      "region_synonyms" : [
+        "Gujarat"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ahmedabad",
+          "city_synonyms" : [
+            "Ahmedabad"
+          ]
+        },
+        {
+          "city_name" : "Rajkot",
+          "city_synonyms" : [
+            "Rajkot"
+          ]
+        },
+        {
+          "city_name" : "Surat",
+          "city_synonyms" : [
+            "Surat"
+          ]
+        },
+        {
+          "city_name" : "Vadodara",
+          "city_synonyms" : [
+            "Vadodara"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Haryana",
+      "region_synonyms" : [
+        "Haryana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Faridabad",
+          "city_synonyms" : [
+            "Faridabad"
+          ]
+        },
+        {
+          "city_name" : "Gurgaon",
+          "city_synonyms" : [
+            "Gurgaon"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Jammu and Kashmir",
+      "region_synonyms" : [
+        "Jammu and Kashmir"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Srinagar",
+          "city_synonyms" : [
+            "Srinagar"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Jharkhand",
+      "region_synonyms" : [
+        "Jharkhand"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dhanbad",
+          "city_synonyms" : [
+            "Dhanbad"
+          ]
+        },
+        {
+          "city_name" : "Jamshedpur",
+          "city_synonyms" : [
+            "Jamshedpur"
+          ]
+        },
+        {
+          "city_name" : "Ranchi",
+          "city_synonyms" : [
+            "Ranchi"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Karnataka",
+      "region_synonyms" : [
+        "Karnataka"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bangalore",
+          "city_synonyms" : [
+            "Bangalore"
+          ]
+        },
+        {
+          "city_name" : "Hubballi-Dharwad",
+          "city_synonyms" : [
+            "Hubballi-Dharwad"
+          ]
+        },
+        {
+          "city_name" : "Mysore",
+          "city_synonyms" : [
+            "Mysore"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kerala",
+      "region_synonyms" : [
+        "Kerala"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kochi",
+          "city_synonyms" : [
+            "Kochi"
+          ]
+        },
+        {
+          "city_name" : "Thiruvananthapuram",
+          "city_synonyms" : [
+            "Thiruvananthapuram"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Madhya Pradesh",
+      "region_synonyms" : [
+        "Madhya Pradesh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gwalior",
+          "city_synonyms" : [
+            "Gwalior"
+          ]
+        },
+        {
+          "city_name" : "Jabalpur",
+          "city_synonyms" : [
+            "Jabalpur"
+          ]
+        },
+        {
+          "city_name" : "Indore",
+          "city_synonyms" : [
+            "Indore"
+          ]
+        },
+        {
+          "city_name" : "Bhopal",
+          "city_synonyms" : [
+            "Bhopal"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Maharashtra",
+      "region_synonyms" : [
+        "Maharashtra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Amravati",
+          "city_synonyms" : [
+            "Amravati"
+          ]
+        },
+        {
+          "city_name" : "Aurangabad",
+          "city_synonyms" : [
+            "Aurangabad"
+          ]
+        },
+        {
+          "city_name" : "Bhiwandi",
+          "city_synonyms" : [
+            "Bhiwandi"
+          ]
+        },
+        {
+          "city_name" : "Kalyan-Dombivali",
+          "city_synonyms" : [
+            "Kalyan-Dombivali"
+          ]
+        },
+        {
+          "city_name" : "Mira-Bhayandar",
+          "city_synonyms" : [
+            "Mira-Bhayandar"
+          ]
+        },
+        {
+          "city_name" : "Mumbai",
+          "city_synonyms" : [
+            "Mumbai"
+          ]
+        },
+        {
+          "city_name" : "Nagpur",
+          "city_synonyms" : [
+            "Nagpur"
+          ]
+        },
+        {
+          "city_name" : "Nashik",
+          "city_synonyms" : [
+            "Nashik"
+          ]
+        },
+        {
+          "city_name" : "Navi Mumbai",
+          "city_synonyms" : [
+            "Navi Mumbai"
+          ]
+        },
+        {
+          "city_name" : "Pimpri-Chinchwad",
+          "city_synonyms" : [
+            "Pimpri-Chinchwad"
+          ]
+        },
+        {
+          "city_name" : "Pune",
+          "city_synonyms" : [
+            "Pune"
+          ]
+        },
+        {
+          "city_name" : "Solapur",
+          "city_synonyms" : [
+            "Solapur"
+          ]
+        },
+        {
+          "city_name" : "Thane",
+          "city_synonyms" : [
+            "Thane"
+          ]
+        },
+        {
+          "city_name" : "Vasai-Virar",
+          "city_synonyms" : [
+            "Vasai-Virar"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Odisha",
+      "region_synonyms" : [
+        "Odisha"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bhubaneswar",
+          "city_synonyms" : [
+            "Bhubaneswar"
+          ]
+        },
+        {
+          "city_name" : "Cuttack",
+          "city_synonyms" : [
+            "Cuttack"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Punjab",
+      "region_synonyms" : [
+        "Punjab"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Amritsar",
+          "city_synonyms" : [
+            "Amritsar"
+          ]
+        },
+        {
+          "city_name" : "Jalandhar",
+          "city_synonyms" : [
+            "Jalandhar"
+          ]
+        },
+        {
+          "city_name" : "Ludhiana",
+          "city_synonyms" : [
+            "Ludhiana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Rajasthan",
+      "region_synonyms" : [
+        "Rajasthan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bikaner",
+          "city_synonyms" : [
+            "Bikaner"
+          ]
+        },
+        {
+          "city_name" : "Jaipur",
+          "city_synonyms" : [
+            "Jaipur"
+          ]
+        },
+        {
+          "city_name" : "Jodhpur",
+          "city_synonyms" : [
+            "Jodhpur"
+          ]
+        },
+        {
+          "city_name" : "Kota",
+          "city_synonyms" : [
+            "Kota"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tamil Nadu",
+      "region_synonyms" : [
+        "Tamil Nadu"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chennai",
+          "city_synonyms" : [
+            "Chennai"
+          ]
+        },
+        {
+          "city_name" : "Coimbatore",
+          "city_synonyms" : [
+            "Coimbatore"
+          ]
+        },
+        {
+          "city_name" : "Madurai",
+          "city_synonyms" : [
+            "Madurai"
+          ]
+        },
+        {
+          "city_name" : "Salem",
+          "city_synonyms" : [
+            "Salem"
+          ]
+        },
+        {
+          "city_name" : "Tiruchirappalli",
+          "city_synonyms" : [
+            "Tiruchirappalli"
+          ]
+        },
+        {
+          "city_name" : "Tiruppur",
+          "city_synonyms" : [
+            "Tiruppur"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Telangana",
+      "region_synonyms" : [
+        "Telangana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hyderabad",
+          "city_synonyms" : [
+            "Hyderabad"
+          ]
+        },
+        {
+          "city_name" : "Warangal",
+          "city_synonyms" : [
+            "Warangal"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Uttar Pradesh",
+      "region_synonyms" : [
+        "Uttar Pradesh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Agra",
+          "city_synonyms" : [
+            "Agra"
+          ]
+        },
+        {
+          "city_name" : "Allahabad",
+          "city_synonyms" : [
+            "Allahabad"
+          ]
+        },
+        {
+          "city_name" : "Aligarh",
+          "city_synonyms" : [
+            "Aligarh"
+          ]
+        },
+        {
+          "city_name" : "Bareilly",
+          "city_synonyms" : [
+            "Bareilly"
+          ]
+        },
+        {
+          "city_name" : "Firozabad",
+          "city_synonyms" : [
+            "Firozabad"
+          ]
+        },
+        {
+          "city_name" : "Ghaziabad",
+          "city_synonyms" : [
+            "Ghaziabad"
+          ]
+        },
+        {
+          "city_name" : "Gorakhpur",
+          "city_synonyms" : [
+            "Gorakhpur"
+          ]
+        },
+        {
+          "city_name" : "Kanpur",
+          "city_synonyms" : [
+            "Kanpur"
+          ]
+        },
+        {
+          "city_name" : "Lucknow",
+          "city_synonyms" : [
+            "Lucknow"
+          ]
+        },
+        {
+          "city_name" : "Meerut",
+          "city_synonyms" : [
+            "Meerut"
+          ]
+        },
+        {
+          "city_name" : "Moradabad",
+          "city_synonyms" : [
+            "Moradabad"
+          ]
+        },
+        {
+          "city_name" : "Noida",
+          "city_synonyms" : [
+            "Noida"
+          ]
+        },
+        {
+          "city_name" : "Saharanpur",
+          "city_synonyms" : [
+            "Saharanpur"
+          ]
+        },
+        {
+          "city_name" : "Varanasi",
+          "city_synonyms" : [
+            "Varanasi"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "West Bengal",
+      "region_synonyms" : [
+        "West Bengal"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Howrah",
+          "city_synonyms" : [
+            "Howrah"
+          ]
+        },
+        {
+          "city_name" : "Kolkata",
+          "city_synonyms" : [
+            "Kolkata"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "country_name" : "Portugal",
+  "country_synonyms" : [
+    "Portugal"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Aveiro",
+      "region_synonyms" : [
+        "Aveiro"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Anadia",
+          "city_synonyms" : [
+            "Anadia"
+          ]
+        },
+        {
+          "city_name" : "Aveiro",
+          "city_synonyms" : [
+            "Aveiro"
+          ]
+        },
+        {
+          "city_name" : "Espinho",
+          "city_synonyms" : [
+            "Espinho"
+          ]
+        },
+        {
+          "city_name" : "Estarreja",
+          "city_synonyms" : [
+            "Estarreja"
+          ]
+        },
+        {
+          "city_name" : "Mealhada",
+          "city_synonyms" : [
+            "Mealhada"
+          ]
+        },
+        {
+          "city_name" : "Oliveira de Azeméis",
+          "city_synonyms" : [
+            "Oliveira de Azeméis"
+          ]
+        },
+        {
+          "city_name" : "Oliveira do Bairro",
+          "city_synonyms" : [
+            "Oliveira do Bairro"
+          ]
+        },
+        {
+          "city_name" : "Esmoriz",
+          "city_synonyms" : [
+            "Esmoriz"
+          ]
+        },
+        {
+          "city_name" : "Ovar",
+          "city_synonyms" : [
+            "Ovar"
+          ]
+        },
+        {
+          "city_name" : "Fiães",
+          "city_synonyms" : [
+            "Fiães"
+          ]
+        },
+        {
+          "city_name" : "Lourosa",
+          "city_synonyms" : [
+            "Lourosa"
+          ]
+        },
+        {
+          "city_name" : "Santa Maria da Feira",
+          "city_synonyms" : [
+            "Santa Maria da Feira"
+          ]
+        },
+        {
+          "city_name" : "São João da Madeira",
+          "city_synonyms" : [
+            "São João da Madeira"
+          ]
+        },
+        {
+          "city_name" : "Vale de Cambra",
+          "city_synonyms" : [
+            "Vale de Cambra"
+          ]
+        },
+        {
+          "city_name" : "Águeda",
+          "city_synonyms" : [
+            "Águeda"
+          ]
+        },
+        {
+          "city_name" : "Gafanha da Nazaré",
+          "city_synonyms" : [
+            "Gafanha da Nazaré"
+          ]
+        },
+        {
+          "city_name" : "Ílhavo",
+          "city_synonyms" : [
+            "Ílhavo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Azores",
+      "region_synonyms" : [
+        "Azores"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Angra do Heroísmo",
+          "city_synonyms" : [
+            "Angra do Heroísmo"
+          ]
+        },
+        {
+          "city_name" : "Horta",
+          "city_synonyms" : [
+            "Horta"
+          ]
+        },
+        {
+          "city_name" : "Ponta Delgada",
+          "city_synonyms" : [
+            "Ponta Delgada"
+          ]
+        },
+        {
+          "city_name" : "Praia da Vitória",
+          "city_synonyms" : [
+            "Praia da Vitória"
+          ]
+        },
+        {
+          "city_name" : "Ribeira Grande",
+          "city_synonyms" : [
+            "Ribeira Grande"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Beja",
+      "region_synonyms" : [
+        "Beja"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Beja",
+          "city_synonyms" : [
+            "Beja"
+          ]
+        },
+        {
+          "city_name" : "Moura",
+          "city_synonyms" : [
+            "Moura"
+          ]
+        },
+        {
+          "city_name" : "Serpa",
+          "city_synonyms" : [
+            "Serpa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Braga",
+      "region_synonyms" : [
+        "Braga"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Barcelos",
+          "city_synonyms" : [
+            "Barcelos"
+          ]
+        },
+        {
+          "city_name" : "Braga",
+          "city_synonyms" : [
+            "Braga"
+          ]
+        },
+        {
+          "city_name" : "Esposende",
+          "city_synonyms" : [
+            "Esposende"
+          ]
+        },
+        {
+          "city_name" : "Fafe",
+          "city_synonyms" : [
+            "Fafe"
+          ]
+        },
+        {
+          "city_name" : "Guimarães",
+          "city_synonyms" : [
+            "Guimarães"
+          ]
+        },
+        {
+          "city_name" : "Vila Nova de Famalicão",
+          "city_synonyms" : [
+            "Vila Nova de Famalicão"
+          ]
+        },
+        {
+          "city_name" : "Vizela",
+          "city_synonyms" : [
+            "Vizela"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bragança",
+      "region_synonyms" : [
+        "Bragança"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bragança",
+          "city_synonyms" : [
+            "Bragança"
+          ]
+        },
+        {
+          "city_name" : "Macedo de Cavaleiros",
+          "city_synonyms" : [
+            "Macedo de Cavaleiros"
+          ]
+        },
+        {
+          "city_name" : "Miranda do Douro",
+          "city_synonyms" : [
+            "Miranda do Douro"
+          ]
+        },
+        {
+          "city_name" : "Mirandela",
+          "city_synonyms" : [
+            "Mirandela"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Castelo Branco",
+      "region_synonyms" : [
+        "Castelo Branco"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Castelo Branco",
+          "city_synonyms" : [
+            "Castelo Branco"
+          ]
+        },
+        {
+          "city_name" : "Covilhã",
+          "city_synonyms" : [
+            "Covilhã"
+          ]
+        },
+        {
+          "city_name" : "Fundão",
+          "city_synonyms" : [
+            "Fundão"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Coimbra",
+      "region_synonyms" : [
+        "Coimbra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cantanhede",
+          "city_synonyms" : [
+            "Cantanhede"
+          ]
+        },
+        {
+          "city_name" : "Coimbra",
+          "city_synonyms" : [
+            "Coimbra"
+          ]
+        },
+        {
+          "city_name" : "Figueira da Foz",
+          "city_synonyms" : [
+            "Figueira da Foz"
+          ]
+        },
+        {
+          "city_name" : "Oliveira do Hospital",
+          "city_synonyms" : [
+            "Oliveira do Hospital"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Faro",
+      "region_synonyms" : [
+        "Faro"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Albufeira",
+          "city_synonyms" : [
+            "Albufeira"
+          ]
+        },
+        {
+          "city_name" : "Faro",
+          "city_synonyms" : [
+            "Faro"
+          ]
+        },
+        {
+          "city_name" : "Lagoa",
+          "city_synonyms" : [
+            "Lagoa"
+          ]
+        },
+        {
+          "city_name" : "Lagos",
+          "city_synonyms" : [
+            "Lagos"
+          ]
+        },
+        {
+          "city_name" : "Loulé",
+          "city_synonyms" : [
+            "Loulé"
+          ]
+        },
+        {
+          "city_name" : "Quarteira",
+          "city_synonyms" : [
+            "Quarteira"
+          ]
+        },
+        {
+          "city_name" : "Olhão",
+          "city_synonyms" : [
+            "Olhão"
+          ]
+        },
+        {
+          "city_name" : "Portimão",
+          "city_synonyms" : [
+            "Portimão"
+          ]
+        },
+        {
+          "city_name" : "Silves",
+          "city_synonyms" : [
+            "Silves"
+          ]
+        },
+        {
+          "city_name" : "Tavira",
+          "city_synonyms" : [
+            "Tavira"
+          ]
+        },
+        {
+          "city_name" : "Vila Real de Santo António",
+          "city_synonyms" : [
+            "Vila Real de Santo António"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Guarda",
+      "region_synonyms" : [
+        "Guarda"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gouveia",
+          "city_synonyms" : [
+            "Gouveia"
+          ]
+        },
+        {
+          "city_name" : "Guarda",
+          "city_synonyms" : [
+            "Guarda"
+          ]
+        },
+        {
+          "city_name" : "Mêda",
+          "city_synonyms" : [
+            "Mêda"
+          ]
+        },
+        {
+          "city_name" : "Pinhel",
+          "city_synonyms" : [
+            "Pinhel"
+          ]
+        },
+        {
+          "city_name" : "Sabugal",
+          "city_synonyms" : [
+            "Sabugal"
+          ]
+        },
+        {
+          "city_name" : "Seia",
+          "city_synonyms" : [
+            "Seia"
+          ]
+        },
+        {
+          "city_name" : "Trancoso",
+          "city_synonyms" : [
+            "Trancoso"
+          ]
+        },
+        {
+          "city_name" : "Vila Nova de Foz Côa",
+          "city_synonyms" : [
+            "Vila Nova de Foz Côa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Leiria",
+      "region_synonyms" : [
+        "Leiria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alcobaça",
+          "city_synonyms" : [
+            "Alcobaça"
+          ]
+        },
+        {
+          "city_name" : "Caldas da Rainha",
+          "city_synonyms" : [
+            "Caldas da Rainha"
+          ]
+        },
+        {
+          "city_name" : "Leiria",
+          "city_synonyms" : [
+            "Leiria"
+          ]
+        },
+        {
+          "city_name" : "Marinha Grande",
+          "city_synonyms" : [
+            "Marinha Grande"
+          ]
+        },
+        {
+          "city_name" : "Peniche",
+          "city_synonyms" : [
+            "Peniche"
+          ]
+        },
+        {
+          "city_name" : "Pombal",
+          "city_synonyms" : [
+            "Pombal"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lisbon",
+      "region_synonyms" : [
+        "Lisbon"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Amadora",
+          "city_synonyms" : [
+            "Amadora"
+          ]
+        },
+        {
+          "city_name" : "Lisbon",
+          "city_synonyms" : [
+            "Lisbon"
+          ]
+        },
+        {
+          "city_name" : "Loures",
+          "city_synonyms" : [
+            "Loures"
+          ]
+        },
+        {
+          "city_name" : "Sacavém",
+          "city_synonyms" : [
+            "Sacavém"
+          ]
+        },
+        {
+          "city_name" : "Odivelas",
+          "city_synonyms" : [
+            "Odivelas"
+          ]
+        },
+        {
+          "city_name" : "Agualva-Cacém",
+          "city_synonyms" : [
+            "Agualva-Cacém"
+          ]
+        },
+        {
+          "city_name" : "Queluz",
+          "city_synonyms" : [
+            "Queluz"
+          ]
+        },
+        {
+          "city_name" : "Torres Vedras",
+          "city_synonyms" : [
+            "Torres Vedras"
+          ]
+        },
+        {
+          "city_name" : "Póvoa de Santa Iria",
+          "city_synonyms" : [
+            "Póvoa de Santa Iria"
+          ]
+        },
+        {
+          "city_name" : "Vila Franca de Xira",
+          "city_synonyms" : [
+            "Vila Franca de Xira"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Madeira",
+      "region_synonyms" : [
+        "Madeira"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Câmara de Lobos",
+          "city_synonyms" : [
+            "Câmara de Lobos"
+          ]
+        },
+        {
+          "city_name" : "Funchal",
+          "city_synonyms" : [
+            "Funchal"
+          ]
+        },
+        {
+          "city_name" : "Machico",
+          "city_synonyms" : [
+            "Machico"
+          ]
+        },
+        {
+          "city_name" : "Vila Baleira",
+          "city_synonyms" : [
+            "Vila Baleira"
+          ]
+        },
+        {
+          "city_name" : "Caniço",
+          "city_synonyms" : [
+            "Caniço"
+          ]
+        },
+        {
+          "city_name" : "Santa Cruz",
+          "city_synonyms" : [
+            "Santa Cruz"
+          ]
+        },
+        {
+          "city_name" : "Santana",
+          "city_synonyms" : [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Portalegre",
+      "region_synonyms" : [
+        "Portalegre"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Elvas",
+          "city_synonyms" : [
+            "Elvas"
+          ]
+        },
+        {
+          "city_name" : "Ponte de Sor",
+          "city_synonyms" : [
+            "Ponte de Sor"
+          ]
+        },
+        {
+          "city_name" : "Portalegre",
+          "city_synonyms" : [
+            "Portalegre"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Porto",
+      "region_synonyms" : [
+        "Porto"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alfena",
+          "city_synonyms" : [
+            "Alfena"
+          ]
+        },
+        {
+          "city_name" : "Amarante",
+          "city_synonyms" : [
+            "Amarante"
+          ]
+        },
+        {
+          "city_name" : "Felgueiras",
+          "city_synonyms" : [
+            "Felgueiras"
+          ]
+        },
+        {
+          "city_name" : "Lixa",
+          "city_synonyms" : [
+            "Lixa"
+          ]
+        },
+        {
+          "city_name" : "Gondomar",
+          "city_synonyms" : [
+            "Gondomar"
+          ]
+        },
+        {
+          "city_name" : "Valbom",
+          "city_synonyms" : [
+            "Valbom"
+          ]
+        },
+        {
+          "city_name" : "Maia",
+          "city_synonyms" : [
+            "Maia"
+          ]
+        },
+        {
+          "city_name" : "Marco de Canaveses",
+          "city_synonyms" : [
+            "Marco de Canaveses"
+          ]
+        },
+        {
+          "city_name" : "Matosinhos",
+          "city_synonyms" : [
+            "Matosinhos"
+          ]
+        },
+        {
+          "city_name" : "São Mamede de Infesta",
+          "city_synonyms" : [
+            "São Mamede de Infesta"
+          ]
+        },
+        {
+          "city_name" : "Gandra",
+          "city_synonyms" : [
+            "Gandra"
+          ]
+        },
+        {
+          "city_name" : "Paredes",
+          "city_synonyms" : [
+            "Paredes"
+          ]
+        },
+        {
+          "city_name" : "Rebordosa",
+          "city_synonyms" : [
+            "Rebordosa"
+          ]
+        },
+        {
+          "city_name" : "São Salvador de Lordelo",
+          "city_synonyms" : [
+            "São Salvador de Lordelo"
+          ]
+        },
+        {
+          "city_name" : "Freamunde",
+          "city_synonyms" : [
+            "Freamunde"
+          ]
+        },
+        {
+          "city_name" : "Paços de Ferreira",
+          "city_synonyms" : [
+            "Paços de Ferreira"
+          ]
+        },
+        {
+          "city_name" : "Penafiel",
+          "city_synonyms" : [
+            "Penafiel"
+          ]
+        },
+        {
+          "city_name" : "Porto",
+          "city_synonyms" : [
+            "Porto"
+          ]
+        },
+        {
+          "city_name" : "Póvoa de Varzim",
+          "city_synonyms" : [
+            "Póvoa de Varzim"
+          ]
+        },
+        {
+          "city_name" : "Ermesinde",
+          "city_synonyms" : [
+            "Ermesinde"
+          ]
+        },
+        {
+          "city_name" : "Vila Nova de Gaia",
+          "city_synonyms" : [
+            "Vila Nova de Gaia"
+          ]
+        },
+        {
+          "city_name" : "Trofa",
+          "city_synonyms" : [
+            "Trofa"
+          ]
+        },
+        {
+          "city_name" : "Trofa",
+          "city_synonyms" : [
+            "Trofa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Santarém",
+      "region_synonyms" : [
+        "Santarém"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Abrantes",
+          "city_synonyms" : [
+            "Abrantes"
+          ]
+        },
+        {
+          "city_name" : "Almeirim",
+          "city_synonyms" : [
+            "Almeirim"
+          ]
+        },
+        {
+          "city_name" : "Cartaxo",
+          "city_synonyms" : [
+            "Cartaxo"
+          ]
+        },
+        {
+          "city_name" : "Entroncamento",
+          "city_synonyms" : [
+            "Entroncamento"
+          ]
+        },
+        {
+          "city_name" : "Fátima",
+          "city_synonyms" : [
+            "Fátima"
+          ]
+        },
+        {
+          "city_name" : "Ourém",
+          "city_synonyms" : [
+            "Ourém"
+          ]
+        },
+        {
+          "city_name" : "Santarém",
+          "city_synonyms" : [
+            "Santarém"
+          ]
+        },
+        {
+          "city_name" : "Santarém",
+          "city_synonyms" : [
+            "Santarém"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Setúbal",
+      "region_synonyms" : [
+        "Setúbal"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Almada",
+          "city_synonyms" : [
+            "Almada"
+          ]
+        },
+        {
+          "city_name" : "Barreiro",
+          "city_synonyms" : [
+            "Barreiro"
+          ]
+        },
+        {
+          "city_name" : "Montijo",
+          "city_synonyms" : [
+            "Montijo"
+          ]
+        },
+        {
+          "city_name" : "Amora",
+          "city_synonyms" : [
+            "Amora"
+          ]
+        },
+        {
+          "city_name" : "Setúbal",
+          "city_synonyms" : [
+            "Setúbal"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vila Real",
+      "region_synonyms" : [
+        "Vila Real"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chaves",
+          "city_synonyms" : [
+            "Chaves"
+          ]
+        },
+        {
+          "city_name" : "Peso da Régua",
+          "city_synonyms" : [
+            "Peso da Régua"
+          ]
+        },
+        {
+          "city_name" : "Valpaços",
+          "city_synonyms" : [
+            "Valpaços"
+          ]
+        },
+        {
+          "city_name" : "Vila Real",
+          "city_synonyms" : [
+            "Vila Real"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Viseu",
+      "region_synonyms" : [
+        "Viseu"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lamego",
+          "city_synonyms" : [
+            "Lamego"
+          ]
+        },
+        {
+          "city_name" : "Mangualde",
+          "city_synonyms" : [
+            "Mangualde"
+          ]
+        },
+        {
+          "city_name" : "Santa Comba Dão",
+          "city_synonyms" : [
+            "Santa Comba Dão"
+          ]
+        },
+        {
+          "city_name" : "Tondela",
+          "city_synonyms" : [
+            "Tondela"
+          ]
+        },
+        {
+          "city_name" : "Viseu",
+          "city_synonyms" : [
+            "Viseu"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Évora",
+      "region_synonyms" : [
+        "Évora"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Évora",
+          "city_synonyms" : [
+            "Évora"
+          ]
+        }
+      ]
+    }
+  ]
+}

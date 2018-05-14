@@ -1,0 +1,22 @@
+{
+  "country_name" : "Argentina",
+  "country_synonyms" : [
+    "Argentina"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Buenos Aires",
+      "region_synonyms" : [
+        "Buenos Aires"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Buenos Aires",
+          "city_synonyms" : [
+            "Buenos Aires"
+          ]
+        }
+      ]
+    }
+  ]
+}

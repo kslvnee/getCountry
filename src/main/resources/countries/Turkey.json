@@ -1,0 +1,22 @@
+{
+  "country_name" : "Turkey",
+  "country_synonyms" : [
+    "Turkey"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Istanbul",
+      "region_synonyms" : [
+        "Istanbul"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Istanbul",
+          "city_synonyms" : [
+            "Istanbul"
+          ]
+        }
+      ]
+    }
+  ]
+}

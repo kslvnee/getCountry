@@ -1,0 +1,456 @@
+{
+  "country_name" : "France",
+  "country_synonyms" : [
+    "France"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Auvergne-Rhône-Alpes",
+      "region_synonyms" : [
+        "Auvergne-Rhône-Alpes"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lyon",
+          "city_synonyms" : [
+            "Lyon"
+          ]
+        },
+        {
+          "city_name" : "Saint-Étienne",
+          "city_synonyms" : [
+            "Saint-Étienne"
+          ]
+        },
+        {
+          "city_name" : "Grenoble",
+          "city_synonyms" : [
+            "Grenoble"
+          ]
+        },
+        {
+          "city_name" : "Clermont-Ferrand",
+          "city_synonyms" : [
+            "Clermont-Ferrand"
+          ]
+        },
+        {
+          "city_name" : "Villeurbanne",
+          "city_synonyms" : [
+            "Villeurbanne"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bourgogne-Franche-Comté",
+      "region_synonyms" : [
+        "Bourgogne-Franche-Comté"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dijon",
+          "city_synonyms" : [
+            "Dijon"
+          ]
+        },
+        {
+          "city_name" : "Besançon",
+          "city_synonyms" : [
+            "Besançon"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Brittany",
+      "region_synonyms" : [
+        "Brittany"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Rennes",
+          "city_synonyms" : [
+            "Rennes"
+          ]
+        },
+        {
+          "city_name" : "Brest",
+          "city_synonyms" : [
+            "Brest"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Centre-Val de Loire",
+      "region_synonyms" : [
+        "Centre-Val de Loire"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tours",
+          "city_synonyms" : [
+            "Tours"
+          ]
+        },
+        {
+          "city_name" : "Orléans",
+          "city_synonyms" : [
+            "Orléans"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Grand Est",
+      "region_synonyms" : [
+        "Grand Est"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Strasbourg",
+          "city_synonyms" : [
+            "Strasbourg"
+          ]
+        },
+        {
+          "city_name" : "Reims",
+          "city_synonyms" : [
+            "Reims"
+          ]
+        },
+        {
+          "city_name" : "Metz",
+          "city_synonyms" : [
+            "Metz"
+          ]
+        },
+        {
+          "city_name" : "Mulhouse",
+          "city_synonyms" : [
+            "Mulhouse"
+          ]
+        },
+        {
+          "city_name" : "Nancy",
+          "city_synonyms" : [
+            "Nancy"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Hauts-de-France",
+      "region_synonyms" : [
+        "Hauts-de-France"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lille",
+          "city_synonyms" : [
+            "Lille"
+          ]
+        },
+        {
+          "city_name" : "Amiens",
+          "city_synonyms" : [
+            "Amiens"
+          ]
+        },
+        {
+          "city_name" : "Roubaix",
+          "city_synonyms" : [
+            "Roubaix"
+          ]
+        },
+        {
+          "city_name" : "Tourcoing",
+          "city_synonyms" : [
+            "Tourcoing"
+          ]
+        },
+        {
+          "city_name" : "Calais",
+          "city_synonyms" : [
+            "Calais"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Martinique",
+      "region_synonyms" : [
+        "Martinique"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Fort-de-France",
+          "city_synonyms" : [
+            "Fort-de-France"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Normandy",
+      "region_synonyms" : [
+        "Normandy"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Le Havre",
+          "city_synonyms" : [
+            "Le Havre"
+          ]
+        },
+        {
+          "city_name" : "Caen",
+          "city_synonyms" : [
+            "Caen"
+          ]
+        },
+        {
+          "city_name" : "Rouen",
+          "city_synonyms" : [
+            "Rouen"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nouvelle-Aquitaine",
+      "region_synonyms" : [
+        "Nouvelle-Aquitaine"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bordeaux",
+          "city_synonyms" : [
+            "Bordeaux"
+          ]
+        },
+        {
+          "city_name" : "Limoges",
+          "city_synonyms" : [
+            "Limoges"
+          ]
+        },
+        {
+          "city_name" : "Poitiers",
+          "city_synonyms" : [
+            "Poitiers"
+          ]
+        },
+        {
+          "city_name" : "Pau",
+          "city_synonyms" : [
+            "Pau"
+          ]
+        },
+        {
+          "city_name" : "La Rochelle",
+          "city_synonyms" : [
+            "La Rochelle"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Occitanie",
+      "region_synonyms" : [
+        "Occitanie"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Toulouse",
+          "city_synonyms" : [
+            "Toulouse"
+          ]
+        },
+        {
+          "city_name" : "Montpellier",
+          "city_synonyms" : [
+            "Montpellier"
+          ]
+        },
+        {
+          "city_name" : "Nîmes",
+          "city_synonyms" : [
+            "Nîmes"
+          ]
+        },
+        {
+          "city_name" : "Perpignan",
+          "city_synonyms" : [
+            "Perpignan"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pays de la Loire",
+      "region_synonyms" : [
+        "Pays de la Loire"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Nantes",
+          "city_synonyms" : [
+            "Nantes"
+          ]
+        },
+        {
+          "city_name" : "Angers",
+          "city_synonyms" : [
+            "Angers"
+          ]
+        },
+        {
+          "city_name" : "Le Mans",
+          "city_synonyms" : [
+            "Le Mans"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Provence-Alpes-Côte d'Azur",
+      "region_synonyms" : [
+        "Provence-Alpes-Côte d'Azur"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Marseille",
+          "city_synonyms" : [
+            "Marseille"
+          ]
+        },
+        {
+          "city_name" : "Nice",
+          "city_synonyms" : [
+            "Nice"
+          ]
+        },
+        {
+          "city_name" : "Toulon",
+          "city_synonyms" : [
+            "Toulon"
+          ]
+        },
+        {
+          "city_name" : "Aix-en-Provence",
+          "city_synonyms" : [
+            "Aix-en-Provence"
+          ]
+        },
+        {
+          "city_name" : "Avignon",
+          "city_synonyms" : [
+            "Avignon"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Réunion",
+      "region_synonyms" : [
+        "Réunion"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Saint-Denis",
+          "city_synonyms" : [
+            "Saint-Denis"
+          ]
+        },
+        {
+          "city_name" : "Saint-Paul",
+          "city_synonyms" : [
+            "Saint-Paul"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Île-de-France",
+      "region_synonyms" : [
+        "Île-de-France"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Paris",
+          "city_synonyms" : [
+            "Paris"
+          ]
+        },
+        {
+          "city_name" : "Boulogne-Billancourt",
+          "city_synonyms" : [
+            "Boulogne-Billancourt"
+          ]
+        },
+        {
+          "city_name" : "Argenteuil",
+          "city_synonyms" : [
+            "Argenteuil"
+          ]
+        },
+        {
+          "city_name" : "Montreuil",
+          "city_synonyms" : [
+            "Montreuil"
+          ]
+        },
+        {
+          "city_name" : "Saint-Denis",
+          "city_synonyms" : [
+            "Saint-Denis"
+          ]
+        },
+        {
+          "city_name" : "Versailles",
+          "city_synonyms" : [
+            "Versailles"
+          ]
+        },
+        {
+          "city_name" : "Nanterre",
+          "city_synonyms" : [
+            "Nanterre"
+          ]
+        },
+        {
+          "city_name" : "Créteil",
+          "city_synonyms" : [
+            "Créteil"
+          ]
+        },
+        {
+          "city_name" : "Aulnay-sous-Bois",
+          "city_synonyms" : [
+            "Aulnay-sous-Bois"
+          ]
+        },
+        {
+          "city_name" : "Vitry-sur-Seine",
+          "city_synonyms" : [
+            "Vitry-sur-Seine"
+          ]
+        },
+        {
+          "city_name" : "Colombes",
+          "city_synonyms" : [
+            "Colombes"
+          ]
+        },
+        {
+          "city_name" : "Asnières-sur-Seine",
+          "city_synonyms" : [
+            "Asnières-sur-Seine"
+          ]
+        }
+      ]
+    }
+  ]
+}

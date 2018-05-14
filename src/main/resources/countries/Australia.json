@@ -1,0 +1,22 @@
+{
+  "country_name" : "Australia",
+  "country_synonyms" : [
+    "Australia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "New South Wales",
+      "region_synonyms" : [
+        "New South Wales"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sydney",
+          "city_synonyms" : [
+            "Sydney"
+          ]
+        }
+      ]
+    }
+  ]
+}

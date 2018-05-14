@@ -1,0 +1,62 @@
+{
+  "country_name" : "Thailand",
+  "country_synonyms" : [
+    "Thailand"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bangkok",
+      "region_synonyms" : [
+        "Bangkok"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bangkok",
+          "city_synonyms" : [
+            "Bangkok"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chiang Mai",
+      "region_synonyms" : [
+        "Chiang Mai"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chiang Mai",
+          "city_synonyms" : [
+            "Chiang Mai"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Surat Thani",
+      "region_synonyms" : [
+        "Surat Thani"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ko Samui",
+          "city_synonyms" : [
+            "Ko Samui"
+          ]
+        },
+        {
+          "city_name" : "Surat Thani",
+          "city_synonyms" : [
+            "Surat Thani"
+          ]
+        },
+        {
+          "city_name" : "Koh Phangan",
+          "city_synonyms" : [
+            "Koh Phangan"
+          ]
+        }
+      ]
+    }
+  ]
+}

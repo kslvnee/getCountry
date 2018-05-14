@@ -1,0 +1,22 @@
+{
+  "country_name" : "Croatia",
+  "country_synonyms" : [
+    "Croatia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Istra",
+      "region_synonyms" : [
+        "Istra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Labin",
+          "city_synonyms" : [
+            "Labin"
+          ]
+        }
+      ]
+    }
+  ]
+}

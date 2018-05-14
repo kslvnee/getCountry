@@ -1,0 +1,22 @@
+{
+  "country_name" : "Sweden",
+  "country_synonyms" : [
+    "Sweden"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Stockholm",
+      "region_synonyms" : [
+        "Stockholm"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Stockholm",
+          "city_synonyms" : [
+            "Stockholm"
+          ]
+        }
+      ]
+    }
+  ]
+}

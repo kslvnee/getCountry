@@ -1,0 +1,719 @@
+{
+  "country_name" : "Poland",
+  "country_synonyms" : [
+    "Poland"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Greater Poland",
+      "region_synonyms" : [
+        "Greater Poland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Poznań",
+          "city_synonyms" : [
+            "Poznań",
+            "Poznan"
+          ]
+        },
+        {
+          "city_name" : "Kalisz",
+          "city_synonyms" : [
+            "Kalisz"
+          ]
+        },
+        {
+          "city_name" : "Konin",
+          "city_synonyms" : [
+            "Konin"
+          ]
+        },
+        {
+          "city_name" : "Piła",
+          "city_synonyms" : [
+            "Piła",
+            "Pila"
+          ]
+        },
+        {
+          "city_name" : "Ostrów Wielkopolski",
+          "city_synonyms" : [
+            "Ostrów Wielkopolski",
+            "Ostrow Wielkopolski"
+          ]
+        },
+        {
+          "city_name" : "Gniezno",
+          "city_synonyms" : [
+            "Gniezno"
+          ]
+        },
+        {
+          "city_name" : "Leszno",
+          "city_synonyms" : [
+            "Leszno"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kuyavian Pomeranian",
+      "region_synonyms" : [
+        "Kuyavian Pomeranian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bydgoszcz",
+          "city_synonyms" : [
+            "Bydgoszcz"
+          ]
+        },
+        {
+          "city_name" : "Toruń",
+          "city_synonyms" : [
+            "Toruń",
+            "Torun"
+          ]
+        },
+        {
+          "city_name" : "Włocławek",
+          "city_synonyms" : [
+            "Włocławek",
+            "Wloclawek"
+          ]
+        },
+        {
+          "city_name" : "Grudziądz",
+          "city_synonyms" : [
+            "Grudziądz",
+            "Grudziadz"
+          ]
+        },
+        {
+          "city_name" : "Inowrocław",
+          "city_synonyms" : [
+            "Inowrocław",
+            "Inowroclaw"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lesser Poland",
+      "region_synonyms" : [
+        "Lesser Poland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kraków",
+          "city_synonyms" : [
+            "Kraków",
+            "Krakow",
+            "Cracow"
+          ]
+        },
+        {
+          "city_name" : "Tarnów",
+          "city_synonyms" : [
+            "Tarnów",
+            "Tarnow"
+          ]
+        },
+        {
+          "city_name" : "Nowy Sącz",
+          "city_synonyms" : [
+            "Nowy Sącz",
+            "Nowy Sacz"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lower Silesian",
+      "region_synonyms" : [
+        "Lower Silesian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Wrocław",
+          "city_synonyms" : [
+            "Wrocław",
+            "Wroclaw"
+          ]
+        },
+        {
+          "city_name" : "Wałbrzych",
+          "city_synonyms" : [
+            "Wałbrzych",
+            "Walbrzych"
+          ]
+        },
+        {
+          "city_name" : "Legnica",
+          "city_synonyms" : [
+            "Legnica"
+          ]
+        },
+        {
+          "city_name" : "Jelenia Góra",
+          "city_synonyms" : [
+            "Jelenia Góra",
+            "Jelenia Gora"
+          ]
+        },
+        {
+          "city_name" : "Lubin",
+          "city_synonyms" : [
+            "Lubin"
+          ]
+        },
+        {
+          "city_name" : "Głogów",
+          "city_synonyms" : [
+            "Głogów",
+            "Glogow"
+          ]
+        },
+        {
+          "city_name" : "Świdnica",
+          "city_synonyms" : [
+            "Świdnica",
+            "Swidnica"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lublin",
+      "region_synonyms" : [
+        "Lublin"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lublin",
+          "city_synonyms" : [
+            "Lublin"
+          ]
+        },
+        {
+          "city_name" : "Chełm",
+          "city_synonyms" : [
+            "Chełm",
+            "Chelm"
+          ]
+        },
+        {
+          "city_name" : "Zamość",
+          "city_synonyms" : [
+            "Zamość",
+            "Zamosc"
+          ]
+        },
+        {
+          "city_name" : "Biała Podlaska",
+          "city_synonyms" : [
+            "Biała Podlaska",
+            "Biala Podlaska"
+          ]
+        },
+        {
+          "city_name" : "Puławy",
+          "city_synonyms" : [
+            "Puławy",
+            "Pulawy"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lubusz",
+      "region_synonyms" : [
+        "Lubusz"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gorzów Wielkopolski",
+          "city_synonyms" : [
+            "Gorzów Wielkopolski",
+            "Gorzow Wielkopolski"
+          ]
+        },
+        {
+          "city_name" : "Zielona Góra",
+          "city_synonyms" : [
+            "Zielona Góra",
+            "Zielona Gora"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Masovian",
+      "region_synonyms" : [
+        "Masovian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Warsaw",
+          "city_synonyms" : [
+            "Warsaw"
+          ]
+        },
+        {
+          "city_name" : "Radom",
+          "city_synonyms" : [
+            "Radom"
+          ]
+        },
+        {
+          "city_name" : "Płock",
+          "city_synonyms" : [
+            "Płock",
+            "Plock"
+          ]
+        },
+        {
+          "city_name" : "Siedlce",
+          "city_synonyms" : [
+            "Siedlce"
+          ]
+        },
+        {
+          "city_name" : "Pruszków",
+          "city_synonyms" : [
+            "Pruszków",
+            "Pruszkow"
+          ]
+        },
+        {
+          "city_name" : "Ostrołęka",
+          "city_synonyms" : [
+            "Ostrołęka",
+            "Ostroleka"
+          ]
+        },
+        {
+          "city_name" : "Legionowo",
+          "city_synonyms" : [
+            "Legionowo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Opole",
+      "region_synonyms" : [
+        "Opole"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Opole",
+          "city_synonyms" : [
+            "Opole"
+          ]
+        },
+        {
+          "city_name" : "Kędzierzyn-Koźle",
+          "city_synonyms" : [
+            "Kędzierzyn-Koźle",
+            "Kedzierzyn-Kozle"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Podkarpackie",
+      "region_synonyms" : [
+        "Podkarpackie"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Rzeszów",
+          "city_synonyms" : [
+            "Rzeszów",
+            "Rzeszow"
+          ]
+        },
+        {
+          "city_name" : "Przemyśl",
+          "city_synonyms" : [
+            "Przemyśl",
+            "Przemysl"
+          ]
+        },
+        {
+          "city_name" : "Stalowa Wola",
+          "city_synonyms" : [
+            "Stalowa Wola"
+          ]
+        },
+        {
+          "city_name" : "Mielec",
+          "city_synonyms" : [
+            "Mielec"
+          ]
+        },
+        {
+          "city_name" : "Tarnobrzeg",
+          "city_synonyms" : [
+            "Tarnobrzeg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Podlaskie",
+      "region_synonyms" : [
+        "Podlaskie"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Białystok",
+          "city_synonyms" : [
+            "Białystok",
+            "Bialystok"
+          ]
+        },
+        {
+          "city_name" : "Suwałki",
+          "city_synonyms" : [
+            "Suwałki",
+            "Suwalki"
+          ]
+        },
+        {
+          "city_name" : "Łomża",
+          "city_synonyms" : [
+            "Łomża",
+            "Lomza"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pomeranian",
+      "region_synonyms" : [
+        "Pomeranian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gdańsk",
+          "city_synonyms" : [
+            "Gdańsk",
+            "Gdansk"
+          ]
+        },
+        {
+          "city_name" : "Gdynia",
+          "city_synonyms" : [
+            "Gdynia"
+          ]
+        },
+        {
+          "city_name" : "Słupsk",
+          "city_synonyms" : [
+            "Slupsk"
+          ]
+        },
+        {
+          "city_name" : "Tczew",
+          "city_synonyms" : [
+            "Tczew"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Silesian",
+      "region_synonyms" : [
+        "Silesian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Katowice",
+          "city_synonyms" : [
+            "Katowice"
+          ]
+        },
+        {
+          "city_name" : "Częstochowa",
+          "city_synonyms" : [
+            "Czestochowa"
+          ]
+        },
+        {
+          "city_name" : "Sosnowiec",
+          "city_synonyms" : [
+            "Sosnowiec"
+          ]
+        },
+        {
+          "city_name" : "Gliwice",
+          "city_synonyms" : [
+            "Gliwice"
+          ]
+        },
+        {
+          "city_name" : "Zabrze",
+          "city_synonyms" : [
+            "Zabrze"
+          ]
+        },
+        {
+          "city_name" : "Bytom",
+          "city_synonyms" : [
+            "Bytom"
+          ]
+        },
+        {
+          "city_name" : "Bielsko-Biała",
+          "city_synonyms" : [
+            "Bielsko-Biała",
+            "Bielsko-Biala"
+          ]
+        },
+        {
+          "city_name" : "Ruda Śląska",
+          "city_synonyms" : [
+            "Ruda Śląska",
+            "Ruda Slaska"
+          ]
+        },
+        {
+          "city_name" : "Rybnik",
+          "city_synonyms" : [
+            "Rybnik"
+          ]
+        },
+        {
+          "city_name" : "Tychy",
+          "city_synonyms" : [
+            "Tychy"
+          ]
+        },
+        {
+          "city_name" : "Dąbrowa Górnicza",
+          "city_synonyms" : [
+            "Dąbrowa Górnicza",
+            "Dabrowa Gornicza"
+          ]
+        },
+        {
+          "city_name" : "Chorzów",
+          "city_synonyms" : [
+            "Chorzów",
+            "Chorzow"
+          ]
+        },
+        {
+          "city_name" : "Jaworzno",
+          "city_synonyms" : [
+            "Jaworzno"
+          ]
+        },
+        {
+          "city_name" : "Jastrzębie Zdrój",
+          "city_synonyms" : [
+            "Jastrzębie Zdrój",
+            "Jastrzebie Zdroj"
+          ]
+        },
+        {
+          "city_name" : "Mysłowice",
+          "city_synonyms" : [
+            "Mysłowice",
+            "Myslowice"
+          ]
+        },
+        {
+          "city_name" : "Siemianowice Śląskie",
+          "city_synonyms" : [
+            "Siemianowice Śląskie",
+            "Siemianowice Slaskie"
+          ]
+        },
+        {
+          "city_name" : "Żory",
+          "city_synonyms" : [
+            "Żory",
+            "Zory"
+          ]
+        },
+        {
+          "city_name" : "Tarnowskie Góry",
+          "city_synonyms" : [
+            "Tarnowskie Góry",
+            "Tarnowskie Gory"
+          ]
+        },
+        {
+          "city_name" : "Piekary Śląskie",
+          "city_synonyms" : [
+            "Piekary Śląskie",
+            "Piekary Sląskie"
+          ]
+        },
+        {
+          "city_name" : "Będzin",
+          "city_synonyms" : [
+            "Będzin",
+            "Bedzin"
+          ]
+        },
+        {
+          "city_name" : "Racibórz",
+          "city_synonyms" : [
+            "Racibórz",
+            "Raciborz"
+          ]
+        },
+        {
+          "city_name" : "Świętochłowice",
+          "city_synonyms" : [
+            "Świętochłowice",
+            "Swietochlowice"
+          ]
+        },
+        {
+          "city_name" : "Zawiercie",
+          "city_synonyms" : [
+            "Zawiercie"
+          ]
+        },
+        {
+          "city_name" : "Wodzisław Śląski",
+          "city_synonyms" : [
+            "Wodzislaw Slaski"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Warmian-Masurian",
+      "region_synonyms" : [
+        "Warmian-Masurian"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Olsztyn",
+          "city_synonyms" : [
+            "Olsztyn"
+          ]
+        },
+        {
+          "city_name" : "Elbląg",
+          "city_synonyms" : [
+            "Elbląg",
+            "Elblag"
+          ]
+        },
+        {
+          "city_name" : "Ełk",
+          "city_synonyms" : [
+            "Ełk"
+          ]
+        },
+        {
+          "city_name" : "Szczecin",
+          "city_synonyms" : [
+            "Szczecin"
+          ]
+        },
+        {
+          "city_name" : "Koszalin",
+          "city_synonyms" : [
+            "Koszalin"
+          ]
+        },
+        {
+          "city_name" : "Stargard",
+          "city_synonyms" : [
+            "Stargard"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lodz",
+      "region_synonyms" : [
+        "Łódź"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Łódź",
+          "city_synonyms" : [
+            "Łódź",
+            "Lodz"
+          ]
+        },
+        {
+          "city_name" : "Piotrków Trybunalski",
+          "city_synonyms" : [
+            "Piotrków Trybunalski",
+            "Piotrkow Trybunalski"
+          ]
+        },
+        {
+          "city_name" : "Pabianice",
+          "city_synonyms" : [
+            "Pabianice"
+          ]
+        },
+        {
+          "city_name" : "Tomaszów Mazowiecki",
+          "city_synonyms" : [
+            "Tomaszów Mazowiecki",
+            "Tomaszow Mazowiecki"
+          ]
+        },
+        {
+          "city_name" : "Bełchatów",
+          "city_synonyms" : [
+            "Bełchatów",
+            "Belchatow"
+          ]
+        },
+        {
+          "city_name" : "Zgierz",
+          "city_synonyms" : [
+            "Zgierz"
+          ]
+        },
+        {
+          "city_name" : "Radomsko",
+          "city_synonyms" : [
+            "Radomsko"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Świętokrzyskie",
+      "region_synonyms" : [
+        "Świętokrzyskie"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kielce",
+          "city_synonyms" : [
+            "Kielce"
+          ]
+        },
+        {
+          "city_name" : "Ostrowiec Świętokrzyski",
+          "city_synonyms" : [
+            "Ostrowiec Świętokrzyski",
+            "Ostrowiec Swiętokrzyski"
+          ]
+        },
+        {
+          "city_name" : "Starachowice",
+          "city_synonyms" : [
+            "Starachowice"
+          ]
+        }
+      ]
+    }
+  ]
+}

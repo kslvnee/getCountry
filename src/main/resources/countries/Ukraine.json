@@ -1,0 +1,626 @@
+{
+  "country_name" : "Ukraine",
+  "country_synonyms" : [
+    "Ukraine"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Cherkassy oblast",
+      "region_synonyms" : [
+        "Cherkassy oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cherkassy",
+          "city_synonyms" : [
+            "Cherkassy",
+            "Cherkasy"
+          ]
+        },
+        {
+          "city_name" : "Uman",
+          "city_synonyms" : [
+            "Uman"
+          ]
+        },
+        {
+          "city_name" : "Smela",
+          "city_synonyms" : [
+            "Smela",
+            "Smila"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chernigov oblast",
+      "region_synonyms" : [
+        "Chernigov oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chernigov",
+          "city_synonyms" : [
+            "Chernigov",
+            "Chernihiv",
+            "Chernigiv",
+            "Chernihov"
+          ]
+        },
+        {
+          "city_name" : "Nezhin",
+          "city_synonyms" : [
+            "Nezhin",
+            "Nizhyn",
+            "Nezhyn",
+            "Nejin"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chernovtsy oblast",
+      "region_synonyms" : [
+        "Chernovtsy oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Chernovtsy",
+          "city_synonyms" : [
+            "Chernovtsy",
+            "Chernivtsi",
+            "Chernivtsy"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Dnepropetrovsk oblast",
+      "region_synonyms" : [
+        "Dnepropetrovsk oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dnepropetrovsk",
+          "city_synonyms" : [
+            "Dnepropetrovsk",
+            "Dnipropetrovsk"
+          ]
+        },
+        {
+          "city_name" : "Krivoy Rog",
+          "city_synonyms" : [
+            "Krivoy Rog",
+            "Kryvyi Rih",
+            "Kryvyi Rig",
+            "Krivoy Roh"
+          ]
+        },
+        {
+          "city_name" : "Dneprodzerzhinsk",
+          "city_synonyms" : [
+            "Dneprodzerzhinsk",
+            "Dniprodzerzhynsk",
+            "Dneprodzerjinsk",
+            "Dneprodzerzhynsk"
+          ]
+        },
+        {
+          "city_name" : "Nikopol",
+          "city_synonyms" : [
+            "Nikopol"
+          ]
+        },
+        {
+          "city_name" : "Pavlograd",
+          "city_synonyms" : [
+            "Pavlograd",
+            "Pavlohrad"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Donetsk oblast",
+      "region_synonyms" : [
+        "Donetsk oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Donetsk",
+          "city_synonyms" : [
+            "Donetsk"
+          ]
+        },
+        {
+          "city_name" : "Mariupol",
+          "city_synonyms" : [
+            "Mariupol"
+          ]
+        },
+        {
+          "city_name" : "Makeevka",
+          "city_synonyms" : [
+            "Makeevka",
+            "Makiivka"
+          ]
+        },
+        {
+          "city_name" : "Gorlovka",
+          "city_synonyms" : [
+            "Gorlovka",
+            "Horlivka",
+            "Gorlivka",
+            "Horlovka"
+          ]
+        },
+        {
+          "city_name" : "Kramatorsk",
+          "city_synonyms" : [
+            "Kramatorsk"
+          ]
+        },
+        {
+          "city_name" : "Slavyansk",
+          "city_synonyms" : [
+            "Slavyansk",
+            "Sloviansk"
+          ]
+        },
+        {
+          "city_name" : "Enakievo",
+          "city_synonyms" : [
+            "Enakievo",
+            "Yenakiieve",
+            "Enakieve",
+            "Yenakievo"
+          ]
+        },
+        {
+          "city_name" : "Konstantinovka",
+          "city_synonyms" : [
+            "Konstantinovka",
+            "Kostiantynivka",
+            "Kostiatynivka",
+            "Kostyantinivka"
+          ]
+        },
+        {
+          "city_name" : "Artyomovsk",
+          "city_synonyms" : [
+            "Artyomovsk",
+            "Artemivsk",
+            "Artemovsk"
+          ]
+        },
+        {
+          "city_name" : "Torez",
+          "city_synonyms" : [
+            "Torez"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ivano-Frankivsk oblast",
+      "region_synonyms" : [
+        "Ivano-Frankivsk oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ivano-Frankivsk",
+          "city_synonyms" : [
+            "Ivano-Frankivsk",
+            "Ivano-Frankivsk",
+            "Ivanofrankovsk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kharkov oblast",
+      "region_synonyms" : [
+        "Kharkov oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kharkov",
+          "city_synonyms" : [
+            "Kharkov",
+            "Kharkiv",
+            "Harkov",
+            "Harkiv"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kherson oblast",
+      "region_synonyms" : [
+        "Kherson oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kherson",
+          "city_synonyms" : [
+            "Kherson"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Khmelnitsky oblast",
+      "region_synonyms" : [
+        "Khmelnitsky oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Khmelnitsky",
+          "city_synonyms" : [
+            "Khmelnitsky",
+            "Khmelnytskyi",
+            "Khmelnitskiy"
+          ]
+        },
+        {
+          "city_name" : "Kamenets-Podolskiy",
+          "city_synonyms" : [
+            "Kamenets-Podolskiy",
+            "Kamianets-Podilskyi",
+            "Kamenets-Podilsky",
+            "Kamianets-Podilsky",
+            "Kamenets-Podolsky"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kiev",
+      "region_synonyms" : [
+        "Kiev"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kiev",
+          "city_synonyms" : [
+            "Kyiv",
+            "Kyiv"
+          ]
+        },
+        {
+          "city_name" : "Belaya Tserkov",
+          "city_synonyms" : [
+            "Belaya Tserkov",
+            "Bila Tserkva",
+            "Bela Tserkov"
+          ]
+        },
+        {
+          "city_name" : "Brovary",
+          "city_synonyms" : [
+            "Brovary"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kirovograd oblast",
+      "region_synonyms" : [
+        "Kirovograd oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kirovograd",
+          "city_synonyms" : [
+            "Kirovograd",
+            "Kirovohrad"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lugansk oblast",
+      "region_synonyms" : [
+        "Lugansk oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lugansk",
+          "city_synonyms" : [
+            "Lugansk",
+            "Luhansk"
+          ]
+        },
+        {
+          "city_name" : "Lisichansk",
+          "city_synonyms" : [
+            "Lisichansk",
+            "Lysychansk",
+            "Lisychansk"
+          ]
+        },
+        {
+          "city_name" : "Severodonetsk",
+          "city_synonyms" : [
+            "Severodonetsk",
+            "Sieverodonetsk"
+          ]
+        },
+        {
+          "city_name" : "Alchevsk",
+          "city_synonyms" : [
+            "Alchevsk"
+          ]
+        },
+        {
+          "city_name" : "Krasnyy Luch",
+          "city_synonyms" : [
+            "Krasnyy Luch",
+            "Krasnyi Luch",
+            "Krasniy Luch"
+          ]
+        },
+        {
+          "city_name" : "Stakhanov",
+          "city_synonyms" : [
+            "Stakhanov"
+          ]
+        },
+        {
+          "city_name" : "Sverdlovsk",
+          "city_synonyms" : [
+            "Sverdlovsk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lvov oblast",
+      "region_synonyms" : [
+        "Lvov oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lvov",
+          "city_synonyms" : [
+            "Lvov",
+            "Lviv",
+            "Lwow",
+            "Lwov"
+          ]
+        },
+        {
+          "city_name" : "Drogobych",
+          "city_synonyms" : [
+            "Drogobych",
+            "Drohobych"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nikolaev oblast",
+      "region_synonyms" : [
+        "Nikolaev oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Nikolaev",
+          "city_synonyms" : [
+            "Nikolaev",
+            "Mykolaiv",
+            "Mykolaev"
+          ]
+        },
+        {
+          "city_name" : "Pervomaysk",
+          "city_synonyms" : [
+            "Pervomaysk",
+            "Pervomaisk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Odessa oblast",
+      "region_synonyms" : [
+        "Odessa oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Odessa",
+          "city_synonyms" : [
+            "Odessa",
+            "Odesa"
+          ]
+        },
+        {
+          "city_name" : "Izmail",
+          "city_synonyms" : [
+            "Izmail"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Poltava oblast",
+      "region_synonyms" : [
+        "Poltava oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Poltava",
+          "city_synonyms" : [
+            "Poltava"
+          ]
+        },
+        {
+          "city_name" : "Kremenchug",
+          "city_synonyms" : [
+            "Kremenchug",
+            "Kremenchuk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Rovno oblast",
+      "region_synonyms" : [
+        "Rovno oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Rovno",
+          "city_synonyms" : [
+            "Rovno",
+            "Rivne"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Sumy oblast",
+      "region_synonyms" : [
+        "Sumy oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sumy",
+          "city_synonyms" : [
+            "Sumy"
+          ]
+        },
+        {
+          "city_name" : "Shostka",
+          "city_synonyms" : [
+            "Shostka"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ternopol oblast",
+      "region_synonyms" : [
+        "Ternopol oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ternopol",
+          "city_synonyms" : [
+            "Ternopol",
+            "Ternopil"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vinnitsa oblast",
+      "region_synonyms" : [
+        "Vinnitsa oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vinnitsa",
+          "city_synonyms" : [
+            "Vinnitsa",
+            "Vinnytsia",
+            "Винница"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Volyn oblast",
+      "region_synonyms" : [
+        "Volyn oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lutsk",
+          "city_synonyms" : [
+            "Lutsk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Zakarpattia oblast",
+      "region_synonyms" : [
+        "Zakarpattia oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Uzhgorod",
+          "city_synonyms" : [
+            "Uzhgorod",
+            "Uzhhorod"
+          ]
+        },
+        {
+          "city_name" : "Mukachevo",
+          "city_synonyms" : [
+            "Mukachevo",
+            "Mukacheve"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Zaporozhye oblast",
+      "region_synonyms" : [
+        "Zaporozhye oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Zaporozhye",
+          "city_synonyms" : [
+            "Zaporozhye",
+            "Zaporizhzhya",
+            "Zaporizhya",
+            "Zaporizhia",
+            "Zaporoj'e"
+          ]
+        },
+        {
+          "city_name" : "Melitopol",
+          "city_synonyms" : [
+            "Melitopol"
+          ]
+        },
+        {
+          "city_name" : "Berdyansk",
+          "city_synonyms" : [
+            "Berdyansk",
+            "Berdiansk",
+            "Berdansk"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Zhitomir oblast",
+      "region_synonyms" : [
+        "Zhitomir oblast"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Zhitomir",
+          "city_synonyms" : [
+            "Zhitomir",
+            "Zhytomyr",
+            "Zhitomyr",
+            "Zhytomir"
+          ]
+        },
+        {
+          "city_name" : "Berdichev",
+          "city_synonyms" : [
+            "Berdichev",
+            "Berdychiv",
+            "Berdichiv"
+          ]
+        }
+      ]
+    }
+  ]
+}

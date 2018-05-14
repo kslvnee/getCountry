@@ -1,0 +1,28 @@
+{
+  "country_name" : "Netherlands",
+  "country_synonyms" : [
+    "Netherlands"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Groningen",
+      "region_synonyms" : [
+        "Groningen"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Geleen",
+          "city_synonyms" : [
+            "Geleen"
+          ]
+        },
+        {
+          "city_name" : "Warffum",
+          "city_synonyms" : [
+            "Warffum"
+          ]
+        }
+      ]
+    }
+  ]
+}

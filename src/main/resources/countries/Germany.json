@@ -1,0 +1,247 @@
+{
+  "country_name" : "Germany",
+  "country_synonyms" : [
+    "Germany"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Baden-Württemberg",
+      "region_synonyms" : [
+        "Baden-Württemberg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Stuttgart",
+          "city_synonyms" : [
+            "Stuttgart"
+          ]
+        },
+        {
+          "city_name" : "Walldorf",
+          "city_synonyms" : [
+            "Walldorf"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bavaria",
+      "region_synonyms" : [
+        "Bavaria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Munich",
+          "city_synonyms" : [
+            "Munich"
+          ]
+        },
+        {
+          "city_name" : "Unterföhring",
+          "city_synonyms" : [
+            "Unterföhring"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Berlin",
+      "region_synonyms" : [
+        "Berlin"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Berlin",
+          "city_synonyms" : [
+            "Berlin"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Brandenburg",
+      "region_synonyms" : [
+        "Brandenburg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Potsdam",
+          "city_synonyms" : [
+            "Potsdam"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bremen",
+      "region_synonyms" : [
+        "Bremen"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bremen",
+          "city_synonyms" : [
+            "Bremen"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Hamburg",
+      "region_synonyms" : [
+        "Hamburg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hamburg",
+          "city_synonyms" : [
+            "Hamburg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Hesse",
+      "region_synonyms" : [
+        "Hesse"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Wiesbaden",
+          "city_synonyms" : [
+            "Wiesbaden"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lower Saxony",
+      "region_synonyms" : [
+        "Lower Saxony"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hanover",
+          "city_synonyms" : [
+            "Hanover",
+            "Hannover"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Mecklenburg-Vorpommern",
+      "region_synonyms" : [
+        "Mecklenburg-Vorpommern"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Schwerin",
+          "city_synonyms" : [
+            "Schwerin"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North Rhine-Westphalia",
+      "region_synonyms" : [
+        "North Rhine-Westphalia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Düsseldorf",
+          "city_synonyms" : [
+            "Düsseldorf",
+            "Dusseldorf",
+            "Duesseldorf"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Rhineland-Palatinate",
+      "region_synonyms" : [
+        "Rhineland-Palatinate"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Mainz",
+          "city_synonyms" : [
+            "Mainz"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Saarland",
+      "region_synonyms" : [
+        "Saarland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Saarbrücken",
+          "city_synonyms" : [
+            "Saarbrücken"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Saxony",
+      "region_synonyms" : [
+        "Saxony"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dresden",
+          "city_synonyms" : [
+            "Dresden"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Saxony-Anhalt",
+      "region_synonyms" : [
+        "Saxony-Anhalt"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Magdeburg",
+          "city_synonyms" : [
+            "Magdeburg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Schleswig-Holstein",
+      "region_synonyms" : [
+        "Schleswig-Holstein"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kiel",
+          "city_synonyms" : [
+            "Kiel"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Thuringia",
+      "region_synonyms" : [
+        "Thuringia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Erfurt",
+          "city_synonyms" : [
+            "Erfurt"
+          ]
+        }
+      ]
+    }
+  ]
+}

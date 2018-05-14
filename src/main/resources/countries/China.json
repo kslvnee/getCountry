@@ -1,0 +1,22 @@
+{
+  "country_name" : "China",
+  "country_synonyms" : [
+    "China"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Hong Kong",
+      "region_synonyms" : [
+        "Hong Kong"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hong Kong",
+          "city_synonyms" : [
+            "Hong Kong"
+          ]
+        }
+      ]
+    }
+  ]
+}

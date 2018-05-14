@@ -1,0 +1,652 @@
+{
+  "country_name" : "Finland",
+  "country_synonyms" : [
+    "Finland"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Aland Islands",
+      "region_synonyms" : [
+        "Aland Islands"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Mariehamn",
+          "city_synonyms" : [
+            "Mariehamn"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central Finland",
+      "region_synonyms" : [
+        "Central Finland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Keuruu",
+          "city_synonyms" : [
+            "Keuruu"
+          ]
+        },
+        {
+          "city_name" : "Viitasaari",
+          "city_synonyms" : [
+            "Viitasaari"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central Ostrobothnia",
+      "region_synonyms" : [
+        "Central Ostrobothnia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kannus",
+          "city_synonyms" : [
+            "Kannus"
+          ]
+        },
+        {
+          "city_name" : "Kokkola",
+          "city_synonyms" : [
+            "Kokkola"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kainuu",
+      "region_synonyms" : [
+        "Kainuu"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kajaani",
+          "city_synonyms" : [
+            "Kajaani"
+          ]
+        },
+        {
+          "city_name" : "Kuhmo",
+          "city_synonyms" : [
+            "Kuhmo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kymenlaakso",
+      "region_synonyms" : [
+        "Kymenlaakso"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hamina",
+          "city_synonyms" : [
+            "Hamina"
+          ]
+        },
+        {
+          "city_name" : "Kotka",
+          "city_synonyms" : [
+            "Kotka"
+          ]
+        },
+        {
+          "city_name" : "Kouvola",
+          "city_synonyms" : [
+            "Kouvola"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lapland",
+      "region_synonyms" : [
+        "Lapland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kemi",
+          "city_synonyms" : [
+            "Kemi"
+          ]
+        },
+        {
+          "city_name" : "Rovaniemi",
+          "city_synonyms" : [
+            "Rovaniemi"
+          ]
+        },
+        {
+          "city_name" : "Tornio",
+          "city_synonyms" : [
+            "Tornio"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North Karelia",
+      "region_synonyms" : [
+        "North Karelia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Joensuu",
+          "city_synonyms" : [
+            "Joensuu"
+          ]
+        },
+        {
+          "city_name" : "Kitee",
+          "city_synonyms" : [
+            "Kitee"
+          ]
+        },
+        {
+          "city_name" : "Lieksa",
+          "city_synonyms" : [
+            "Lieksa"
+          ]
+        },
+        {
+          "city_name" : "Nurmes",
+          "city_synonyms" : [
+            "Nurmes"
+          ]
+        },
+        {
+          "city_name" : "Outokumpu",
+          "city_synonyms" : [
+            "Outokumpu"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Northern Ostrobothnia",
+      "region_synonyms" : [
+        "Northern Ostrobothnia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Haapavesi",
+          "city_synonyms" : [
+            "Haapavesi"
+          ]
+        },
+        {
+          "city_name" : "Haukipudas",
+          "city_synonyms" : [
+            "Haukipudas"
+          ]
+        },
+        {
+          "city_name" : "Kalajoki",
+          "city_synonyms" : [
+            "Kalajoki"
+          ]
+        },
+        {
+          "city_name" : "Kuusamo",
+          "city_synonyms" : [
+            "Kuusamo"
+          ]
+        },
+        {
+          "city_name" : "Nivala",
+          "city_synonyms" : [
+            "Nivala"
+          ]
+        },
+        {
+          "city_name" : "Oulainen",
+          "city_synonyms" : [
+            "Oulainen"
+          ]
+        },
+        {
+          "city_name" : "Oulu",
+          "city_synonyms" : [
+            "Oulu"
+          ]
+        },
+        {
+          "city_name" : "Raahe",
+          "city_synonyms" : [
+            "Raahe"
+          ]
+        },
+        {
+          "city_name" : "Ylivieska",
+          "city_synonyms" : [
+            "Ylivieska"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Northern Savonia",
+      "region_synonyms" : [
+        "Northern Savonia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Iisalmi",
+          "city_synonyms" : [
+            "Iisalmi"
+          ]
+        },
+        {
+          "city_name" : "Juankoski",
+          "city_synonyms" : [
+            "Juankoski"
+          ]
+        },
+        {
+          "city_name" : "Kiuruvesi",
+          "city_synonyms" : [
+            "Kiuruvesi"
+          ]
+        },
+        {
+          "city_name" : "Kuopio",
+          "city_synonyms" : [
+            "Kuopio"
+          ]
+        },
+        {
+          "city_name" : "Suonenjoki",
+          "city_synonyms" : [
+            "Suonenjoki"
+          ]
+        },
+        {
+          "city_name" : "Varkaus",
+          "city_synonyms" : [
+            "Varkaus"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ostrobothnia",
+      "region_synonyms" : [
+        "Ostrobothnia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kaskinen",
+          "city_synonyms" : [
+            "Kaskinen"
+          ]
+        },
+        {
+          "city_name" : "Vaasa",
+          "city_synonyms" : [
+            "Vaasa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Paijanne Tavastia",
+      "region_synonyms" : [
+        "Paijanne Tavastia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Heinola",
+          "city_synonyms" : [
+            "Heinola"
+          ]
+        },
+        {
+          "city_name" : "Lahti",
+          "city_synonyms" : [
+            "Lahti"
+          ]
+        },
+        {
+          "city_name" : "Orimattila",
+          "city_synonyms" : [
+            "Orimattila"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pirkanmaa",
+      "region_synonyms" : [
+        "Pirkanmaa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Akaa",
+          "city_synonyms" : [
+            "Akaa"
+          ]
+        },
+        {
+          "city_name" : "Ikaalinen",
+          "city_synonyms" : [
+            "Ikaalinen"
+          ]
+        },
+        {
+          "city_name" : "Nokia",
+          "city_synonyms" : [
+            "Nokia"
+          ]
+        },
+        {
+          "city_name" : "Orivesi",
+          "city_synonyms" : [
+            "Orivesi"
+          ]
+        },
+        {
+          "city_name" : "Parkano",
+          "city_synonyms" : [
+            "Parkano"
+          ]
+        },
+        {
+          "city_name" : "Sastamala",
+          "city_synonyms" : [
+            "Sastamala"
+          ]
+        },
+        {
+          "city_name" : "Tampere",
+          "city_synonyms" : [
+            "Tampere"
+          ]
+        },
+        {
+          "city_name" : "Valkeakoski",
+          "city_synonyms" : [
+            "Valkeakoski"
+          ]
+        },
+        {
+          "city_name" : "Virrat",
+          "city_synonyms" : [
+            "Virrat"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Satakunta",
+      "region_synonyms" : [
+        "Satakunta"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Harjavalta",
+          "city_synonyms" : [
+            "Harjavalta"
+          ]
+        },
+        {
+          "city_name" : "Huittinen",
+          "city_synonyms" : [
+            "Huittinen"
+          ]
+        },
+        {
+          "city_name" : "Pori",
+          "city_synonyms" : [
+            "Pori"
+          ]
+        },
+        {
+          "city_name" : "Rauma",
+          "city_synonyms" : [
+            "Rauma"
+          ]
+        },
+        {
+          "city_name" : "Ulvila",
+          "city_synonyms" : [
+            "Ulvila"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South Karelia",
+      "region_synonyms" : [
+        "South Karelia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Imatra",
+          "city_synonyms" : [
+            "Imatra"
+          ]
+        },
+        {
+          "city_name" : "Lappeenranta",
+          "city_synonyms" : [
+            "Lappeenranta"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Southern Ostrobothnia",
+      "region_synonyms" : [
+        "Southern Ostrobothnia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alajarvi",
+          "city_synonyms" : [
+            "Alajarvi"
+          ]
+        },
+        {
+          "city_name" : "Alavus",
+          "city_synonyms" : [
+            "Alavus"
+          ]
+        },
+        {
+          "city_name" : "Kauhajoki",
+          "city_synonyms" : [
+            "Kauhajoki"
+          ]
+        },
+        {
+          "city_name" : "Kauhava",
+          "city_synonyms" : [
+            "Kauhava"
+          ]
+        },
+        {
+          "city_name" : "Kurikka",
+          "city_synonyms" : [
+            "Kurikka"
+          ]
+        },
+        {
+          "city_name" : "Lapua",
+          "city_synonyms" : [
+            "Lapua"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Southern Savonia",
+      "region_synonyms" : [
+        "Southern Savonia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Savonlinna",
+          "city_synonyms" : [
+            "Savonlinna"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Southwest Finland",
+      "region_synonyms" : [
+        "Southwest Finland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kaarina",
+          "city_synonyms" : [
+            "Kaarina"
+          ]
+        },
+        {
+          "city_name" : "Laitila",
+          "city_synonyms" : [
+            "Laitila"
+          ]
+        },
+        {
+          "city_name" : "Loimaa",
+          "city_synonyms" : [
+            "Loimaa"
+          ]
+        },
+        {
+          "city_name" : "Naantali",
+          "city_synonyms" : [
+            "Naantali"
+          ]
+        },
+        {
+          "city_name" : "Paimio",
+          "city_synonyms" : [
+            "Paimio"
+          ]
+        },
+        {
+          "city_name" : "Raisio",
+          "city_synonyms" : [
+            "Raisio"
+          ]
+        },
+        {
+          "city_name" : "Salo",
+          "city_synonyms" : [
+            "Salo"
+          ]
+        },
+        {
+          "city_name" : "Somero",
+          "city_synonyms" : [
+            "Somero"
+          ]
+        },
+        {
+          "city_name" : "Turku",
+          "city_synonyms" : [
+            "Turku"
+          ]
+        },
+        {
+          "city_name" : "Uusikaupunki",
+          "city_synonyms" : [
+            "Uusikaupunki"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tavastia Proper",
+      "region_synonyms" : [
+        "Tavastia Proper"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Forssa",
+          "city_synonyms" : [
+            "Forssa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Uusimaa",
+      "region_synonyms" : [
+        "Uusimaa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Espoo",
+          "city_synonyms" : [
+            "Espoo"
+          ]
+        },
+        {
+          "city_name" : "Hanko",
+          "city_synonyms" : [
+            "Hanko"
+          ]
+        },
+        {
+          "city_name" : "Helsinki",
+          "city_synonyms" : [
+            "Helsinki"
+          ]
+        },
+        {
+          "city_name" : "Karkkila",
+          "city_synonyms" : [
+            "Karkkila"
+          ]
+        },
+        {
+          "city_name" : "Kauniainen",
+          "city_synonyms" : [
+            "Kauniainen"
+          ]
+        },
+        {
+          "city_name" : "Kerava",
+          "city_synonyms" : [
+            "Kerava"
+          ]
+        },
+        {
+          "city_name" : "Lohja",
+          "city_synonyms" : [
+            "Lohja"
+          ]
+        },
+        {
+          "city_name" : "Porvoo",
+          "city_synonyms" : [
+            "Porvoo"
+          ]
+        },
+        {
+          "city_name" : "Siuntio",
+          "city_synonyms" : [
+            "Siuntio"
+          ]
+        },
+        {
+          "city_name" : "Vantaa",
+          "city_synonyms" : [
+            "Vantaa"
+          ]
+        }
+      ]
+    }
+  ]
+}

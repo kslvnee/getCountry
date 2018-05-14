@@ -1,0 +1,522 @@
+{
+  "country_name" : "UK",
+  "country_synonyms" : [
+    "United Kingdom",
+    "UnitedKingdom",
+    "UK"
+  ],
+  "regions" : [
+    {
+      "region_name" : "East Midlands",
+      "region_synonyms" : [
+        "East Midlands"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Derby",
+          "city_synonyms" : [
+            "Derby"
+          ]
+        },
+        {
+          "city_name" : "Leiceste",
+          "city_synonyms" : [
+            "Leiceste"
+          ]
+        },
+        {
+          "city_name" : "Lincoln",
+          "city_synonyms" : [
+            "Lincoln"
+          ]
+        },
+        {
+          "city_name" : "Nottingham",
+          "city_synonyms" : [
+            "Nottingham"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "East of England",
+      "region_synonyms" : [
+        "East of England"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cambridge",
+          "city_synonyms" : [
+            "Cambridge"
+          ]
+        },
+        {
+          "city_name" : "Chelmsford",
+          "city_synonyms" : [
+            "Chelmsford"
+          ]
+        },
+        {
+          "city_name" : "Ely",
+          "city_synonyms" : [
+            "Ely"
+          ]
+        },
+        {
+          "city_name" : "Norwich",
+          "city_synonyms" : [
+            "Norwich"
+          ]
+        },
+        {
+          "city_name" : "Peterborough",
+          "city_synonyms" : [
+            "Peterborough"
+          ]
+        },
+        {
+          "city_name" : "St Albans",
+          "city_synonyms" : [
+            "St Albans"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "London",
+      "region_synonyms" : [
+        "London"
+      ],
+      "cities" : [
+        {
+          "city_name" : "London",
+          "city_synonyms" : [
+            "London"
+          ]
+        },
+        {
+          "city_name" : "Westminster",
+          "city_synonyms" : [
+            "Westminster"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North East",
+      "region_synonyms" : [
+        "North East"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Durham",
+          "city_synonyms" : [
+            "Durham"
+          ]
+        },
+        {
+          "city_name" : "Newcastle upon Tyne",
+          "city_synonyms" : [
+            "Newcastle upon Tyne",
+            "Newcastle-upon-Tyne",
+            "Newcastle-upon-tyne"
+          ]
+        },
+        {
+          "city_name" : "Sunderland",
+          "city_synonyms" : [
+            "Sunderland"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North West",
+      "region_synonyms" : [
+        "North West"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Carlisle",
+          "city_synonyms" : [
+            "Carlisle"
+          ]
+        },
+        {
+          "city_name" : "Chester",
+          "city_synonyms" : [
+            "Chester"
+          ]
+        },
+        {
+          "city_name" : "Lancaster",
+          "city_synonyms" : [
+            "Lancaster"
+          ]
+        },
+        {
+          "city_name" : "Liverpool",
+          "city_synonyms" : [
+            "Liverpool"
+          ]
+        },
+        {
+          "city_name" : "Manchester",
+          "city_synonyms" : [
+            "Manchester"
+          ]
+        },
+        {
+          "city_name" : "Preston",
+          "city_synonyms" : [
+            "Preston"
+          ]
+        },
+        {
+          "city_name" : "Salford",
+          "city_synonyms" : [
+            "Salford"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Northern Ireland",
+      "region_synonyms" : [
+        "Northern Ireland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Armagh",
+          "city_synonyms" : [
+            "Armagh"
+          ]
+        },
+        {
+          "city_name" : "Belfast",
+          "city_synonyms" : [
+            "Belfast"
+          ]
+        },
+        {
+          "city_name" : "Derry",
+          "city_synonyms" : [
+            "Derry"
+          ]
+        },
+        {
+          "city_name" : "Lisburn",
+          "city_synonyms" : [
+            "Lisburn"
+          ]
+        },
+        {
+          "city_name" : "Newry",
+          "city_synonyms" : [
+            "Newry"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Scotland",
+      "region_synonyms" : [
+        "Scotland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aberdeen",
+          "city_synonyms" : [
+            "Aberdeen"
+          ]
+        },
+        {
+          "city_name" : "Dundee",
+          "city_synonyms" : [
+            "Dundee"
+          ]
+        },
+        {
+          "city_name" : "Edinburgh",
+          "city_synonyms" : [
+            "Edinburgh"
+          ]
+        },
+        {
+          "city_name" : "Glasgow",
+          "city_synonyms" : [
+            "Glasgow"
+          ]
+        },
+        {
+          "city_name" : "Inverness",
+          "city_synonyms" : [
+            "Inverness"
+          ]
+        },
+        {
+          "city_name" : "Perth",
+          "city_synonyms" : [
+            "Perth"
+          ]
+        },
+        {
+          "city_name" : "Stirling",
+          "city_synonyms" : [
+            "Stirling"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South East",
+      "region_synonyms" : [
+        "South East"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brighton & Hove",
+          "city_synonyms" : [
+            "Brighton & Hove"
+          ]
+        },
+        {
+          "city_name" : "Canterbury",
+          "city_synonyms" : [
+            "Canterbury"
+          ]
+        },
+        {
+          "city_name" : "Chichester",
+          "city_synonyms" : [
+            "Chichester"
+          ]
+        },
+        {
+          "city_name" : "Oxford",
+          "city_synonyms" : [
+            "Oxford"
+          ]
+        },
+        {
+          "city_name" : "Portsmouth",
+          "city_synonyms" : [
+            "Portsmouth"
+          ]
+        },
+        {
+          "city_name" : "Southampton",
+          "city_synonyms" : [
+            "Southampton"
+          ]
+        },
+        {
+          "city_name" : "Winchester",
+          "city_synonyms" : [
+            "Winchester"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South West",
+      "region_synonyms" : [
+        "SSouth West"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bath",
+          "city_synonyms" : [
+            "Bath"
+          ]
+        },
+        {
+          "city_name" : "Bristol",
+          "city_synonyms" : [
+            "Bristol"
+          ]
+        },
+        {
+          "city_name" : "Exeter",
+          "city_synonyms" : [
+            "Exeter"
+          ]
+        },
+        {
+          "city_name" : "Gloucester",
+          "city_synonyms" : [
+            "Gloucester"
+          ]
+        },
+        {
+          "city_name" : "Plymouth",
+          "city_synonyms" : [
+            "Plymouth"
+          ]
+        },
+        {
+          "city_name" : "Salisbury",
+          "city_synonyms" : [
+            "Salisbury"
+          ]
+        },
+        {
+          "city_name" : "Truro",
+          "city_synonyms" : [
+            "Truro"
+          ]
+        },
+        {
+          "city_name" : "Wells",
+          "city_synonyms" : [
+            "Wells"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Wales",
+      "region_synonyms" : [
+        "Wales"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bangor",
+          "city_synonyms" : [
+            "Bangor"
+          ]
+        },
+        {
+          "city_name" : "Cardiff",
+          "city_synonyms" : [
+            "Cardiff"
+          ]
+        },
+        {
+          "city_name" : "Newport",
+          "city_synonyms" : [
+            "Newport"
+          ]
+        },
+        {
+          "city_name" : "St Asaph",
+          "city_synonyms" : [
+            "St Asaph"
+          ]
+        },
+        {
+          "city_name" : "St David's",
+          "city_synonyms" : [
+            "St David's"
+          ]
+        },
+        {
+          "city_name" : "Swansea",
+          "city_synonyms" : [
+            "Swansea"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "West Midlands",
+      "region_synonyms" : [
+        "West Midlands"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Birmingham",
+          "city_synonyms" : [
+            "Birmingham"
+          ]
+        },
+        {
+          "city_name" : "Coventry",
+          "city_synonyms" : [
+            "Coventry"
+          ]
+        },
+        {
+          "city_name" : "Hereford",
+          "city_synonyms" : [
+            "Hereford"
+          ]
+        },
+        {
+          "city_name" : "Lichfield",
+          "city_synonyms" : [
+            "Lichfield"
+          ]
+        },
+        {
+          "city_name" : "Stoke-on-Trent",
+          "city_synonyms" : [
+            "Stoke-on-Trent"
+          ]
+        },
+        {
+          "city_name" : "Wolverhampton",
+          "city_synonyms" : [
+            "Wolverhampton"
+          ]
+        },
+        {
+          "city_name" : "Worcester",
+          "city_synonyms" : [
+            "Worcester"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Yorkshire and the Humber",
+      "region_synonyms" : [
+        "Yorkshire and the Humber"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bradford",
+          "city_synonyms" : [
+            "Bradford"
+          ]
+        },
+        {
+          "city_name" : "Kingston upon Hull",
+          "city_synonyms" : [
+            "Kingston upon Hull"
+          ]
+        },
+        {
+          "city_name" : "Leeds",
+          "city_synonyms" : [
+            "Leeds"
+          ]
+        },
+        {
+          "city_name" : "Ripon",
+          "city_synonyms" : [
+            "Ripon"
+          ]
+        },
+        {
+          "city_name" : "Sheffield",
+          "city_synonyms" : [
+            "Sheffield"
+          ]
+        },
+        {
+          "city_name" : "Wakefield",
+          "city_synonyms" : [
+            "Wakefield"
+          ]
+        },
+        {
+          "city_name" : "York",
+          "city_synonyms" : [
+            "York"
+          ]
+        }
+      ]
+    }
+  ]
+}

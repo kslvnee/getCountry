@@ -1,0 +1,1366 @@
+{
+  "country_name" : "Canada",
+  "country_synonyms" : [
+    "Canada"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Alberta",
+      "region_synonyms" : [
+        "Alberta"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Banff",
+          "city_synonyms" : [
+            "Banff"
+          ]
+        },
+        {
+          "city_name" : "Brooks",
+          "city_synonyms" : [
+            "Brooks"
+          ]
+        },
+        {
+          "city_name" : "Calgary",
+          "city_synonyms" : [
+            "Calgary"
+          ]
+        },
+        {
+          "city_name" : "Edmonton",
+          "city_synonyms" : [
+            "Edmonton"
+          ]
+        },
+        {
+          "city_name" : "Fort McMurray",
+          "city_synonyms" : [
+            "Fort McMurray"
+          ]
+        },
+        {
+          "city_name" : "Grande Prairie",
+          "city_synonyms" : [
+            "Grande Prairie"
+          ]
+        },
+        {
+          "city_name" : "Jasper",
+          "city_synonyms" : [
+            "Jasper"
+          ]
+        },
+        {
+          "city_name" : "Lake Louise",
+          "city_synonyms" : [
+            "Lake Louise"
+          ]
+        },
+        {
+          "city_name" : "Lethbridge",
+          "city_synonyms" : [
+            "Lethbridge"
+          ]
+        },
+        {
+          "city_name" : "Medicine Hat",
+          "city_synonyms" : [
+            "Medicine Hat"
+          ]
+        },
+        {
+          "city_name" : "Red Deer",
+          "city_synonyms" : [
+            "Red Deer"
+          ]
+        },
+        {
+          "city_name" : "Saint Albert",
+          "city_synonyms" : [
+            "Saint Albert"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "British Columbia",
+      "region_synonyms" : [
+        "British Columbia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Barkerville",
+          "city_synonyms" : [
+            "Barkerville"
+          ]
+        },
+        {
+          "city_name" : "Burnaby",
+          "city_synonyms" : [
+            "Burnaby"
+          ]
+        },
+        {
+          "city_name" : "Campbell River",
+          "city_synonyms" : [
+            "Campbell River"
+          ]
+        },
+        {
+          "city_name" : "Chilliwack",
+          "city_synonyms" : [
+            "Chilliwack"
+          ]
+        },
+        {
+          "city_name" : "Courtenay",
+          "city_synonyms" : [
+            "Courtenay"
+          ]
+        },
+        {
+          "city_name" : "Cranbrook",
+          "city_synonyms" : [
+            "Cranbrook"
+          ]
+        },
+        {
+          "city_name" : "Dawson Creek",
+          "city_synonyms" : [
+            "Dawson Creek"
+          ]
+        },
+        {
+          "city_name" : "Delta",
+          "city_synonyms" : [
+            "Delta"
+          ]
+        },
+        {
+          "city_name" : "Esquimalt",
+          "city_synonyms" : [
+            "Esquimalt"
+          ]
+        },
+        {
+          "city_name" : "Fort Saint James",
+          "city_synonyms" : [
+            "Fort Saint James"
+          ]
+        },
+        {
+          "city_name" : "Fort Saint John",
+          "city_synonyms" : [
+            "Fort Saint John"
+          ]
+        },
+        {
+          "city_name" : "Hope",
+          "city_synonyms" : [
+            "Hope"
+          ]
+        },
+        {
+          "city_name" : "Kamloops",
+          "city_synonyms" : [
+            "Kamloops"
+          ]
+        },
+        {
+          "city_name" : "Kelowna",
+          "city_synonyms" : [
+            "Kelowna"
+          ]
+        },
+        {
+          "city_name" : "Kimberley",
+          "city_synonyms" : [
+            "Kimberley"
+          ]
+        },
+        {
+          "city_name" : "Kitimat",
+          "city_synonyms" : [
+            "Kitimat"
+          ]
+        },
+        {
+          "city_name" : "Langley",
+          "city_synonyms" : [
+            "Langley"
+          ]
+        },
+        {
+          "city_name" : "Nanaimo",
+          "city_synonyms" : [
+            "Nanaimo"
+          ]
+        },
+        {
+          "city_name" : "Nelson",
+          "city_synonyms" : [
+            "Nelson"
+          ]
+        },
+        {
+          "city_name" : "New Westminster",
+          "city_synonyms" : [
+            "New Westminster"
+          ]
+        },
+        {
+          "city_name" : "North Vancouver",
+          "city_synonyms" : [
+            "North Vancouver"
+          ]
+        },
+        {
+          "city_name" : "Oak Bay",
+          "city_synonyms" : [
+            "Oak Bay"
+          ]
+        },
+        {
+          "city_name" : "Penticton",
+          "city_synonyms" : [
+            "Penticton"
+          ]
+        },
+        {
+          "city_name" : "Powell River",
+          "city_synonyms" : [
+            "Powell River"
+          ]
+        },
+        {
+          "city_name" : "Prince George",
+          "city_synonyms" : [
+            "Prince George"
+          ]
+        },
+        {
+          "city_name" : "Prince Rupert",
+          "city_synonyms" : [
+            "Prince Rupert"
+          ]
+        },
+        {
+          "city_name" : "Quesnel",
+          "city_synonyms" : [
+            "Quesnel"
+          ]
+        },
+        {
+          "city_name" : "Revelstoke",
+          "city_synonyms" : [
+            "Revelstoke"
+          ]
+        },
+        {
+          "city_name" : "Rossland",
+          "city_synonyms" : [
+            "Rossland"
+          ]
+        },
+        {
+          "city_name" : "Trail",
+          "city_synonyms" : [
+            "Trail"
+          ]
+        },
+        {
+          "city_name" : "Vancouver",
+          "city_synonyms" : [
+            "Vancouver"
+          ]
+        },
+        {
+          "city_name" : "Vernon",
+          "city_synonyms" : [
+            "Vernon"
+          ]
+        },
+        {
+          "city_name" : "Victoria",
+          "city_synonyms" : [
+            "Victoria"
+          ]
+        },
+        {
+          "city_name" : "West Vancouver",
+          "city_synonyms" : [
+            "West Vancouver"
+          ]
+        },
+        {
+          "city_name" : "White Rock",
+          "city_synonyms" : [
+            "White Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Manitoba",
+      "region_synonyms" : [
+        "Manitoba"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brandon",
+          "city_synonyms" : [
+            "Brandon"
+          ]
+        },
+        {
+          "city_name" : "Churchill",
+          "city_synonyms" : [
+            "Churchill"
+          ]
+        },
+        {
+          "city_name" : "Dauphin",
+          "city_synonyms" : [
+            "Dauphin"
+          ]
+        },
+        {
+          "city_name" : "Flin Flon",
+          "city_synonyms" : [
+            "Flin Flon"
+          ]
+        },
+        {
+          "city_name" : "Kildonan",
+          "city_synonyms" : [
+            "Kildonan"
+          ]
+        },
+        {
+          "city_name" : "Saint Boniface",
+          "city_synonyms" : [
+            "Saint Boniface"
+          ]
+        },
+        {
+          "city_name" : "Swan River",
+          "city_synonyms" : [
+            "Swan River"
+          ]
+        },
+        {
+          "city_name" : "Thompson",
+          "city_synonyms" : [
+            "Thompson"
+          ]
+        },
+        {
+          "city_name" : "Winnipeg",
+          "city_synonyms" : [
+            "Winnipeg"
+          ]
+        },
+        {
+          "city_name" : "York Factory",
+          "city_synonyms" : [
+            "York Factory"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "New Brunswick",
+      "region_synonyms" : [
+        "New Brunswick"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bathurst",
+          "city_synonyms" : [
+            "Bathurst"
+          ]
+        },
+        {
+          "city_name" : "Caraquet",
+          "city_synonyms" : [
+            "Caraquet"
+          ]
+        },
+        {
+          "city_name" : "Dalhousie",
+          "city_synonyms" : [
+            "Dalhousie"
+          ]
+        },
+        {
+          "city_name" : "Fredericton",
+          "city_synonyms" : [
+            "Fredericton"
+          ]
+        },
+        {
+          "city_name" : "Miramichi",
+          "city_synonyms" : [
+            "Miramichi"
+          ]
+        },
+        {
+          "city_name" : "Moncton",
+          "city_synonyms" : [
+            "Moncton"
+          ]
+        },
+        {
+          "city_name" : "Saint John",
+          "city_synonyms" : [
+            "Saint John"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Newfoundland",
+      "region_synonyms" : [
+        "Newfoundland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Argentia",
+          "city_synonyms" : [
+            "Argentia"
+          ]
+        },
+        {
+          "city_name" : "Bonavista",
+          "city_synonyms" : [
+            "Bonavista"
+          ]
+        },
+        {
+          "city_name" : "Channel-Port aux Basques",
+          "city_synonyms" : [
+            "Channel-Port aux Basques"
+          ]
+        },
+        {
+          "city_name" : "Corner Brook",
+          "city_synonyms" : [
+            "Corner Brook"
+          ]
+        },
+        {
+          "city_name" : "Ferryland",
+          "city_synonyms" : [
+            "Ferryland"
+          ]
+        },
+        {
+          "city_name" : "Gander",
+          "city_synonyms" : [
+            "Gander"
+          ]
+        },
+        {
+          "city_name" : "Grand Falls–Windsor",
+          "city_synonyms" : [
+            "Grand Falls–Windsor"
+          ]
+        },
+        {
+          "city_name" : "Happy Valley–Goose Bay",
+          "city_synonyms" : [
+            "Happy Valley–Goose Bay"
+          ]
+        },
+        {
+          "city_name" : "Harbour Grace",
+          "city_synonyms" : [
+            "Harbour Grace"
+          ]
+        },
+        {
+          "city_name" : "Labrador City",
+          "city_synonyms" : [
+            "Labrador City"
+          ]
+        },
+        {
+          "city_name" : "Placentia",
+          "city_synonyms" : [
+            "Placentia"
+          ]
+        },
+        {
+          "city_name" : "Saint Anthony",
+          "city_synonyms" : [
+            "Saint Anthony"
+          ]
+        },
+        {
+          "city_name" : "St. John’s",
+          "city_synonyms" : [
+            "St. John’s"
+          ]
+        },
+        {
+          "city_name" : "Wabana",
+          "city_synonyms" : [
+            "Wabana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Northwest Territories",
+      "region_synonyms" : [
+        "Northwest Territories"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Fort Smith",
+          "city_synonyms" : [
+            "Fort Smith"
+          ]
+        },
+        {
+          "city_name" : "Hay River",
+          "city_synonyms" : [
+            "Hay River"
+          ]
+        },
+        {
+          "city_name" : "Inuvik",
+          "city_synonyms" : [
+            "Inuvik"
+          ]
+        },
+        {
+          "city_name" : "Tuktoyaktuk",
+          "city_synonyms" : [
+            "Tuktoyaktuk"
+          ]
+        },
+        {
+          "city_name" : "Yellowknife",
+          "city_synonyms" : [
+            "Yellowknife"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nova Scotia",
+      "region_synonyms" : [
+        "Nova Scotia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Baddeck",
+          "city_synonyms" : [
+            "Baddeck"
+          ]
+        },
+        {
+          "city_name" : "Digby",
+          "city_synonyms" : [
+            "Digby"
+          ]
+        },
+        {
+          "city_name" : "Glace Bay",
+          "city_synonyms" : [
+            "Glace Bay"
+          ]
+        },
+        {
+          "city_name" : "Halifax",
+          "city_synonyms" : [
+            "Halifax"
+          ]
+        },
+        {
+          "city_name" : "Liverpool",
+          "city_synonyms" : [
+            "Liverpool"
+          ]
+        },
+        {
+          "city_name" : "Louisbourg",
+          "city_synonyms" : [
+            "Louisbourg"
+          ]
+        },
+        {
+          "city_name" : "Lunenburg",
+          "city_synonyms" : [
+            "Lunenburg"
+          ]
+        },
+        {
+          "city_name" : "Pictou",
+          "city_synonyms" : [
+            "Pictou"
+          ]
+        },
+        {
+          "city_name" : "Port Hawkesbury",
+          "city_synonyms" : [
+            "Port Hawkesbury"
+          ]
+        },
+        {
+          "city_name" : "Springhill",
+          "city_synonyms" : [
+            "Springhill"
+          ]
+        },
+        {
+          "city_name" : "Yarmouth",
+          "city_synonyms" : [
+            "Yarmouth"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nunavut",
+      "region_synonyms" : [
+        "Nunavut"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Iqaluit",
+          "city_synonyms" : [
+            "Iqaluit"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ontario",
+      "region_synonyms" : [
+        "Ontario"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bancroft",
+          "city_synonyms" : [
+            "Bancroft"
+          ]
+        },
+        {
+          "city_name" : "Barrie",
+          "city_synonyms" : [
+            "Barrie"
+          ]
+        },
+        {
+          "city_name" : "Belleville",
+          "city_synonyms" : [
+            "Belleville"
+          ]
+        },
+        {
+          "city_name" : "Brampton",
+          "city_synonyms" : [
+            "Brampton"
+          ]
+        },
+        {
+          "city_name" : "Brantford",
+          "city_synonyms" : [
+            "Brantford"
+          ]
+        },
+        {
+          "city_name" : "Brockville",
+          "city_synonyms" : [
+            "Brockville"
+          ]
+        },
+        {
+          "city_name" : "Burlington",
+          "city_synonyms" : [
+            "Burlington"
+          ]
+        },
+        {
+          "city_name" : "Cambridge",
+          "city_synonyms" : [
+            "Cambridge"
+          ]
+        },
+        {
+          "city_name" : "Chatham",
+          "city_synonyms" : [
+            "Chatham"
+          ]
+        },
+        {
+          "city_name" : "Chatham-Kent",
+          "city_synonyms" : [
+            "Chatham-Kent"
+          ]
+        },
+        {
+          "city_name" : "Cornwall",
+          "city_synonyms" : [
+            "Cornwall"
+          ]
+        },
+        {
+          "city_name" : "Elliot Lake",
+          "city_synonyms" : [
+            "Elliot Lake"
+          ]
+        },
+        {
+          "city_name" : "Etobicoke",
+          "city_synonyms" : [
+            "Etobicoke"
+          ]
+        },
+        {
+          "city_name" : "Fort Erie",
+          "city_synonyms" : [
+            "Fort Erie"
+          ]
+        },
+        {
+          "city_name" : "Fort Frances",
+          "city_synonyms" : [
+            "Fort Frances"
+          ]
+        },
+        {
+          "city_name" : "Gananoque",
+          "city_synonyms" : [
+            "Gananoque"
+          ]
+        },
+        {
+          "city_name" : "Guelph",
+          "city_synonyms" : [
+            "Guelph"
+          ]
+        },
+        {
+          "city_name" : "Hamilton",
+          "city_synonyms" : [
+            "Hamilton"
+          ]
+        },
+        {
+          "city_name" : "Iroquois Falls",
+          "city_synonyms" : [
+            "Iroquois Falls"
+          ]
+        },
+        {
+          "city_name" : "Kapuskasing",
+          "city_synonyms" : [
+            "Kapuskasing"
+          ]
+        },
+        {
+          "city_name" : "Kawartha Lakes",
+          "city_synonyms" : [
+            "Kawartha Lakes"
+          ]
+        },
+        {
+          "city_name" : "Kenora",
+          "city_synonyms" : [
+            "Kenora"
+          ]
+        },
+        {
+          "city_name" : "Kingston",
+          "city_synonyms" : [
+            "Kingston"
+          ]
+        },
+        {
+          "city_name" : "Kirkland Lake",
+          "city_synonyms" : [
+            "Kirkland Lake"
+          ]
+        },
+        {
+          "city_name" : "Kitchener",
+          "city_synonyms" : [
+            "Kitchener"
+          ]
+        },
+        {
+          "city_name" : "Laurentian Hills",
+          "city_synonyms" : [
+            "Laurentian Hills"
+          ]
+        },
+        {
+          "city_name" : "Midland",
+          "city_synonyms" : [
+            "Midland"
+          ]
+        },
+        {
+          "city_name" : "Mississauga",
+          "city_synonyms" : [
+            "Mississauga"
+          ]
+        },
+        {
+          "city_name" : "Moose Factory",
+          "city_synonyms" : [
+            "Moose Factory"
+          ]
+        },
+        {
+          "city_name" : "Moosonee",
+          "city_synonyms" : [
+            "Moosonee"
+          ]
+        },
+        {
+          "city_name" : "Niagara Falls",
+          "city_synonyms" : [
+            "Niagara Falls"
+          ]
+        },
+        {
+          "city_name" : "North Bay",
+          "city_synonyms" : [
+            "North Bay"
+          ]
+        },
+        {
+          "city_name" : "North York",
+          "city_synonyms" : [
+            "North York"
+          ]
+        },
+        {
+          "city_name" : "Oakville",
+          "city_synonyms" : [
+            "Oakville"
+          ]
+        },
+        {
+          "city_name" : "Orillia",
+          "city_synonyms" : [
+            "Orillia"
+          ]
+        },
+        {
+          "city_name" : "Oshawa",
+          "city_synonyms" : [
+            "Oshawa"
+          ]
+        },
+        {
+          "city_name" : "Ottawa",
+          "city_synonyms" : [
+            "Ottawa"
+          ]
+        },
+        {
+          "city_name" : "Parry Sound",
+          "city_synonyms" : [
+            "Parry Sound"
+          ]
+        },
+        {
+          "city_name" : "Perth",
+          "city_synonyms" : [
+            "Perth"
+          ]
+        },
+        {
+          "city_name" : "Peterborough",
+          "city_synonyms" : [
+            "Peterborough"
+          ]
+        },
+        {
+          "city_name" : "Picton",
+          "city_synonyms" : [
+            "Picton"
+          ]
+        },
+        {
+          "city_name" : "Port Colborne",
+          "city_synonyms" : [
+            "Port Colborne"
+          ]
+        },
+        {
+          "city_name" : "Saint Catharines",
+          "city_synonyms" : [
+            "Saint Catharines"
+          ]
+        },
+        {
+          "city_name" : "Saint Thomas",
+          "city_synonyms" : [
+            "Saint Thomas"
+          ]
+        },
+        {
+          "city_name" : "Sarnia-Clearwater",
+          "city_synonyms" : [
+            "Sarnia-Clearwater"
+          ]
+        },
+        {
+          "city_name" : "Sault Sainte Marie",
+          "city_synonyms" : [
+            "Sault Sainte Marie"
+          ]
+        },
+        {
+          "city_name" : "Scarborough",
+          "city_synonyms" : [
+            "Scarborough"
+          ]
+        },
+        {
+          "city_name" : "Simcoe",
+          "city_synonyms" : [
+            "Simcoe"
+          ]
+        },
+        {
+          "city_name" : "Stratford",
+          "city_synonyms" : [
+            "Stratford"
+          ]
+        },
+        {
+          "city_name" : "Sudbury",
+          "city_synonyms" : [
+            "Sudbury"
+          ]
+        },
+        {
+          "city_name" : "Temiskaming Shores",
+          "city_synonyms" : [
+            "Temiskaming Shores"
+          ]
+        },
+        {
+          "city_name" : "Thorold",
+          "city_synonyms" : [
+            "Thorold"
+          ]
+        },
+        {
+          "city_name" : "Thunder Bay",
+          "city_synonyms" : [
+            "Thunder Bay"
+          ]
+        },
+        {
+          "city_name" : "Timmins",
+          "city_synonyms" : [
+            "Timmins"
+          ]
+        },
+        {
+          "city_name" : "Toronto",
+          "city_synonyms" : [
+            "Toronto"
+          ]
+        },
+        {
+          "city_name" : "Trenton",
+          "city_synonyms" : [
+            "Trenton"
+          ]
+        },
+        {
+          "city_name" : "Waterloo",
+          "city_synonyms" : [
+            "Waterloo"
+          ]
+        },
+        {
+          "city_name" : "Welland",
+          "city_synonyms" : [
+            "Welland"
+          ]
+        },
+        {
+          "city_name" : "West Nipissing",
+          "city_synonyms" : [
+            "West Nipissing"
+          ]
+        },
+        {
+          "city_name" : "Windsor",
+          "city_synonyms" : [
+            "Windsor"
+          ]
+        },
+        {
+          "city_name" : "Woodstock",
+          "city_synonyms" : [
+            "Woodstock"
+          ]
+        },
+        {
+          "city_name" : "York",
+          "city_synonyms" : [
+            "York"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Prince Edward Island",
+      "region_synonyms" : [
+        "Prince Edward Island"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Borden",
+          "city_synonyms" : [
+            "Borden"
+          ]
+        },
+        {
+          "city_name" : "Cavendish",
+          "city_synonyms" : [
+            "Cavendish"
+          ]
+        },
+        {
+          "city_name" : "Charlottetown",
+          "city_synonyms" : [
+            "Charlottetown"
+          ]
+        },
+        {
+          "city_name" : "Souris",
+          "city_synonyms" : [
+            "Souris"
+          ]
+        },
+        {
+          "city_name" : "Summerside",
+          "city_synonyms" : [
+            "Summerside"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Quebec",
+      "region_synonyms" : [
+        "Quebec"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Asbestos",
+          "city_synonyms" : [
+            "Asbestos"
+          ]
+        },
+        {
+          "city_name" : "Baie-Comeau",
+          "city_synonyms" : [
+            "Baie-Comeau"
+          ]
+        },
+        {
+          "city_name" : "Beloeil",
+          "city_synonyms" : [
+            "Beloeil"
+          ]
+        },
+        {
+          "city_name" : "Chambly",
+          "city_synonyms" : [
+            "Chambly"
+          ]
+        },
+        {
+          "city_name" : "Charlesbourg",
+          "city_synonyms" : [
+            "Charlesbourg"
+          ]
+        },
+        {
+          "city_name" : "Châteauguay",
+          "city_synonyms" : [
+            "Châteauguay"
+          ]
+        },
+        {
+          "city_name" : "Chibougamau",
+          "city_synonyms" : [
+            "Chibougamau"
+          ]
+        },
+        {
+          "city_name" : "Côte-Saint-Luc",
+          "city_synonyms" : [
+            "Côte-Saint-Luc"
+          ]
+        },
+        {
+          "city_name" : "Dorval",
+          "city_synonyms" : [
+            "Dorval"
+          ]
+        },
+        {
+          "city_name" : "Gaspé",
+          "city_synonyms" : [
+            "Gaspé"
+          ]
+        },
+        {
+          "city_name" : "Gatineau",
+          "city_synonyms" : [
+            "Gatineau"
+          ]
+        },
+        {
+          "city_name" : "Granby",
+          "city_synonyms" : [
+            "Granby"
+          ]
+        },
+        {
+          "city_name" : "Hull",
+          "city_synonyms" : [
+            "Hull"
+          ]
+        },
+        {
+          "city_name" : "Jonquière",
+          "city_synonyms" : [
+            "Jonquière"
+          ]
+        },
+        {
+          "city_name" : "Kuujjuaq",
+          "city_synonyms" : [
+            "Kuujjuaq"
+          ]
+        },
+        {
+          "city_name" : "La Salle",
+          "city_synonyms" : [
+            "La Salle"
+          ]
+        },
+        {
+          "city_name" : "La Tuque",
+          "city_synonyms" : [
+            "La Tuque"
+          ]
+        },
+        {
+          "city_name" : "Lachine",
+          "city_synonyms" : [
+            "Lachine"
+          ]
+        },
+        {
+          "city_name" : "Laval",
+          "city_synonyms" : [
+            "Laval"
+          ]
+        },
+        {
+          "city_name" : "Lévis",
+          "city_synonyms" : [
+            "Lévis"
+          ]
+        },
+        {
+          "city_name" : "Longueuil",
+          "city_synonyms" : [
+            "Longueuil"
+          ]
+        },
+        {
+          "city_name" : "Magog",
+          "city_synonyms" : [
+            "Magog"
+          ]
+        },
+        {
+          "city_name" : "Matane",
+          "city_synonyms" : [
+            "Matane"
+          ]
+        },
+        {
+          "city_name" : "Montreal",
+          "city_synonyms" : [
+            "Montreal"
+          ]
+        },
+        {
+          "city_name" : "Montréal-Nord",
+          "city_synonyms" : [
+            "Montréal-Nord"
+          ]
+        },
+        {
+          "city_name" : "Percé",
+          "city_synonyms" : [
+            "Percé"
+          ]
+        },
+        {
+          "city_name" : "Port-Cartier",
+          "city_synonyms" : [
+            "Port-Cartier"
+          ]
+        },
+        {
+          "city_name" : "Quebec",
+          "city_synonyms" : [
+            "Quebec"
+          ]
+        },
+        {
+          "city_name" : "Rimouski",
+          "city_synonyms" : [
+            "Rimouski"
+          ]
+        },
+        {
+          "city_name" : "Rouyn-Noranda",
+          "city_synonyms" : [
+            "Rouyn-Noranda"
+          ]
+        },
+        {
+          "city_name" : "Saguenay",
+          "city_synonyms" : [
+            "Saguenay"
+          ]
+        },
+        {
+          "city_name" : "Saint-Eustache",
+          "city_synonyms" : [
+            "Saint-Eustache"
+          ]
+        },
+        {
+          "city_name" : "Saint-Hubert",
+          "city_synonyms" : [
+            "Saint-Hubert"
+          ]
+        },
+        {
+          "city_name" : "Sainte-Foy",
+          "city_synonyms" : [
+            "Sainte-Foy"
+          ]
+        },
+        {
+          "city_name" : "Waskaganish",
+          "city_synonyms" : [
+            "Waskaganish"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Saskatchewan",
+      "region_synonyms" : [
+        "Saskatchewan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Batoche",
+          "city_synonyms" : [
+            "Batoche"
+          ]
+        },
+        {
+          "city_name" : "Cumberland House",
+          "city_synonyms" : [
+            "Cumberland House"
+          ]
+        },
+        {
+          "city_name" : "Estevan",
+          "city_synonyms" : [
+            "Estevan"
+          ]
+        },
+        {
+          "city_name" : "Flin Flon",
+          "city_synonyms" : [
+            "Flin Flon"
+          ]
+        },
+        {
+          "city_name" : "Moose Jaw",
+          "city_synonyms" : [
+            "Moose Jaw"
+          ]
+        },
+        {
+          "city_name" : "Prince Albert",
+          "city_synonyms" : [
+            "Prince Albert"
+          ]
+        },
+        {
+          "city_name" : "Regina",
+          "city_synonyms" : [
+            "Regina"
+          ]
+        },
+        {
+          "city_name" : "Saskatoon",
+          "city_synonyms" : [
+            "Saskatoon"
+          ]
+        },
+        {
+          "city_name" : "Uranium City",
+          "city_synonyms" : [
+            "Uranium City"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Yukon",
+      "region_synonyms" : [
+        "Yukon"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Dawson",
+          "city_synonyms" : [
+            "Dawson"
+          ]
+        },
+        {
+          "city_name" : "Watson Lake",
+          "city_synonyms" : [
+            "Watson Lake"
+          ]
+        },
+        {
+          "city_name" : "Whitehorse",
+          "city_synonyms" : [
+            "Whitehorse"
+          ]
+        }
+      ]
+    }
+  ]
+}

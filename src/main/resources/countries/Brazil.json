@@ -1,0 +1,81 @@
+{
+  "country_name" : "Brazil",
+  "country_synonyms" : [
+    "Brazil"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Acre",
+      "region_synonyms" : [
+        "Acre"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Rio Branco",
+          "city_synonyms" : [
+            "Rio Branco"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Alagoas",
+      "region_synonyms" : [
+        "Alagoas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Maceió",
+          "city_synonyms" : [
+            "Maceió",
+            "Maceio"
+          ]
+        },
+        {
+          "city_name" : "Arapiraca",
+          "city_synonyms" : [
+            "Arapiraca"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Amapá",
+      "region_synonyms" : [
+        "Amapá",
+        "Amapa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Macapá",
+          "city_synonyms" : [
+            "Macapá",
+            "Macapa"
+          ]
+        },
+        {
+          "city_name" : "Santana",
+          "city_synonyms" : [
+            "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "São Paulo",
+      "region_synonyms" : [
+        "São Paulo",
+        "Sao Paulo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "São Paulo",
+          "city_synonyms" : [
+            "São Paulo",
+            "Sao Paulo"
+          ]
+        }
+      ]
+    }
+  ]
+}

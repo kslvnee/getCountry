@@ -1,0 +1,239 @@
+{
+  "country_name" : "Belarus",
+  "country_synonyms" : [
+    "Belarus"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Minsk Region",
+      "region_synonyms" : [
+        "Minsk Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Minsk",
+          "city_synonyms" : [
+            "Minsk",
+            "Мінск",
+            "Минск"
+          ]
+        },
+        {
+          "city_name" : "Barysaw",
+          "city_synonyms" : [
+            "Barysaw",
+            "Барысаў",
+            "Борисов"
+          ]
+        },
+        {
+          "city_name" : "Salihorsk",
+          "city_synonyms" : [
+            "Salihorsk",
+            "Салігорск",
+            "Солигорск"
+          ]
+        },
+        {
+          "city_name" : "Maladzyechna",
+          "city_synonyms" : [
+            "Maladzyechna",
+            "Маладзечна",
+            "Молодечно"
+          ]
+        },
+        {
+          "city_name" : "Slutsk",
+          "city_synonyms" : [
+            "Slutsk",
+            "Слуцк",
+            "Слуцк"
+          ]
+        },
+        {
+          "city_name" : "Zhodzina",
+          "city_synonyms" : [
+            "Zhodzina",
+            "Жодзiна",
+            "Жодино"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Brest Region",
+      "region_synonyms" : [
+        "Brest Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brest",
+          "city_synonyms" : [
+            "Brest",
+            "Брэст",
+            "Брест"
+          ]
+        },
+        {
+          "city_name" : "Baranovichi",
+          "city_synonyms" : [
+            "Baranovichi",
+            "Баранавiчы",
+            "Барановичи"
+          ]
+        },
+        {
+          "city_name" : "Pinsk",
+          "city_synonyms" : [
+            "Pinsk",
+            "Пінск",
+            "Пинск"
+          ]
+        },
+        {
+          "city_name" : "Kobryn",
+          "city_synonyms" : [
+            "Kobryn",
+            "Ко́брын",
+            "Ко́брин"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Gomel Region",
+      "region_synonyms" : [
+        "Gomel Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Gomel",
+          "city_synonyms" : [
+            "Gomel",
+            "Го́мель",
+            "Гомель"
+          ]
+        },
+        {
+          "city_name" : "Mazyr",
+          "city_synonyms" : [
+            "Mazyr",
+            "Мазы́р",
+            "Мазыр"
+          ]
+        },
+        {
+          "city_name" : "Žlobin",
+          "city_synonyms" : [
+            "Žlobin",
+            "Жло́бін",
+            "Жлобин"
+          ]
+        },
+        {
+          "city_name" : "Svietlahorsk",
+          "city_synonyms" : [
+            "Svietlahorsk",
+            "Светлаго́рск",
+            "Светлагорск"
+          ]
+        },
+        {
+          "city_name" : "Rečyca",
+          "city_synonyms" : [
+            "Rečyca",
+            "Рэчыца"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Grodno Region",
+      "region_synonyms" : [
+        "Grodno Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Grodno",
+          "city_synonyms" : [
+            "Grodno"
+          ]
+        },
+        {
+          "city_name" : "Lida",
+          "city_synonyms" : [
+            "Lida"
+          ]
+        },
+        {
+          "city_name" : "Słonim",
+          "city_synonyms" : [
+            "Słonim"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Mogilev Region",
+      "region_synonyms" : [
+        "Mogilev Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Mogilev",
+          "city_synonyms" : [
+            "Mogilev",
+            "Mahilyow",
+            "Могилёв"
+          ]
+        },
+        {
+          "city_name" : "Babruysk",
+          "city_synonyms" : [
+            "Babruysk",
+            "Бабруйск",
+            "Бобруйск"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vitebsk Region",
+      "region_synonyms" : [
+        "Vitebsk Region"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vitsebsk",
+          "city_synonyms" : [
+            "Vitsebsk",
+            "Витебск"
+          ]
+        },
+        {
+          "city_name" : "Orsha",
+          "city_synonyms" : [
+            "Orsha",
+            "Орша"
+          ]
+        },
+        {
+          "city_name" : "Navapolatsk",
+          "city_synonyms" : [
+            "Navapolatsk",
+            "Наваполацк",
+            "Новополоцк"
+          ]
+        },
+        {
+          "city_name" : "Polatsk",
+          "city_synonyms" : [
+            "Polatsk",
+            "Полацк",
+            "Полоцк"
+          ]
+        }
+      ]
+    }
+  ]
+}

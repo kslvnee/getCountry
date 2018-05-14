@@ -1,0 +1,22 @@
+{
+  "country_name" : "Italy",
+  "country_synonyms" : [
+    "Italy"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Rome",
+      "region_synonyms" : [
+        "Rome"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Rome",
+          "city_synonyms" : [
+            "Rome"
+          ]
+        }
+      ]
+    }
+  ]
+}

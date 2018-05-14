@@ -1,0 +1,22 @@
+{
+  "country_name" : "Spain",
+  "country_synonyms" : [
+    "Spain"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Madrid",
+      "region_synonyms" : [
+        "Madrid"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Madrid",
+          "city_synonyms" : [
+            "Madrid"
+          ]
+        }
+      ]
+    }
+  ]
+}
