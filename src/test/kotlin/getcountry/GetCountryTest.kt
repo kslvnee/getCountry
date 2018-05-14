@@ -62,4 +62,13 @@ internal class GetCountryTest {
         val result = get("USA")
         assertEquals("USA",result[0].country)
     }
+
+    @Test
+    fun getTestWithMinsk() {
+        val result = get("Minsk")
+        assertEquals("Belarus",result[0].country)
+        assertEquals("Minsk Region",result[0].region)
+        assertEquals("Minsk",result[0].city)
+        assertEquals(1,result.size)
+    }
 }
