@@ -17,10 +17,6 @@ buildscript {
 apply plugin: 'java'
 apply plugin: 'kotlin'
 apply plugin: 'com.novoda.bintray-release'
-apply plugin: 'jacoco'
-apply plugin: 'application'
-
-mainClassName = 'getcountry.Main'
 
 
 sourceCompatibility = 1.8
@@ -34,7 +30,6 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     compile 'com.google.code.gson:gson:2.8.0'
     testCompile group: 'junit', name: 'junit', version: '4.12'
-    compile 'com.google.guava:guava:23.5-jre'
     compile 'org.springframework:spring-context:5.0.6.RELEASE'
 }
 
@@ -50,17 +45,10 @@ compileTestKotlin {
 publish {
     groupId = 'com.github.getcoderio'
     artifactId = 'GetCountry'
-    publishVersion = '0.1.4'
+    publishVersion = '0.1.5'
     desc = 'The library that transforms String location into Country/Region/City names'
     licences = ['MIT']
     website = 'https://github.com/getcoderio/getCountry'
     userOrg = "getcoderio"
-}
-
-jacocoTestReport {
-    reports {
-        xml.enabled true
-        html.enabled false
-    }
 }
 

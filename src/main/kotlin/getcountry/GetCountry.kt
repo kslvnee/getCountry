@@ -1,26 +1,10 @@
 package getcountry
 
-
-import com.google.common.base.MoreObjects
-import com.google.common.io.Files
 import com.google.common.io.Resources
 import com.google.gson.GsonBuilder
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver
-
-
-import java.io.File
-import java.io.InputStreamReader
-import java.net.URI
 import java.util.regex.Pattern
 import java.util.ArrayList
-import java.io.IOException
-import java.net.URL
-
-
-import java.nio.file.Paths
-import java.util.stream.Collectors
-
-
 
 /**
  * List of all countries with regions and cities
@@ -32,59 +16,21 @@ val countries : List<Country> = getOriginalCountries()
  * Countries stored in resources/countries
  * Every country presented in form of class Country
  *
- * @return List<Country> the list of all countries
+ * @return A list of {@link Country <tt>Country</tt>} objects
  * @see Country
  */
 fun getOriginalCountries() : List<Country> {
-
-
-   // val listOfFiles = File(URI("src/main/resources/countries").path).listFiles()
     val countries : MutableList<Country> = ArrayList()
-//    for (file in listOfFiles) {
-//        countries.add(GsonBuilder().create().fromJson(file.readText(), Country::class.java))
-//    }
-
-  //  val url = Resources.getResource("countries/Russia.json")
-
-//    val loader = MoreObjects.firstNonNull(Thread.currentThread().contextClassLoader, Resources::class.java.classLoader)
-//    val urls = loader.getResources("resources").toList()
-
-//
-
-    //val text = Resources.toString(url, Charsets.UTF_8)
-
-//    urls.forEach {
-//        val text = Resources.toString(it, Charsets.UTF_8)
-//        countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
-//    }
-
-    val resources = PathMatchingResourcePatternResolver().getResources("countries/*.json").toList()
-
-    resources.forEach {
-        val text = Resources.toString(it.url, Charsets.UTF_8)
-        countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
-    }
-
-//    val files = getResourceFolderFiles("countries")
-//    files.forEach { countries.add(GsonBuilder().create().fromJson(it.readText(), Country::class.java)) }
-
-
-
-
-    // countries.add(GsonBuilder().create().fromJson(text, Country::class.java))
-
-    //Files.fileTraverser().breadthFirst("").forEach()
-
-
+    PathMatchingResourcePatternResolver()
+            .getResources("countries/*.json")
+            .toList()
+            .forEach {
+                countries.add(
+                        GsonBuilder().create().fromJson(Resources.toString(it.url, Charsets.UTF_8),
+                        Country::class.java)
+                ) }
     return countries
 }
-
-//private fun getResourceFolderFiles(folder: String): Array<File> {
-//    val loader = Thread.currentThread().contextClassLoader
-//    val url = loader.getResource(folder)
-//    val path = url!!.path
-//    return File(path).listFiles()
-//}
 
 /**
  * This method tries to determine the Country/Region/City names
@@ -158,7 +104,7 @@ fun get(location:String):List<IResultCountry> {
         }
     }
     results.sortByDescending { it.foundNubmer }
+    val maxElement = results.maxBy { it.foundNubmer }
 
-    return results
+    return results.filter { s -> s.foundNubmer == maxElement!!.foundNubmer }
 }
-
