@@ -1828,7 +1828,8 @@
     {
       "region_name" : "Wisconsin",
       "region_synonyms" : [
-        "Wisconsin"
+        "Wisconsin",
+        "WI"
       ],
       "cities" : [
         {
@@ -1847,6 +1848,12 @@
           "city_name" : "Milwaukee",
           "city_synonyms" : [
             "Milwaukee"
+          ]
+        },
+        {
+          "city_name" : "Verona",
+          "city_synonyms" : [
+            "Verona"
           ]
         }
       ]
