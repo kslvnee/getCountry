@@ -1,0 +1,22 @@
+{
+  "country_name" : "Norway",
+  "country_synonyms" : [
+    "Norway"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Oslo",
+      "region_synonyms" : [
+        "Oslo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Oslo",
+          "city_synonyms" : [
+            "Oslo"
+          ]
+        }
+      ]
+    }
+  ]
+}
