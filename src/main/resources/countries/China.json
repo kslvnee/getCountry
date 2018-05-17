@@ -17,6 +17,20 @@
           ]
         }
       ]
+    },
+    {
+      "region_name" : "Taiwan",
+      "region_synonyms" : [
+        "Taiwan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Taipei",
+          "city_synonyms" : [
+            "Taipei"
+          ]
+        }
+      ]
     }
   ]
 }
