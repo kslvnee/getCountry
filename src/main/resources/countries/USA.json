@@ -806,7 +806,8 @@
     {
       "region_name" : "Georgia",
       "region_synonyms" : [
-        "Georgia"
+        "Georgia",
+        "GA"
       ],
       "cities" : [
         {
@@ -837,6 +838,12 @@
           "city_name" : "Macon",
           "city_synonyms" : [
             "Macon"
+          ]
+        },
+        {
+          "city_name" : "Marietta",
+          "city_synonyms" : [
+            "Marietta"
           ]
         },
         {
