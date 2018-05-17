@@ -1,0 +1,84 @@
+{
+  "country_name" : "Japan",
+  "country_synonyms" : [
+    "Japan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Aichi",
+      "region_synonyms" : [
+        "Aichi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Nagoya",
+          "city_synonyms" : [
+            "Nagoya"
+          ]
+        },
+        {
+          "city_name" : "Toyohashi",
+          "city_synonyms" : [
+            "Toyohashi"
+          ]
+        },
+        {
+          "city_name" : "Okazaki",
+          "city_synonyms" : [
+            "Okazaki"
+          ]
+        },
+        {
+          "city_name" : "Ichinomiya",
+          "city_synonyms" : [
+            "Ichinomiya"
+          ]
+        },
+        {
+          "city_name" : "Seto",
+          "city_synonyms" : [
+            "Seto"
+          ]
+        },
+        {
+          "city_name" : "Handa",
+          "city_synonyms" : [
+            "Handa"
+          ]
+        },
+        {
+          "city_name" : "Kasugai",
+          "city_synonyms" : [
+            "Kasugai"
+          ]
+        },
+        {
+          "city_name" : "Toyokawa",
+          "city_synonyms" : [
+            "Toyokawa"
+          ]
+        },
+        {
+          "city_name" : "Tsushima",
+          "city_synonyms" : [
+            "Tsushima"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tokyo",
+      "region_synonyms" : [
+        "Tokyo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tokyo",
+          "city_synonyms" : [
+            "Tokyo"
+          ]
+        }
+      ]
+    }
+  ]
+}
