@@ -1445,6 +1445,21 @@
       ]
     },
     {
+      "region_name" : "South Carolina",
+      "region_synonyms" : [
+        "South Carolina",
+        "SC"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Charleston",
+          "city_synonyms" : [
+            "Charleston"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Tennessee",
       "region_synonyms" : [
         "Tennessee"
