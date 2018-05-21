@@ -1,0 +1,64 @@
+{
+  "country_name" : "Austria",
+  "country_synonyms" : [
+    "Austria"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Salzburg",
+      "region_synonyms" : [
+        "Salzburg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Salzburg",
+          "city_synonyms" : [
+            "Salzburg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Styria",
+      "region_synonyms" : [
+        "Styria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Graz",
+          "city_synonyms" : [
+            "Graz"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Upper Austria",
+      "region_synonyms" : [
+        "Upper Austria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Linz",
+          "city_synonyms" : [
+            "Linz"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vienna",
+      "region_synonyms" : [
+        "Vienna"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vienna",
+          "city_synonyms" : [
+            "Vienna"
+          ]
+        }
+      ]
+    }
+  ]
+}
