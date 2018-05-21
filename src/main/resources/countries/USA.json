@@ -1445,6 +1445,21 @@
       ]
     },
     {
+      "region_name" : "Rhode Island",
+      "region_synonyms" : [
+        "Rhode Island",
+        "RI"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Providence",
+          "city_synonyms" : [
+            "Providence"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "South Carolina",
       "region_synonyms" : [
         "South Carolina",

@@ -1,0 +1,50 @@
+{
+  "country_name" : "Bulgaria",
+  "country_synonyms" : [
+    "Bulgaria"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Plovdiv Province",
+      "region_synonyms" : [
+        "Plovdiv Province"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Plovdiv",
+          "city_synonyms" : [
+            "Plovdiv"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Sofia Central Province",
+      "region_synonyms" : [
+        "Sofia Central Province"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sofia",
+          "city_synonyms" : [
+            "Sofia"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Varna Province",
+      "region_synonyms" : [
+        "Varna Province"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Varna",
+          "city_synonyms" : [
+            "Varna"
+          ]
+        }
+      ]
+    }
+  ]
+}
