@@ -1195,6 +1195,21 @@
       ]
     },
     {
+      "region_name" : "Primorsky krai",
+      "region_synonyms" : [
+        "Primorsky krai"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Vladivostok",
+          "city_synonyms" : [
+            "Vladivostok",
+            "Владивосток"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Pskov obl.",
       "region_synonyms" : [
         "Pskov"
