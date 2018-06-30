@@ -37,7 +37,7 @@ Stable releases are hosted on [JCenter](https://bintray.com/bintray/jcenter).
 <dependency>
   <groupId>com.github.getcoderio</groupId>
   <artifactId>GetCountry</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <type>pom</type>
 </dependency>
 ```
