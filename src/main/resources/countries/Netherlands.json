@@ -5,6 +5,20 @@
   ],
   "regions" : [
     {
+      "region_name" : "Amsterdam",
+      "region_synonyms" : [
+        "Amsterdam"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Amsterdam",
+          "city_synonyms" : [
+            "Amsterdam"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Groningen",
       "region_synonyms" : [
         "Groningen"

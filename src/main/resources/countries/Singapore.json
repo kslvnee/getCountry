@@ -1,0 +1,22 @@
+{
+  "country_name" : "Singapore",
+  "country_synonyms" : [
+    "Singapore"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Singapore",
+      "region_synonyms" : [
+        "Singapore"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Singapore",
+          "city_synonyms" : [
+            "Singapore"
+          ]
+        }
+      ]
+    }
+  ]
+}

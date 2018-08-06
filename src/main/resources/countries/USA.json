@@ -1717,6 +1717,12 @@
           ]
         },
         {
+          "city_name" : "San Antonio",
+          "city_synonyms" : [
+            "San Antonio"
+          ]
+        },
+        {
           "city_name" : "Tyler",
           "city_synonyms" : [
             "Tyler"

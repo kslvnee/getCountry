@@ -1061,6 +1061,21 @@
       ]
     },
     {
+      "region_name" : "Mordovia",
+      "region_synonyms" : [
+        "Mordovia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Saransk",
+          "city_synonyms" : [
+            "Saransk",
+            "Саранск"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "N.Novgorod obl.",
       "region_synonyms" : [
         "Nizhny Novgorod Oblast"

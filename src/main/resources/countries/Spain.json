@@ -5,6 +5,20 @@
   ],
   "regions" : [
     {
+      "region_name" : "Catalonia",
+      "region_synonyms" : [
+        "Catalonia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Barcelona",
+          "city_synonyms" : [
+            "Barcelona"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Madrid",
       "region_synonyms" : [
         "Madrid"

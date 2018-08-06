@@ -1,0 +1,22 @@
+{
+  "country_name" : "Albania",
+  "country_synonyms" : [
+    "Albania"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tirana",
+      "region_synonyms" : [
+        "Tirana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tirana",
+          "city_synonyms" : [
+            "Tirana"
+          ]
+        }
+      ]
+    }
+  ]
+}

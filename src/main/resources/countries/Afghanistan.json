@@ -1,0 +1,22 @@
+{
+  "country_name" : "Afghanistan",
+  "country_synonyms" : [
+    "Afghanistan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kabul Province",
+      "region_synonyms" : [
+        "Kabul Province"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kabul",
+          "city_synonyms" : [
+            "Kabul"
+          ]
+        }
+      ]
+    }
+  ]
+}
