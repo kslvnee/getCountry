@@ -1,0 +1,107 @@
+{
+  "country_name" : "Cuba",
+  "country_synonyms" : [
+    "Cuba"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Artemisa",
+      "region_synonyms" : [
+        "Artemisa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Artemisa",
+          "city_synonyms" : [
+            "Artemisa"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Camagüey",
+      "region_synonyms" : [
+        "Camagüey"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Camagüey",
+          "city_synonyms" : [
+            "Camagüey"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Cienfuegos",
+      "region_synonyms" : [
+        "Cienfuegos"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cienfuegos",
+          "city_synonyms" : [
+            "Cienfuegos"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Granma",
+      "region_synonyms" : [
+        "Granma"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bayamo",
+          "city_synonyms" : [
+            "Bayamo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Havana",
+      "region_synonyms" : [
+        "Havana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Havana",
+          "city_synonyms" : [
+            "Havana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Holguín",
+      "region_synonyms" : [
+        "Holguín"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Holguín",
+          "city_synonyms" : [
+            "Holguín"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Matanzas",
+      "region_synonyms" : [
+        "Matanzas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Matanzas",
+          "city_synonyms" : [
+            "Matanzas"
+          ]
+        }
+      ]
+    }
+  ]
+}

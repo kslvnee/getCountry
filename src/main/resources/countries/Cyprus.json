@@ -1,0 +1,93 @@
+{
+  "country_name" : "Cyprus",
+  "country_synonyms" : [
+    "Cyprus"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Famagusta",
+      "region_synonyms" : [
+        "Famagusta"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Famagusta",
+          "city_synonyms" : [
+            "Famagusta"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Kyrenia",
+      "region_synonyms" : [
+        "Kyrenia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kyrenia",
+          "city_synonyms" : [
+            "Kyrenia"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Limassol",
+      "region_synonyms" : [
+        "Limassol"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Limassol",
+          "city_synonyms" : [
+            "Limassol"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Larnaca",
+      "region_synonyms" : [
+        "Larnaca"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Larnaca",
+          "city_synonyms" : [
+            "Larnaca"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Nicosia",
+      "region_synonyms" : [
+        "Nicosia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Nicosia",
+          "city_synonyms" : [
+            "Nicosia"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Paphos",
+      "region_synonyms" : [
+        "Paphos"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Paphos",
+          "city_synonyms" : [
+            "Paphos"
+          ]
+        }
+      ]
+    }
+  ]
+}

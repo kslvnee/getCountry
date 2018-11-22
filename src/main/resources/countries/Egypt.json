@@ -1,0 +1,23 @@
+{
+  "country_name" : "Egypt",
+  "country_synonyms" : [
+    "Egypt"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Cairo",
+      "region_synonyms" : [
+        "Cairo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cairo",
+          "city_synonyms" : [
+            "Cairo"
+          ]
+        }
+      ]
+    }
+  ]
+}

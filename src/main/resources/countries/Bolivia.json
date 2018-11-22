@@ -1,0 +1,102 @@
+{
+  "country_name" : "Bolivia",
+  "country_synonyms" : [
+    "Bolivia"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Beni",
+      "region_synonyms" : [
+        "Beni"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Guayaramerín",
+          "city_synonyms" : [
+            "Guayaramerín"
+          ]
+        },
+        {
+          "city_name" : "Riberalta",
+          "city_synonyms" : [
+            "Riberalta"
+          ]
+        },
+        {
+          "city_name" : "San Borja",
+          "city_synonyms" : [
+            "San Borja"
+          ]
+        },
+        {
+          "city_name" : "Rurrenabaque",
+          "city_synonyms" : [
+            "Rurrenabaque"
+          ]
+        }
+
+      ]
+    },
+    {
+      "region_name" : "Cochabamba",
+      "region_synonyms" : [
+        "Cochabamba"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cochabamba",
+          "city_synonyms" : [
+            "Cochabamba"
+          ]
+        }
+
+      ]
+    },
+    {
+      "region_name" : "La Paz",
+      "region_synonyms" : [
+        "La Paz"
+      ],
+      "cities" : [
+        {
+          "city_name" : "La Paz",
+          "city_synonyms" : [
+            "La Paz"
+          ]
+        }
+
+      ]
+    },
+    {
+      "region_name" : "Oruro",
+      "region_synonyms" : [
+        "Oruro"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Oruro",
+          "city_synonyms" : [
+            "Oruro"
+          ]
+        }
+
+      ]
+    },
+    {
+      "region_name" : "Santa Cruz",
+      "region_synonyms" : [
+        "Santa Cruz"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Santa Cruz",
+          "city_synonyms" : [
+            "Santa Cruz"
+          ]
+        }
+
+      ]
+    }
+  ]
+}

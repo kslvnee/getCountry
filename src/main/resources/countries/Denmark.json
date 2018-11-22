@@ -1,0 +1,77 @@
+{
+  "country_name" : "Denmark",
+  "country_synonyms" : [
+    "Denmark"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Capital",
+      "region_synonyms" : [
+        "Capital"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Copenhagen",
+          "city_synonyms" : [
+            "Copenhagen"
+          ]
+        },
+        {
+          "city_name" : "Frederiksberg",
+          "city_synonyms" : [
+            "Frederiksberg"
+          ]
+        },
+        {
+          "city_name" : "Gentofte",
+          "city_synonyms" : [
+            "Gentofte"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central",
+      "region_synonyms" : [
+        "Central"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aarhus",
+          "city_synonyms" : [
+            "Aarhus"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North",
+      "region_synonyms" : [
+        "North"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aalborg",
+          "city_synonyms" : [
+            "Aalborg"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South",
+      "region_synonyms" : [
+        "South"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Odense",
+          "city_synonyms" : [
+            "Odense"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "country_name" : "Azerbaijan",
+  "country_synonyms" : [
+    "Azerbaijan"
+  ],
+  "regions" : [
+
+    {
+      "region_name" : "Absheron",
+      "region_synonyms" : [
+        "Absheron"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Baku",
+          "city_synonyms" : [
+            "Baku"
+          ]
+        }
+      ]
+    }
+  ]
+}
