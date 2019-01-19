@@ -1,0 +1,22 @@
+{
+  "country_name" : "Estonia",
+  "country_synonyms" : [
+    "Estonia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Harju County",
+      "region_synonyms" : [
+        "Harju County"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tallinn",
+          "city_synonyms" : [
+            "Tallinn"
+          ]
+        }
+      ]
+    }
+  ]
+}

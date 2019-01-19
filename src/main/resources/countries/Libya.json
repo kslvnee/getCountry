@@ -1,0 +1,22 @@
+{
+  "country_name" : "Libya",
+  "country_synonyms" : [
+    "Libya"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tripoli",
+      "region_synonyms" : [
+        "Tripoli"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tripoli",
+          "city_synonyms" : [
+            "Tripoli"
+          ]
+        }
+      ]
+    }
+  ]
+}

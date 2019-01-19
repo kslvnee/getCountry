@@ -1,0 +1,22 @@
+{
+  "country_name" : "Iceland",
+  "country_synonyms" : [
+    "Iceland"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Reykjavík",
+      "region_synonyms" : [
+        "Reykjavík"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Reykjavík",
+          "city_synonyms" : [
+            "Reykjavík"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "country_name" : "Czech Republic",
+  "country_synonyms" : [
+    "Czech Republic",
+    "Czech rep.",
+    "Czech rep"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Prague",
+      "region_synonyms" : [
+        "Prague"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Prague",
+          "city_synonyms" : [
+            "Prague"
+          ]
+        }
+      ]
+    }
+  ]
+}

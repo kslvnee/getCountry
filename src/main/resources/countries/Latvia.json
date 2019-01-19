@@ -1,0 +1,24 @@
+{
+  "country_name" : "Latvia",
+  "country_synonyms" : [
+    "Latvia",
+    "Latvija"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Riga",
+      "region_synonyms" : [
+        "Riga"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Riga",
+          "city_synonyms" : [
+            "Riga",
+            "Rīga"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Indonesia",
+  "country_synonyms" : [
+    "Indonesia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Jakarta",
+      "region_synonyms" : [
+        "Jakarta"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Jakarta",
+          "city_synonyms" : [
+            "Jakarta"
+          ]
+        }
+      ]
+    }
+  ]
+}

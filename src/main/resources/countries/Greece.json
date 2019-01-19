@@ -1,0 +1,22 @@
+{
+  "country_name" : "Greece",
+  "country_synonyms" : [
+    "Greece"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Attica",
+      "region_synonyms" : [
+        "Attica"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Athens",
+          "city_synonyms" : [
+            "Athens"
+          ]
+        }
+      ]
+    }
+  ]
+}

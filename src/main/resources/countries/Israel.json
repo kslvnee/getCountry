@@ -1,0 +1,22 @@
+{
+  "country_name" : "Israel",
+  "country_synonyms" : [
+    "Israel"
+  ],
+  "regions" : [
+    {
+      "region_name" : "TelAviv",
+      "region_synonyms" : [
+        "Tel Aviv"
+      ],
+      "cities" : [
+        {
+          "city_name" : "TelAviv",
+          "city_synonyms" : [
+            "Tel Aviv"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "country_name" : "Kazakhstan",
+  "country_synonyms" : [
+    "Kazakhstan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kazakhstan",
+      "region_synonyms" : [
+        "Kazakhstan"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Almaty",
+          "city_synonyms" : [
+            "Almaty"
+          ]
+        },
+        {
+          "city_name" : "Astana",
+          "city_synonyms" : [
+            "Astana"
+          ]
+        },
+        {
+          "city_name" : "Aktobe",
+          "city_synonyms" : [
+            "Aktobe"
+          ]
+        },
+        {
+          "city_name" : "Aktau",
+          "city_synonyms" : [
+            "Aktau"
+          ]
+        }
+      ]
+    }
+  ]
+}
