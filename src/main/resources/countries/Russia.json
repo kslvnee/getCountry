@@ -52,7 +52,7 @@
       ]
     },
     {
-      "region_name" : "Amur obl.",
+      "region_name" : "Blagoveshchensk",
       "region_synonyms" : [
         "Amur"
       ],
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "region_name" : "Arkhangelsk obl.",
+      "region_name" : "Arkhangelsk",
       "region_synonyms" : [
         "Arkhangelsk Oblast"
       ],
@@ -108,7 +108,7 @@
       ]
     },
     {
-      "region_name" : "Astrakhan obl.",
+      "region_name" : "Astrakhan",
       "region_synonyms" : [
         "Astrakhan Oblast"
       ],
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "region_name" : "Belgorod obl.",
+      "region_name" : "Belgorod",
       "region_synonyms" : [
         "Belgorod Oblast"
       ],
@@ -166,7 +166,7 @@
       ]
     },
     {
-      "region_name" : "Bryansk obl.",
+      "region_name" : "Bryansk",
       "region_synonyms" : [
         "Bryansk Oblast"
       ],
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "region_name" : "Chelyabinsk obl.",
+      "region_name" : "Chelyabinsk",
       "region_synonyms" : [
         "Chelyabinsk"
       ],
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "region_name" : "Irkutsk obl.",
+      "region_name" : "Irkutsk",
       "region_synonyms" : [
         "Irkutsk Oblast"
       ],
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "region_name" : "Ivanovo obl.",
+      "region_name" : "Ivanovo",
       "region_synonyms" : [
         "Ivanovo"
       ],
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "region_name" : "Kaliningrad obl.",
+      "region_name" : "Kaliningrad",
       "region_synonyms" : [
         "Kaliningrad"
       ],
@@ -296,7 +296,7 @@
       ]
     },
     {
-      "region_name" : "Kaluga obl.",
+      "region_name" : "Kaluga",
       "region_synonyms" : [
         "Kaluga"
       ],
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "region_name" : "Kirov obl.",
+      "region_name" : "Kirov",
       "region_synonyms" : [
         "Kirov"
       ],
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "region_name" : "Kostroma obl.",
+      "region_name" : "Kostroma",
       "region_synonyms" : [
         "Kostroma"
       ],
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "region_name" : "Krasnodar krai",
+      "region_name" : "Krasnodar",
       "region_synonyms" : [
         "Krasnodar Krai"
       ],
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "region_name" : "Krasnoyarsk krai",
+      "region_name" : "Krasnoyarsk",
       "region_synonyms" : [
         "Krasnoyarsk"
       ],
@@ -1002,7 +1002,7 @@
       ]
     },
     {
-      "region_name" : "Kurgan obl.",
+      "region_name" : "Kurgan",
       "region_synonyms" : [
         "Kurgan Oblast"
       ],
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "region_name" : "Kursk obl.",
+      "region_name" : "Kursk",
       "region_synonyms" : [
         "Kursk Oblast"
       ],
@@ -1032,7 +1032,7 @@
       ]
     },
     {
-      "region_name" : "Leningrad .obl",
+      "region_name" : "Leningrad",
       "region_synonyms" : [
         "Leningrad Oblast"
       ],
@@ -1046,7 +1046,7 @@
       ]
     },
     {
-      "region_name" : "Lipetsk .obl",
+      "region_name" : "Lipetsk",
       "region_synonyms" : [
         "Lipetsk Oblast"
       ],
@@ -1076,7 +1076,7 @@
       ]
     },
     {
-      "region_name" : "N.Novgorod obl.",
+      "region_name" : "NizhnyNovgorod",
       "region_synonyms" : [
         "Nizhny Novgorod Oblast"
       ],
@@ -1101,13 +1101,13 @@
       ]
     },
     {
-      "region_name" : "Novgorod obl.",
+      "region_name" : "Novgorod",
       "region_synonyms" : [
         "Novgorod Oblast"
       ],
       "cities" : [
         {
-          "city_name" : "Veliky Novgorod",
+          "city_name" : "VelikyNovgorod",
           "city_synonyms" : [
             "Veliky Novgorod",
             "Velikiy Novgorod",
@@ -1117,7 +1117,7 @@
       ]
     },
     {
-      "region_name" : "Novosibirsk obl.",
+      "region_name" : "Novosibirsk",
       "region_synonyms" : [
         "Novosibirsk Oblast"
       ],
@@ -1132,7 +1132,7 @@
       ]
     },
     {
-      "region_name" : "Omsk obl.",
+      "region_name" : "Omsk",
       "region_synonyms" : [
         "Omsk Oblast"
       ],
@@ -1147,7 +1147,7 @@
       ]
     },
     {
-      "region_name" : "Orenburg obl.",
+      "region_name" : "Orenburg",
       "region_synonyms" : [
         "Orenburg"
       ],
@@ -1180,7 +1180,7 @@
       ]
     },
     {
-      "region_name" : "Penza obl.",
+      "region_name" : "Penza",
       "region_synonyms" : [
         "Penza"
       ],
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "region_name" : "Perm krai",
+      "region_name" : "Perm",
       "region_synonyms" : [
         "Perm"
       ],
@@ -1210,7 +1210,7 @@
       ]
     },
     {
-      "region_name" : "Primorsky krai",
+      "region_name" : "PrimorskyKrai",
       "region_synonyms" : [
         "Primorsky krai"
       ],
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "region_name" : "Pskov obl.",
+      "region_name" : "Pskov",
       "region_synonyms" : [
         "Pskov"
       ],
@@ -1240,9 +1240,10 @@
       ]
     },
     {
-      "region_name" : "Rostov obl.",
+      "region_name" : "Rostov-on-Don",
       "region_synonyms" : [
-        "Rostov Oblast"
+        "Rostov Oblast",
+        "Rostov-on-Don"
       ],
       "cities" : [
         {
@@ -1264,7 +1265,7 @@
       ]
     },
     {
-      "region_name" : "Ryazan obl.",
+      "region_name" : "Ryazan",
       "region_synonyms" : [
         "Ryazan"
       ],
@@ -1279,9 +1280,10 @@
       ]
     },
     {
-      "region_name" : "St. Petersburg",
+      "region_name" : "SaintPetersburg",
       "region_synonyms" : [
-        "Санкт-Петербург"
+        "Санкт-Петербург",
+        "SaintPetersburg"
       ],
       "cities" : [
         {
@@ -1358,7 +1360,7 @@
       ]
     },
     {
-      "region_name" : "Samara obl.",
+      "region_name" : "Samara",
       "region_synonyms" : [
         "Samara"
       ],
@@ -1373,7 +1375,7 @@
       ]
     },
     {
-      "region_name" : "Saratov obl.",
+      "region_name" : "Saratov",
       "region_synonyms" : [
         "Saratov"
       ],
@@ -1388,7 +1390,7 @@
       ]
     },
     {
-      "region_name" : "Smolensk obl.",
+      "region_name" : "Smolensk",
       "region_synonyms" : [
         "Smolensk"
       ],
@@ -1403,7 +1405,7 @@
       ]
     },
     {
-      "region_name" : "Stavropol krai",
+      "region_name" : "Stavropol",
       "region_synonyms" : [
         "Stavropol"
       ],
@@ -1418,7 +1420,7 @@
       ]
     },
     {
-      "region_name" : "Sverdlovsk obl.",
+      "region_name" : "Sverdlovsk",
       "region_synonyms" : [
         "Sverdlovsk Oblast"
       ],
@@ -1458,7 +1460,7 @@
       ]
     },
     {
-      "region_name" : "Tambov obl.",
+      "region_name" : "Tambov",
       "region_synonyms" : [
         "Tambov"
       ],
@@ -1553,7 +1555,7 @@
       ]
     },
     {
-      "region_name" : "Tomsk obl.",
+      "region_name" : "Tomsk",
       "region_synonyms" : [
         "Tomsk"
       ],
@@ -1568,7 +1570,7 @@
       ]
     },
     {
-      "region_name" : "Tula obl.",
+      "region_name" : "Tula",
       "region_synonyms" : [
         "Tula Oblast"
       ],
@@ -1589,7 +1591,7 @@
       ]
     },
     {
-      "region_name" : "Tver obl.",
+      "region_name" : "Tver",
       "region_synonyms" : [
         "Tver"
       ],
@@ -1604,7 +1606,7 @@
       ]
     },
     {
-      "region_name" : "Tyumen obl.",
+      "region_name" : "Tyumen",
       "region_synonyms" : [
         "Tyumen"
       ],
@@ -1655,7 +1657,7 @@
       ]
     },
     {
-      "region_name" : "Ulyanovsk obl.",
+      "region_name" : "Ulyanovsk",
       "region_synonyms" : [
         "Ulyanovsk Oblast"
       ],
@@ -1700,7 +1702,7 @@
       ]
     },
     {
-      "region_name" : "Vladimir obl.",
+      "region_name" : "Vladimir",
       "region_synonyms" : [
         "Vladimir Oblast"
       ],
@@ -1732,7 +1734,7 @@
       ]
     },
     {
-      "region_name" : "Volgograd obl.",
+      "region_name" : "Volgograd",
       "region_synonyms" : [
         "Volgograd"
       ],
@@ -1747,7 +1749,7 @@
       ]
     },
     {
-      "region_name" : "Vologda obl.",
+      "region_name" : "Vologda",
       "region_synonyms" : [
         "Vologda"
       ],
@@ -1762,7 +1764,7 @@
       ]
     },
     {
-      "region_name" : "Voronezh obl.",
+      "region_name" : "Voronezh",
       "region_synonyms" : [
         "Voronezh"
       ],
@@ -1777,7 +1779,7 @@
       ]
     },
     {
-      "region_name" : "Yaroslavl obl.",
+      "region_name" : "Yaroslavl",
       "region_synonyms" : [
         "Yaroslavl"
       ],

@@ -151,9 +151,10 @@
           ]
         },
         {
-          "city_name" : "Chula Vista",
+          "city_name" : "Chula-Vista",
           "city_synonyms" : [
-            "Chula Vista"
+            "Chula Vista",
+            "Chula-Vista"
           ]
         },
         {
@@ -175,15 +176,17 @@
           ]
         },
         {
-          "city_name" : "Costa Mesa",
+          "city_name" : "Costa-Mesa",
           "city_synonyms" : [
-            "Costa Mesa"
+            "Costa Mesa",
+            "Costa-Mesa"
           ]
         },
         {
-          "city_name" : "Daly City",
+          "city_name" : "Daly-City",
           "city_synonyms" : [
-            "Daly City"
+            "Daly City",
+            "Daly-City"
           ]
         },
         {
@@ -193,21 +196,24 @@
           ]
         },
         {
-          "city_name" : "El Cajon",
+          "city_name" : "El-Cajon",
           "city_synonyms" : [
-            "El Cajon"
+            "El Cajon",
+            "El-Cajon"
           ]
         },
         {
-          "city_name" : "El Monte",
+          "city_name" : "El-Monte",
           "city_synonyms" : [
-            "El Monte"
+            "El Monte",
+            "El-Monte"
           ]
         },
         {
-          "city_name" : "Elk Grove",
+          "city_name" : "Elk-Grove",
           "city_synonyms" : [
-            "Elk Grove"
+            "Elk Grove",
+            "Elk-Grove"
           ]
         },
         {
@@ -247,9 +253,10 @@
           ]
         },
         {
-          "city_name" : "Garden Grove",
+          "city_name" : "Garden-Grove",
           "city_synonyms" : [
-            "Garden Grove"
+            "Garden Grove",
+            "Garden-Grove"
           ]
         },
         {
@@ -265,9 +272,10 @@
           ]
         },
         {
-          "city_name" : "Huntington Beach",
+          "city_name" : "Huntington-Beach",
           "city_synonyms" : [
-            "Huntington Beach"
+            "Huntington Beach",
+            "Huntington-Beach"
           ]
         },
         {
@@ -283,9 +291,10 @@
           ]
         },
         {
-          "city_name" : "Jurupa Valley",
+          "city_name" : "Jurupa-Valley",
           "city_synonyms" : [
-            "Jurupa Valley"
+            "Jurupa Valley",
+            "Jurupa-Valley"
           ]
         },
         {
@@ -295,15 +304,17 @@
           ]
         },
         {
-          "city_name" : "Long Beach",
+          "city_name" : "Long-Beach",
           "city_synonyms" : [
-            "Long Beach"
+            "Long Beach",
+            "Long-Beach"
           ]
         },
         {
-          "city_name" : "Los Angeles",
+          "city_name" : "Los-Angeles",
           "city_synonyms" : [
-            "Los Angeles"
+            "Los Angeles",
+            "Los-Angeles"
           ]
         },
         {
@@ -313,9 +324,10 @@
           ]
         },
         {
-          "city_name" : "Moreno Valley",
+          "city_name" : "Moreno-Valley",
           "city_synonyms" : [
-            "Moreno Valley"
+            "Moreno Valley",
+            "Moreno-Valley"
           ]
         },
         {
@@ -379,9 +391,10 @@
           ]
         },
         {
-          "city_name" : "Rancho Cucamonga",
+          "city_name" : "Rancho-Cucamonga",
           "city_synonyms" : [
-            "Rancho Cucamonga"
+            "Rancho Cucamonga",
+            "Rancho-Cucamonga"
           ]
         },
         {
@@ -427,70 +440,81 @@
           ]
         },
         {
-          "city_name" : "San Bernardino",
+          "city_name" : "San-Bernardino",
           "city_synonyms" : [
-            "San Bernardino"
+            "San Bernardino",
+            "San-Bernardino"
           ]
         },
         {
-          "city_name" : "San Diego",
+          "city_name" : "San-Diego",
           "city_synonyms" : [
-            "San Diego"
+            "San Diego",
+            "San-Diego"
           ]
         },
         {
-          "city_name" : "San Francisco",
+          "city_name" : "San-Francisco",
           "city_synonyms" : [
             "San Francisco",
-            "Bay Area"
+            "Bay Area",
+            "San-Francisco"
           ]
         },
         {
-          "city_name" : "San Jose",
+          "city_name" : "San-Jose",
           "city_synonyms" : [
-            "San Jose"
+            "San Jose",
+            "San-Jose"
           ]
         },
         {
-          "city_name" : "San Mateo",
+          "city_name" : "San-Mateo",
           "city_synonyms" : [
-            "San Mateo"
+            "San Mateo",
+            "San-Mateo"
           ]
         },
         {
-          "city_name" : "Santa Ana",
+          "city_name" : "Santa-Ana",
           "city_synonyms" : [
-            "Santa Ana"
+            "Santa Ana",
+            "Santa-Ana"
           ]
         },
         {
-          "city_name" : "Santa Clara",
+          "city_name" : "Santa-Clara",
           "city_synonyms" : [
-            "Santa Clara"
+            "Santa Clara",
+            "Santa-Clara"
           ]
         },
         {
-          "city_name" : "Santa Clarita",
+          "city_name" : "Santa-Clarita",
           "city_synonyms" : [
-            "Santa Clarita"
+            "Santa Clarita",
+            "Santa-Clarita"
           ]
         },
         {
-          "city_name" : "Santa Maria",
+          "city_name" : "Santa-Maria",
           "city_synonyms" : [
-            "Santa Maria"
+            "Santa Maria",
+            "Santa-Maria"
           ]
         },
         {
-          "city_name" : "Santa Rosa",
+          "city_name" : "Santa-Rosa",
           "city_synonyms" : [
-            "Santa Rosa"
+            "Santa Rosa",
+            "Santa-Rosa"
           ]
         },
         {
-          "city_name" : "Simi Valley",
+          "city_name" : "Simi-Valley",
           "city_synonyms" : [
-            "Simi Valley"
+            "Simi Valley",
+            "Simi-Valley"
           ]
         },
         {
@@ -512,9 +536,10 @@
           ]
         },
         {
-          "city_name" : "Thousand Oaks",
+          "city_name" : "Thousand-Oaks",
           "city_synonyms" : [
-            "Thousand Oaks"
+            "Thousand Oaks",
+            "Thousand-Oaks"
           ]
         },
         {
@@ -560,9 +585,10 @@
           ]
         },
         {
-          "city_name" : "West Covina",
+          "city_name" : "West-Covina",
           "city_synonyms" : [
-            "West Covina"
+            "West Covina",
+            "West-Covina"
           ]
         }
       ]
@@ -598,9 +624,10 @@
           ]
         },
         {
-          "city_name" : "Colorado Springs",
+          "city_name" : "Colorado-Springs",
           "city_synonyms" : [
-            "Colorado Springs"
+            "Colorado Springs",
+            "Colorado-Springs"
           ]
         },
         {
@@ -610,9 +637,10 @@
           ]
         },
         {
-          "city_name" : "Fort Collins",
+          "city_name" : "Fort-Collins",
           "city_synonyms" : [
-            "Fort Collins"
+            "Fort Collins",
+            "Fort-Collins"
           ]
         },
         {
@@ -666,9 +694,10 @@
           ]
         },
         {
-          "city_name" : "New Haven",
+          "city_name" : "New-Haven",
           "city_synonyms" : [
-            "New Haven"
+            "New Haven",
+            "New-Haven"
           ]
         },
         {
@@ -693,9 +722,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Cape Coral",
+          "city_name" : "Cape-Coral",
           "city_synonyms" : [
-            "Cape Coral"
+            "Cape Coral",
+            "Cape-Coral"
           ]
         },
         {
@@ -705,9 +735,10 @@
           ]
         },
         {
-          "city_name" : "Coral Springs",
+          "city_name" : "Coral-Springs",
           "city_synonyms" : [
-            "Coral Springs"
+            "Coral Springs",
+            "Coral-Springs"
           ]
         },
         {
@@ -717,9 +748,10 @@
           ]
         },
         {
-          "city_name" : "Fort Lauderdale",
+          "city_name" : "Fort-Lauderdale",
           "city_synonyms" : [
-            "Fort Lauderdale"
+            "Fort Lauderdale",
+            "Fort-Lauderdale"
           ]
         },
         {
@@ -771,28 +803,32 @@
           ]
         },
         {
-          "city_name" : "Palm Bay",
+          "city_name" : "Palm-Bay",
           "city_synonyms" : [
-            "Palm Bay"
+            "Palm Bay",
+            "Palm-Bay"
           ]
         },
         {
-          "city_name" : "Pembroke Pines",
+          "city_name" : "Pembroke-Pines",
           "city_synonyms" : [
-            "Pembroke Pines"
+            "Pembroke Pines",
+            "Pembroke-Pines"
           ]
         },
         {
-          "city_name" : "Pompano Beach",
+          "city_name" : "Pompano-Beach",
           "city_synonyms" : [
-            "Pompano Beach"
+            "Pompano Beach",
+            "Pompano-Beach"
           ]
         },
         {
-          "city_name" : "St. Petersburg",
+          "city_name" : "SaintPetersburg",
           "city_synonyms" : [
             "St. Petersburg",
-            "Saint Petersburg"
+            "Saint Petersburg",
+            "SaintPetersburg"
           ]
         },
         {
@@ -847,9 +883,10 @@
           ]
         },
         {
-          "city_name" : "Sandy Springs",
+          "city_name" : "Sandy-Springs",
           "city_synonyms" : [
-            "Sandy Springs"
+            "Sandy Springs",
+            "Sandy-Springs"
           ]
         },
         {
@@ -929,9 +966,10 @@
           ]
         },
         {
-          "city_name" : "Fort Wayne",
+          "city_name" : "Fort-Wayne",
           "city_synonyms" : [
-            "Fort Wayne"
+            "Fort Wayne",
+            "Fort-Wayne"
           ]
         },
         {
@@ -941,9 +979,10 @@
           ]
         },
         {
-          "city_name" : "South Bend",
+          "city_name" : "South-Bend",
           "city_synonyms" : [
-            "South Bend"
+            "South Bend",
+            "South-Bend"
           ]
         }
       ]
@@ -999,9 +1038,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Ann Arbor",
+          "city_name" : "Ann-Arbor",
           "city_synonyms" : [
-            "Ann Arbor"
+            "Ann Arbor",
+            "Ann-Arbor"
           ]
         },
         {
@@ -1011,9 +1051,10 @@
           ]
         },
         {
-          "city_name" : "Grand Rapids",
+          "city_name" : "Grand-Rapids",
           "city_synonyms" : [
-            "Grand Rapids"
+            "Grand Rapids",
+            "Grand-Rapids"
           ]
         },
         {
@@ -1023,9 +1064,10 @@
           ]
         },
         {
-          "city_name" : "Sterling Heights",
+          "city_name" : "Sterling-Heights",
           "city_synonyms" : [
-            "Sterling Heights"
+            "Sterling Heights",
+            "Sterling-Heights"
           ]
         },
         {
@@ -1056,7 +1098,7 @@
           ]
         },
         {
-          "city_name" : "Saint Paul",
+          "city_name" : "Saint-Paul",
           "city_synonyms" : [
             "Saint Paul",
             "Saint-Paul"
@@ -1083,9 +1125,10 @@
           ]
         },
         {
-          "city_name" : "Kansas City",
+          "city_name" : "Kansas-City",
           "city_synonyms" : [
-            "Kansas City"
+            "Kansas City",
+            "Kansas-City"
           ]
         },
         {
@@ -1129,15 +1172,17 @@
           ]
         },
         {
-          "city_name" : "Las Vegas",
+          "city_name" : "Las-Vegas",
           "city_synonyms" : [
-            "Las Vegas"
+            "Las Vegas",
+            "Las-Vegas"
           ]
         },
         {
-          "city_name" : "North Las Vegas",
+          "city_name" : "North-Las-Vegas",
           "city_synonyms" : [
-            "North Las Vegas"
+            "North Las Vegas",
+            "North-Las-Vegas"
           ]
         },
         {
@@ -1149,9 +1194,10 @@
       ]
     },
     {
-      "region_name" : "New Jersey",
+      "region_name" : "New-Jersey",
       "region_synonyms" : [
-        "New Jersey"
+        "New Jersey",
+        "New-Jersey"
       ],
       "cities" : [
         {
@@ -1167,9 +1213,10 @@
           ]
         },
         {
-          "city_name" : "Jersey City",
+          "city_name" : "Jersey-City",
           "city_synonyms" : [
-            "Jersey City"
+            "Jersey City",
+            "Jersey-City"
           ]
         },
         {
@@ -1193,9 +1240,10 @@
       ]
     },
     {
-      "region_name" : "New York",
+      "region_name" : "New-York",
       "region_synonyms" : [
-        "New York"
+        "New York",
+        "New-York"
       ],
       "cities" : [
         {
@@ -1205,9 +1253,10 @@
           ]
         },
         {
-          "city_name" : "New York",
+          "city_name" : "New-York",
           "city_synonyms" : [
-            "New York"
+            "New York",
+            "New-York"
           ]
         },
         {
@@ -1231,9 +1280,10 @@
       ]
     },
     {
-      "region_name" : "North Carolina",
+      "region_name" : "North-Carolina",
       "region_synonyms" : [
-        "North Carolina"
+        "North Carolina",
+        "North-Carolina"
       ],
       "cities" : [
         {
@@ -1267,9 +1317,10 @@
           ]
         },
         {
-          "city_name" : "High Point",
+          "city_name" : "High-Point",
           "city_synonyms" : [
-            "High Point"
+            "High Point",
+            "High-Point"
           ]
         },
         {
@@ -1343,9 +1394,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Broken Arrow",
+          "city_name" : "Broken-Arrow",
           "city_synonyms" : [
-            "Broken Arro"
+            "Broken Arro",
+            "Broken-Arrow"
           ]
         },
         {
@@ -1405,9 +1457,10 @@
           ]
         },
         {
-          "city_name" : "West Linn",
+          "city_name" : "West-Linn",
           "city_synonyms" : [
-            "West Linn"
+            "West Linn",
+            "West-Linn"
           ]
         }
       ]
@@ -1425,9 +1478,10 @@
           ]
         },
         {
-          "city_name" : "King of Prussia",
+          "city_name" : "King-of-Prussia",
           "city_synonyms" : [
-            "King of Prussia"
+            "King of Prussia",
+            "King-of-Prussia"
           ]
         },
         {
@@ -1445,9 +1499,10 @@
       ]
     },
     {
-      "region_name" : "Rhode Island",
+      "region_name" : "Rhode-Island",
       "region_synonyms" : [
         "Rhode Island",
+        "Rhode-Island",
         "RI"
       ],
       "cities" : [
@@ -1567,15 +1622,17 @@
           ]
         },
         {
-          "city_name" : "College Station",
+          "city_name" : "College-Station",
           "city_synonyms" : [
-            "College Station"
+            "College Station",
+            "College-Station"
           ]
         },
         {
-          "city_name" : "Corpus Christi",
+          "city_name" : "Corpus-Christi",
           "city_synonyms" : [
-            "Corpus Christi"
+            "Corpus Christi",
+            "Corpus-Christi"
           ]
         },
         {
@@ -1591,15 +1648,17 @@
           ]
         },
         {
-          "city_name" : "El Paso",
+          "city_name" : "El-Paso",
           "city_synonyms" : [
-            "El Paso"
+            "El Paso",
+            "El-Paso"
           ]
         },
         {
-          "city_name" : "Fort Worth",
+          "city_name" : "Fort-Worth",
           "city_synonyms" : [
-            "Fort Worth"
+            "Fort Worth",
+            "Fort-Worth"
           ]
         },
         {
@@ -1615,9 +1674,10 @@
           ]
         },
         {
-          "city_name" : "Grand Prairie",
+          "city_name" : "Grand-Prairie",
           "city_synonyms" : [
-            "Grand Prairie"
+            "Grand Prairie",
+            "Grand-Prairie"
           ]
         },
         {
@@ -1705,21 +1765,24 @@
           ]
         },
         {
-          "city_name" : "Round Rock",
+          "city_name" : "Round-Rock",
           "city_synonyms" : [
-            "Round Rock"
+            "Round Rock",
+            "Round-Rock"
           ]
         },
         {
-          "city_name" : "San Angelo",
+          "city_name" : "San-Angelo",
           "city_synonyms" : [
-            "San Angelo"
+            "San Angelo",
+            "San-Angelo"
           ]
         },
         {
-          "city_name" : "San Antonio",
+          "city_name" : "San-Antonio",
           "city_synonyms" : [
-            "San Antonio"
+            "San Antonio",
+            "San-Antonio"
           ]
         },
         {
@@ -1735,9 +1798,10 @@
           ]
         },
         {
-          "city_name" : "Wichita Falls",
+          "city_name" : "Wichita-Falls",
           "city_synonyms" : [
-            "Wichita Falls"
+            "Wichita Falls",
+            "Wichita-Falls"
           ]
         }
       ]
@@ -1749,9 +1813,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Salt Lake City",
+          "city_name" : "Salt-Lake-City",
           "city_synonyms" : [
-            "Salt Lake City"
+            "Salt Lake City",
+            "Salt-Lake-City"
           ]
         }
       ]
@@ -1787,9 +1852,10 @@
           ]
         },
         {
-          "city_name" : "Newport News",
+          "city_name" : "Newport-News",
           "city_synonyms" : [
-            "Newport News"
+            "Newport News",
+            "Newport-News"
           ]
         },
         {
@@ -1876,9 +1942,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Green Bay",
+          "city_name" : "Green-Bay",
           "city_synonyms" : [
-            "Green Bay"
+            "Green Bay",
+            "Green-Bay"
           ]
         },
         {
