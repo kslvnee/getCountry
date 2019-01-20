@@ -52,9 +52,10 @@
       ]
     },
     {
-      "region_name" : "Blagoveshchensk",
+      "region_name" : "AmurOblast",
       "region_synonyms" : [
-        "Amur"
+        "Amur",
+        "AmurOblast"
       ],
       "cities" : [
         {
@@ -234,6 +235,57 @@
           "city_synonyms" : [
             "Cheboksary",
             "Чебоксары"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Crimea",
+      "region_synonyms" : [
+        "Crimea",
+        "Крым"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sevastopol",
+          "city_synonyms" : [
+            "Sevastopol",
+            "Севастополь"
+          ]
+        },
+        {
+          "city_name" : "Simferopol",
+          "city_synonyms" : [
+            "Simferopol",
+            "Симферополь"
+          ]
+        },
+        {
+          "city_name" : "Kerch",
+          "city_synonyms" : [
+            "Kerch",
+            "Керчь"
+          ]
+        },
+        {
+          "city_name" : "Yevpatoria",
+          "city_synonyms" : [
+            "Yevpatoria",
+            "Евпатория"
+          ]
+        },
+        {
+          "city_name" : "Yalta",
+          "city_synonyms" : [
+            "Yalta",
+            "Ялта"
+          ]
+        },
+        {
+          "city_name" : "Feodosiya",
+          "city_synonyms" : [
+            "Feodosiya",
+            "Феодосия"
           ]
         }
       ]
