@@ -1,0 +1,80 @@
+{
+  "country_name" : "Pakistan",
+  "country_synonyms" : [
+    "Pakistan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Sindh",
+      "region_synonyms" : [
+        "Sindh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Karachi",
+          "city_synonyms" : [
+            "Karachi"
+          ]
+        },
+        {
+          "city_name" : "Hyderabad",
+          "city_synonyms" : [
+            "Hyderabad"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Punjab",
+      "region_synonyms" : [
+        "Punjab"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lahore",
+          "city_synonyms" : [
+            "Lahore"
+          ]
+        },
+        {
+          "city_name" : "Faisalabad",
+          "city_synonyms" : [
+            "Faisalabad"
+          ]
+        },
+        {
+          "city_name" : "Rawalpindi",
+          "city_synonyms" : [
+            "Rawalpindi"
+          ]
+        },
+        {
+          "city_name" : "Multan",
+          "city_synonyms" : [
+            "Rawalpindi"
+          ]
+        },
+        {
+          "city_name" : "Gujranwala",
+          "city_synonyms" : [
+            "Rawalpindi"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Islamabad",
+      "region_synonyms" : [
+        "Islamabad"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Islamabad",
+          "city_synonyms" : [
+            "Islamabad"
+          ]
+        }
+      ]
+    }
+  ]
+}

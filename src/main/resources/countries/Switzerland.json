@@ -1,0 +1,36 @@
+{
+  "country_name" : "Switzerland",
+  "country_synonyms" : [
+    "Switzerland"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Zurich",
+      "region_synonyms" : [
+        "Zürich",
+        "Zurich"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Zurich",
+          "city_synonyms" : [
+            "Zürich",
+            "Zurich"
+          ]
+        },
+        {
+          "city_name" : "Lausanne",
+          "city_synonyms" : [
+            "Lausanne"
+          ]
+        },
+        {
+          "city_name" : "Zug",
+          "city_synonyms" : [
+            "Zug"
+          ]
+        }
+      ]
+    }
+  ]
+}

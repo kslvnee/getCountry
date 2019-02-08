@@ -1903,6 +1903,12 @@
           ]
         },
         {
+          "city_name" : "Redmond",
+          "city_synonyms" : [
+            "Redmond"
+          ]
+        },
+        {
           "city_name" : "Renton",
           "city_synonyms" : [
             "Renton"

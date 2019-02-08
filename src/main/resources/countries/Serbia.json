@@ -1,0 +1,22 @@
+{
+  "country_name" : "Serbia",
+  "country_synonyms" : [
+    "Serbia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Belgrade",
+      "region_synonyms" : [
+        "Belgrade"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Belgrade",
+          "city_synonyms" : [
+            "Belgrade"
+          ]
+        }
+      ]
+    }
+  ]
+}
