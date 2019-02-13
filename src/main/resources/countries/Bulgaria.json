@@ -1,7 +1,8 @@
 {
   "country_name" : "Bulgaria",
   "country_synonyms" : [
-    "Bulgaria"
+    "Bulgaria",
+    "Болгария"
   ],
   "regions" : [
     {
@@ -27,7 +28,8 @@
         {
           "city_name" : "Sofia",
           "city_synonyms" : [
-            "Sofia"
+            "Sofia",
+            "София"
           ]
         }
       ]
