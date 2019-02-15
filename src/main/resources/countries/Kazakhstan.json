@@ -1,7 +1,8 @@
 {
   "country_name" : "Kazakhstan",
   "country_synonyms" : [
-    "Kazakhstan"
+    "Kazakhstan",
+    "Казахстан"
   ],
   "regions" : [
     {
@@ -13,25 +14,44 @@
         {
           "city_name" : "Almaty",
           "city_synonyms" : [
-            "Almaty"
+            "Almaty",
+            "Алматы"
           ]
         },
         {
           "city_name" : "Astana",
           "city_synonyms" : [
-            "Astana"
+            "Astana",
+            "Астана"
           ]
         },
         {
           "city_name" : "Aktobe",
           "city_synonyms" : [
-            "Aktobe"
+            "Aktobe",
+            "Актобе"
           ]
         },
         {
           "city_name" : "Aktau",
           "city_synonyms" : [
-            "Aktau"
+            "Aktau",
+            "Актау"
+          ]
+        },
+
+        {
+          "city_name" : "Kurchatov",
+          "city_synonyms" : [
+            "Kurchatov",
+            "Курчатов"
+          ]
+        },
+        {
+          "city_name" : "Taldykorgan",
+          "city_synonyms" : [
+            "Taldykorgan",
+            "Талдыкорган"
           ]
         }
       ]

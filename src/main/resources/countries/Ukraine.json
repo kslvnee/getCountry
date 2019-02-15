@@ -1,7 +1,8 @@
 {
   "country_name" : "Ukraine",
   "country_synonyms" : [
-    "Ukraine"
+    "Ukraine",
+    "Украина"
   ],
   "regions" : [
     {
@@ -14,20 +15,23 @@
           "city_name" : "Cherkassy",
           "city_synonyms" : [
             "Cherkassy",
-            "Cherkasy"
+            "Cherkasy",
+            "Черкассы"
           ]
         },
         {
           "city_name" : "Uman",
           "city_synonyms" : [
-            "Uman"
+            "Uman",
+            "Умань"
           ]
         },
         {
           "city_name" : "Smela",
           "city_synonyms" : [
             "Smela",
-            "Smila"
+            "Smila",
+            "Смела"
           ]
         }
       ]
@@ -44,7 +48,8 @@
             "Chernigov",
             "Chernihiv",
             "Chernigiv",
-            "Chernihov"
+            "Chernihov",
+            "Чернигов"
           ]
         },
         {
@@ -53,7 +58,8 @@
             "Nezhin",
             "Nizhyn",
             "Nezhyn",
-            "Nejin"
+            "Nejin",
+            "Нежин"
           ]
         }
       ]
@@ -69,7 +75,8 @@
           "city_synonyms" : [
             "Chernovtsy",
             "Chernivtsi",
-            "Chernivtsy"
+            "Chernivtsy",
+            "Черновцы"
           ]
         }
       ]
@@ -84,7 +91,8 @@
           "city_name" : "Dnepropetrovsk",
           "city_synonyms" : [
             "Dnepropetrovsk",
-            "Dnipropetrovsk"
+            "Dnipropetrovsk",
+            "Днепропетровск"
           ]
         },
         {
@@ -102,7 +110,8 @@
             "Dneprodzerzhinsk",
             "Dniprodzerzhynsk",
             "Dneprodzerjinsk",
-            "Dneprodzerzhynsk"
+            "Dneprodzerzhynsk",
+            "Днепродзержинск"
           ]
         },
         {
@@ -115,7 +124,8 @@
           "city_name" : "Pavlograd",
           "city_synonyms" : [
             "Pavlograd",
-            "Pavlohrad"
+            "Pavlohrad",
+            "Павлоград"
           ]
         }
       ]
@@ -129,20 +139,23 @@
         {
           "city_name" : "Donetsk",
           "city_synonyms" : [
-            "Donetsk"
+            "Donetsk",
+            "Донецк"
           ]
         },
         {
           "city_name" : "Mariupol",
           "city_synonyms" : [
-            "Mariupol"
+            "Mariupol",
+            "Мариуполь"
           ]
         },
         {
           "city_name" : "Makeevka",
           "city_synonyms" : [
             "Makeevka",
-            "Makiivka"
+            "Makiivka",
+            "Макеевка"
           ]
         },
         {
@@ -151,20 +164,23 @@
             "Gorlovka",
             "Horlivka",
             "Gorlivka",
-            "Horlovka"
+            "Horlovka",
+            "Горловка"
           ]
         },
         {
           "city_name" : "Kramatorsk",
           "city_synonyms" : [
-            "Kramatorsk"
+            "Kramatorsk",
+            "Краматорск"
           ]
         },
         {
           "city_name" : "Slavyansk",
           "city_synonyms" : [
             "Slavyansk",
-            "Sloviansk"
+            "Sloviansk",
+            "Славянск"
           ]
         },
         {
@@ -173,7 +189,8 @@
             "Enakievo",
             "Yenakiieve",
             "Enakieve",
-            "Yenakievo"
+            "Yenakievo",
+            "Енакиево"
           ]
         },
         {
@@ -182,7 +199,8 @@
             "Konstantinovka",
             "Kostiantynivka",
             "Kostiatynivka",
-            "Kostyantinivka"
+            "Kostyantinivka",
+            "Константиновка"
           ]
         },
         {
@@ -229,7 +247,8 @@
             "Kharkov",
             "Kharkiv",
             "Harkov",
-            "Harkiv"
+            "Harkiv",
+            "Харьков"
           ]
         }
       ]
@@ -243,7 +262,8 @@
         {
           "city_name" : "Kherson",
           "city_synonyms" : [
-            "Kherson"
+            "Kherson",
+            "Херсон"
           ]
         }
       ]
@@ -283,8 +303,9 @@
         {
           "city_name" : "Kiev",
           "city_synonyms" : [
+            "Kiev",
             "Kyiv",
-            "Kyiv"
+            "Киев"
           ]
         },
         {
@@ -310,10 +331,18 @@
       ],
       "cities" : [
         {
+          "city_name" : "Oleksandriia",
+          "city_synonyms" : [
+            "Oleksandriia",
+            "Александрия"
+          ]
+        },
+        {
           "city_name" : "Kirovograd",
           "city_synonyms" : [
             "Kirovograd",
-            "Kirovohrad"
+            "Kirovohrad",
+            "Кировоград"
           ]
         }
       ]
@@ -328,7 +357,8 @@
           "city_name" : "Lugansk",
           "city_synonyms" : [
             "Lugansk",
-            "Luhansk"
+            "Luhansk",
+            "Луганск"
           ]
         },
         {
@@ -386,7 +416,8 @@
             "Lvov",
             "Lviv",
             "Lwow",
-            "Lwov"
+            "Lwov",
+            "Львов"
           ]
         },
         {
@@ -431,7 +462,8 @@
           "city_name" : "Odessa",
           "city_synonyms" : [
             "Odessa",
-            "Odesa"
+            "Odesa",
+            "Одесса"
           ]
         },
         {
