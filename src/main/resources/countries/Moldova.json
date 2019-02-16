@@ -1,0 +1,27 @@
+{
+  "country_name" : "Moldova",
+  "country_synonyms" : [
+    "Moldova",
+    "Молдова"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kishinev",
+      "region_synonyms" : [
+        "Kishinev",
+        "Кишинев",
+        "Chișinău"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kishinev",
+          "city_synonyms" : [
+            "Kishinev",
+            "Кишинев",
+            "Chișinău"
+          ]
+        }
+      ]
+    }
+  ]
+}
