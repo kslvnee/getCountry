@@ -1,7 +1,8 @@
 {
   "country_name" : "Brazil",
   "country_synonyms" : [
-    "Brazil"
+    "Brazil",
+    "Brasil"
   ],
   "regions" : [
     {
@@ -11,9 +12,10 @@
       ],
       "cities" : [
         {
-          "city_name" : "Rio Branco",
+          "city_name" : "RioBranco",
           "city_synonyms" : [
-            "Rio Branco"
+            "Rio Branco",
+            "RioBranco"
           ]
         }
       ]
@@ -62,17 +64,19 @@
       ]
     },
     {
-      "region_name" : "São Paulo",
+      "region_name" : "SaoPaulo",
       "region_synonyms" : [
         "São Paulo",
-        "Sao Paulo"
+        "Sao Paulo",
+        "SaoPaulo"
       ],
       "cities" : [
         {
-          "city_name" : "São Paulo",
+          "city_name" : "SaoPaulo",
           "city_synonyms" : [
             "São Paulo",
-            "Sao Paulo"
+            "Sao Paulo",
+            "SaoPaulo"
           ]
         }
       ]

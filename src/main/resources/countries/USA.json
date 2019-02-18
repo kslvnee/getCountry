@@ -1058,6 +1058,12 @@
           ]
         },
         {
+          "city_name" : "Holland",
+          "city_synonyms" : [
+            "Holland"
+          ]
+        },
+        {
           "city_name" : "Lansing",
           "city_synonyms" : [
             "Lansing"
@@ -1246,6 +1252,12 @@
         "New-York"
       ],
       "cities" : [
+        {
+          "city_name" : "Brooklyn",
+          "city_synonyms" : [
+            "Brooklyn"
+          ]
+        },
         {
           "city_name" : "Buffalo",
           "city_synonyms" : [
@@ -1475,6 +1487,12 @@
           "city_name" : "Allentown",
           "city_synonyms" : [
             "Allentown"
+          ]
+        },
+        {
+          "city_name" : "Exton",
+          "city_synonyms" : [
+            "Exton"
           ]
         },
         {

@@ -5,17 +5,996 @@
   ],
   "regions" : [
     {
-      "region_name" : "Rome",
+      "region_name" : "Abruzzo",
       "region_synonyms" : [
-        "Rome"
+        "Abruzzo"
       ],
       "cities" : [
+        {
+          "city_name" : "Chieti",
+          "city_synonyms" : [
+            "Chieti"
+          ]
+        },
+        {
+          "city_name" : "Montesilvano",
+          "city_synonyms" : [
+            "Montesilvano"
+          ]
+        },
+        {
+          "city_name" : "Pescara",
+          "city_synonyms" : [
+            "Pescara"
+          ]
+        },
+        {
+          "city_name" : "Teramo",
+          "city_synonyms" : [
+            "Teramo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Apulia",
+      "region_synonyms" : [
+        "Apulia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Altamura",
+          "city_synonyms" : [
+            "Altamura"
+          ]
+        },
+        {
+          "city_name" : "Andria",
+          "city_synonyms" : [
+            "Andria"
+          ]
+        },
+        {
+          "city_name" : "Bari",
+          "city_synonyms" : [
+            "Bari"
+          ]
+        },
+        {
+          "city_name" : "Barletta",
+          "city_synonyms" : [
+            "Barletta"
+          ]
+        },
+        {
+          "city_name" : "Bisceglie",
+          "city_synonyms" : [
+            "Bisceglie"
+          ]
+        },
+        {
+          "city_name" : "Bitonto",
+          "city_synonyms" : [
+            "Bitonto"
+          ]
+        },
+        {
+          "city_name" : "Brindisi",
+          "city_synonyms" : [
+            "Brindisi"
+          ]
+        },
+        {
+          "city_name" : "Cerignola",
+          "city_synonyms" : [
+            "Cerignola"
+          ]
+        },
+        {
+          "city_name" : "Foggia",
+          "city_synonyms" : [
+            "Foggia"
+          ]
+        },
+        {
+          "city_name" : "Lecce",
+          "city_synonyms" : [
+            "Lecce"
+          ]
+        },
+        {
+          "city_name" : "Manfredonia",
+          "city_synonyms" : [
+            "Manfredonia"
+          ]
+        },
+        {
+          "city_name" : "Molfetta",
+          "city_synonyms" : [
+            "Molfetta"
+          ]
+        },
+        {
+          "city_name" : "SanSevero",
+          "city_synonyms" : [
+            "San Severo",
+            "SanSevero"
+          ]
+        },
+        {
+          "city_name" : "Taranto",
+          "city_synonyms" : [
+            "Taranto"
+          ]
+        },
+        {
+          "city_name" : "Trani",
+          "city_synonyms" : [
+            "Trani"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Basilicata",
+      "region_synonyms" : [
+        "Basilicata"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Matera",
+          "city_synonyms" : [
+            "Matera"
+          ]
+        },
+        {
+          "city_name" : "Potenza",
+          "city_synonyms" : [
+            "Potenza"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Calabria",
+      "region_synonyms" : [
+        "Calabria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Catanzaro",
+          "city_synonyms" : [
+            "Catanzaro"
+          ]
+        },
+        {
+          "city_name" : "Cosenza",
+          "city_synonyms" : [
+            "Cosenza"
+          ]
+        },
+        {
+          "city_name" : "Crotone",
+          "city_synonyms" : [
+            "Crotone"
+          ]
+        },
+        {
+          "city_name" : "LameziaTerme",
+          "city_synonyms" : [
+            "LameziaTerme",
+            "Lamezia Terme"
+          ]
+        },
+        {
+          "city_name" : "ReggioCalabria",
+          "city_synonyms" : [
+            "ReggioCalabria",
+            "Reggio Calabria"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Campania",
+      "region_synonyms" : [
+        "Campania"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Acerra",
+          "city_synonyms" : [
+            "Acerra"
+          ]
+        },
+        {
+          "city_name" : "Afragola",
+          "city_synonyms" : [
+            "Afragola"
+          ]
+        },
+        {
+          "city_name" : "Avellino",
+          "city_synonyms" : [
+            "Avellino"
+          ]
+        },
+        {
+          "city_name" : "Aversa",
+          "city_synonyms" : [
+            "Aversa"
+          ]
+        },
+        {
+          "city_name" : "Battipaglia",
+          "city_synonyms" : [
+            "Battipaglia"
+          ]
+        },
+        {
+          "city_name" : "Benevento",
+          "city_synonyms" : [
+            "Benevento"
+          ]
+        },
+        {
+          "city_name" : "Caserta",
+          "city_synonyms" : [
+            "Caserta"
+          ]
+        },
+        {
+          "city_name" : "Casoria",
+          "city_synonyms" : [
+            "Casoria"
+          ]
+        },
+        {
+          "city_name" : "Ercolano",
+          "city_synonyms" : [
+            "Ercolano"
+          ]
+        },
+        {
+          "city_name" : "Naples",
+          "city_synonyms" : [
+            "Naples"
+          ]
+        },
+        {
+          "city_name" : "Portici",
+          "city_synonyms" : [
+            "Portici"
+          ]
+        },
+        {
+          "city_name" : "Pozzuoli",
+          "city_synonyms" : [
+            "Pozzuoli"
+          ]
+        },
+        {
+          "city_name" : "Salerno",
+          "city_synonyms" : [
+            "Salerno"
+          ]
+        },
+        {
+          "city_name" : "Scafati",
+          "city_synonyms" : [
+            "Scafati"
+          ]
+        },
+        {
+          "city_name" : "TorreDelGreco",
+          "city_synonyms" : [
+            "TorreDelGreco",
+            "Torre del Greco"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Emilia-Romagna",
+      "region_synonyms" : [
+        "Emilia-Romagna"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bologna",
+          "city_synonyms" : [
+            "Bologna"
+          ]
+        },
+        {
+          "city_name" : "Carpi",
+          "city_synonyms" : [
+            "Carpi"
+          ]
+        },
+        {
+          "city_name" : "Cesena",
+          "city_synonyms" : [
+            "Cesena"
+          ]
+        },
+        {
+          "city_name" : "Faenza",
+          "city_synonyms" : [
+            "Faenza"
+          ]
+        },
+        {
+          "city_name" : "Ferrara",
+          "city_synonyms" : [
+            "Ferrara"
+          ]
+        },
+        {
+          "city_name" : "Forli",
+          "city_synonyms" : [
+            "Forli",
+            "Forlì"
+          ]
+        },
+        {
+          "city_name" : "Imola",
+          "city_synonyms" : [
+            "Imola"
+          ]
+        },
+        {
+          "city_name" : "Modena",
+          "city_synonyms" : [
+            "Modena"
+          ]
+        },
+        {
+          "city_name" : "Parma",
+          "city_synonyms" : [
+            "Parma"
+          ]
+        },
+        {
+          "city_name" : "Piacenza",
+          "city_synonyms" : [
+            "Piacenza"
+          ]
+        },
+        {
+          "city_name" : "Ravenna",
+          "city_synonyms" : [
+            "Ravenna"
+          ]
+        },
+        {
+          "city_name" : "ReggioEmilia",
+          "city_synonyms" : [
+            "ReggioEmilia",
+            "Reggio Emilia"
+          ]
+        },
+        {
+          "city_name" : "Rimini",
+          "city_synonyms" : [
+            "Rimini"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "FriuliVeneziaGiulia",
+      "region_synonyms" : [
+        "FriuliVeneziaGiulia",
+        "Friuli-Venezia Giulia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Pordenone",
+          "city_synonyms" : [
+            "Pordenone"
+          ]
+        },
+        {
+          "city_name" : "Trieste",
+          "city_synonyms" : [
+            "Trieste"
+          ]
+        },
+        {
+          "city_name" : "Udine",
+          "city_synonyms" : [
+            "Udine"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lazio",
+      "region_synonyms" : [
+        "Lazio"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Anzio",
+          "city_synonyms" : [
+            "Anzio"
+          ]
+        },
+        {
+          "city_name" : "Aprilia",
+          "city_synonyms" : [
+            "Aprilia"
+          ]
+        },
+        {
+          "city_name" : "Civitavecchia",
+          "city_synonyms" : [
+            "Civitavecchia"
+          ]
+        },
+        {
+          "city_name" : "Fiumicino",
+          "city_synonyms" : [
+            "Fiumicino"
+          ]
+        },
+        {
+          "city_name" : "GuidoniaMontecelio",
+          "city_synonyms" : [
+            "GuidoniaMontecelio",
+            "Guidonia Montecelio"
+          ]
+        },
+        {
+          "city_name" : "Latina",
+          "city_synonyms" : [
+            "Latina"
+          ]
+        },
+        {
+          "city_name" : "Pomezia",
+          "city_synonyms" : [
+            "Pomezia"
+          ]
+        },
         {
           "city_name" : "Rome",
           "city_synonyms" : [
             "Rome"
           ]
+        },
+        {
+          "city_name" : "Tivoli",
+          "city_synonyms" : [
+            "Tivoli"
+          ]
+        },
+        {
+          "city_name" : "Velletri",
+          "city_synonyms" : [
+            "Velletri"
+          ]
+        },
+        {
+          "city_name" : "Viterbo",
+          "city_synonyms" : [
+            "Viterbo"
+          ]
         }
+      ]
+    },
+    {
+      "region_name" : "Liguria",
+      "region_synonyms" : [
+        "Liguria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Genoa",
+          "city_synonyms" : [
+            "Genoa"
+          ]
+        },
+        {
+          "city_name" : "LaSpezia",
+          "city_synonyms" : [
+            "LaSpezia",
+            "La Spezia"
+          ]
+        },
+        {
+          "city_name" : "Sanremo",
+          "city_synonyms" : [
+            "Sanremo"
+          ]
+        },
+        {
+          "city_name" : "Savona",
+          "city_synonyms" : [
+            "Savona"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lombardy",
+      "region_synonyms" : [
+        "Lombardy"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bergamo",
+          "city_synonyms" : [
+            "Bergamo"
+          ]
+        },
+        {
+          "city_name" : "Brescia",
+          "city_synonyms" : [
+            "Brescia"
+          ]
+        },
+        {
+          "city_name" : "BustoArsizio",
+          "city_synonyms" : [
+            "BustoArsizio",
+            "Busto Arsizio"
+          ]
+        },
+        {
+          "city_name" : "CiniselloBalsamo",
+          "city_synonyms" : [
+            "CiniselloBalsamo",
+            "Cinisello Balsamo"
+          ]
+        },
+        {
+          "city_name" : "Como",
+          "city_synonyms" : [
+            "Como"
+          ]
+        },
+        {
+          "city_name" : "Cremona",
+          "city_synonyms" : [
+            "Cremona"
+          ]
+        },
+        {
+          "city_name" : "Gallarate",
+          "city_synonyms" : [
+            "Gallarate"
+          ]
+        },
+        {
+          "city_name" : "Legnano",
+          "city_synonyms" : [
+            "Legnano"
+          ]
+        },
+        {
+          "city_name" : "Milan",
+          "city_synonyms" : [
+            "Milan"
+          ]
+        },
+        {
+          "city_name" : "Monza",
+          "city_synonyms" : [
+            "Monza"
+          ]
+        },
+        {
+          "city_name" : "Pavia",
+          "city_synonyms" : [
+            "Pavia"
+          ]
+        },
+        {
+          "city_name" : "Rho",
+          "city_synonyms" : [
+            "Rho"
+          ]
+        },
+        {
+          "city_name" : "SestoSanGiovanni",
+          "city_synonyms" : [
+            "SestoSanGiovanni",
+            "Sesto San Giovanni"
+          ]
+        },
+        {
+          "city_name" : "Varese",
+          "city_synonyms" : [
+            "Varese"
+          ]
+        },
+        {
+          "city_name" : "Vigevano",
+          "city_synonyms" : [
+            "Vigevano"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Marche",
+      "region_synonyms" : [
+        "Marche"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ancona",
+          "city_synonyms" : [
+            "Ancona"
+          ]
+        },
+        {
+          "city_name" : "Fano",
+          "city_synonyms" : [
+            "Fano"
+          ]
+        },
+        {
+          "city_name" : "Pesaro",
+          "city_synonyms" : [
+            "Pesaro"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Piedmont",
+      "region_synonyms" : [
+        "Piedmont"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alessandria",
+          "city_synonyms" : [
+            "Alessandria"
+          ]
+        },
+        {
+          "city_name" : "Asti",
+          "city_synonyms" : [
+            "Asti"
+          ]
+        },
+        {
+          "city_name" : "Cuneo",
+          "city_synonyms" : [
+            "Cuneo"
+          ]
+        },
+        {
+          "city_name" : "Moncalieri",
+          "city_synonyms" : [
+            "Moncalieri"
+          ]
+        },
+        {
+          "city_name" : "Novara",
+          "city_synonyms" : [
+            "Novara"
+          ]
+        },
+        {
+          "city_name" : "Turin",
+          "city_synonyms" : [
+            "Turin"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Sardinia",
+      "region_synonyms" : [
+        "Sardinia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cagliari",
+          "city_synonyms" : [
+            "Cagliari"
+          ]
+        },
+        {
+          "city_name" : "Olbia",
+          "city_synonyms" : [
+            "Olbia"
+          ]
+        },
+        {
+          "city_name" : "QuartuSantElena",
+          "city_synonyms" : [
+            "QuartuSantElena",
+            "Quartu Sant'Elena"
+          ]
+        },
+        {
+          "city_name" : "Sassari",
+          "city_synonyms" : [
+            "Sassari"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Sicily",
+      "region_synonyms" : [
+        "Sicily"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Acireale",
+          "city_synonyms" : [
+            "Acireale"
+          ]
+        },
+        {
+          "city_name" : "Agrigento",
+          "city_synonyms" : [
+            "Agrigento"
+          ]
+        },
+        {
+          "city_name" : "Bagheria",
+          "city_synonyms" : [
+            "Bagheria"
+          ]
+        },
+        {
+          "city_name" : "Caltanissetta",
+          "city_synonyms" : [
+            "Caltanissetta"
+          ]
+        },
+        {
+          "city_name" : "Catania",
+          "city_synonyms" : [
+            "Catania"
+          ]
+        },
+        {
+          "city_name" : "Gela",
+          "city_synonyms" : [
+            "Gela"
+          ]
+        },
+        {
+          "city_name" : "Marsala",
+          "city_synonyms" : [
+            "Marsala"
+          ]
+        },
+        {
+          "city_name" : "MazaraDelVallo",
+          "city_synonyms" : [
+            "MazaraDelVallo",
+            "Mazara del Vallo"
+          ]
+        },
+        {
+          "city_name" : "Messina",
+          "city_synonyms" : [
+            "Messina"
+          ]
+        },
+        {
+          "city_name" : "Modica",
+          "city_synonyms" : [
+            "Modica"
+          ]
+        },
+        {
+          "city_name" : "Palermo",
+          "city_synonyms" : [
+            "Palermo"
+          ]
+        },
+        {
+          "city_name" : "Ragusa",
+          "city_synonyms" : [
+            "Ragusa"
+          ]
+        },
+        {
+          "city_name" : "Syracuse",
+          "city_synonyms" : [
+            "Syracuse"
+          ]
+        },
+        {
+          "city_name" : "Trapani",
+          "city_synonyms" : [
+            "Trapani"
+          ]
+        },
+        {
+          "city_name" : "Vittoria",
+          "city_synonyms" : [
+            "Vittoria"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Trentino-Alto",
+      "region_synonyms" : [
+        "Trentino-Alto"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bolzano",
+          "city_synonyms" : [
+            "Bolzano"
+          ]
+        },
+        {
+          "city_name" : "Trento",
+          "city_synonyms" : [
+            "Trento"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tuscany",
+      "region_synonyms" : [
+        "Tuscany"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Arezzo",
+          "city_synonyms" : [
+            "Arezzo"
+          ]
+        },
+        {
+          "city_name" : "Carrara",
+          "city_synonyms" : [
+            "Carrara"
+          ]
+        },
+        {
+          "city_name" : "Florence",
+          "city_synonyms" : [
+            "Florence"
+          ]
+        },
+        {
+          "city_name" : "Grosseto",
+          "city_synonyms" : [
+            "Grosseto"
+          ]
+        },
+        {
+          "city_name" : "Livorno",
+          "city_synonyms" : [
+            "Livorno"
+          ]
+        },
+        {
+          "city_name" : "Lucca",
+          "city_synonyms" : [
+            "Lucca"
+          ]
+        },
+        {
+          "city_name" : "Massa",
+          "city_synonyms" : [
+            "Massa"
+          ]
+        },
+        {
+          "city_name" : "Pisa",
+          "city_synonyms" : [
+            "Pisa"
+          ]
+        },
+        {
+          "city_name" : "Pistoia",
+          "city_synonyms" : [
+            "Pistoia"
+          ]
+        },
+        {
+          "city_name" : "Prato",
+          "city_synonyms" : [
+            "Prato"
+          ]
+        },
+        {
+          "city_name" : "Scandicci",
+          "city_synonyms" : [
+            "Scandicci"
+          ]
+        },
+        {
+          "city_name" : "Siena",
+          "city_synonyms" : [
+            "Siena"
+          ]
+        },
+        {
+          "city_name" : "Viareggio",
+          "city_synonyms" : [
+            "Viareggio"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Umbria",
+      "region_synonyms" : [
+        "Umbria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Foligno",
+          "city_synonyms" : [
+            "Foligno"
+          ]
+        },
+        {
+          "city_name" : "Perugia",
+          "city_synonyms" : [
+            "Perugia"
+          ]
+        },
+        {
+          "city_name" : "Terni",
+          "city_synonyms" : [
+            "Terni"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Veneto",
+      "region_synonyms" : [
+        "Veneto"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Padua",
+          "city_synonyms" : [
+            "Padua"
+          ]
+        },
+        {
+          "city_name" : "Rovigo",
+          "city_synonyms" : [
+            "Rovigo"
+          ]
+        },
+        {
+          "city_name" : "Treviso",
+          "city_synonyms" : [
+            "Treviso"
+          ]
+        },
+        {
+          "city_name" : "Venice",
+          "city_synonyms" : [
+            "Venice"
+          ]
+        },
+        {
+          "city_name" : "Verona",
+          "city_synonyms" : [
+            "Verona"
+          ]
+        },
+        {
+          "city_name" : "Vicenza",
+          "city_synonyms" : [
+            "Vicenza"
+          ]
+        }
+
       ]
     }
   ]
