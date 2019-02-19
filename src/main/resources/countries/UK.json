@@ -3,7 +3,8 @@
   "country_synonyms" : [
     "United Kingdom",
     "UnitedKingdom",
-    "UK"
+    "UK",
+    "England"
   ],
   "regions" : [
     {
@@ -34,6 +35,12 @@
           "city_name" : "Nottingham",
           "city_synonyms" : [
             "Nottingham"
+          ]
+        },
+        {
+          "city_name" : "Southwell",
+          "city_synonyms" : [
+            "Southwell"
           ]
         }
       ]
@@ -469,9 +476,10 @@
       ]
     },
     {
-      "region_name" : "Yorkshire and the Humber",
+      "region_name" : "YorkshireHumber",
       "region_synonyms" : [
-        "Yorkshire and the Humber"
+        "Yorkshire and the Humber",
+        "YorkshireHumber"
       ],
       "cities" : [
         {
@@ -481,9 +489,10 @@
           ]
         },
         {
-          "city_name" : "Kingston upon Hull",
+          "city_name" : "KingstonHull",
           "city_synonyms" : [
-            "Kingston upon Hull"
+            "Kingston upon Hull",
+            "KingstonHull"
           ]
         },
         {

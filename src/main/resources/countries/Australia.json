@@ -5,15 +5,179 @@
   ],
   "regions" : [
     {
-      "region_name" : "New South Wales",
+      "region_name" : "NewSouthWales",
       "region_synonyms" : [
-        "New South Wales"
+        "New South Wales",
+        "NewSouthWales"
       ],
       "cities" : [
         {
           "city_name" : "Sydney",
           "city_synonyms" : [
             "Sydney"
+          ]
+        },
+        {
+          "city_name" : "Newcastle–Maitland",
+          "city_synonyms" : [
+            "Newcastle–Maitland"
+          ]
+        },
+        {
+          "city_name" : "Wollongong",
+          "city_synonyms" : [
+            "Wollongong"
+          ]
+        },
+        {
+          "city_name" : "CoffsHarbour",
+          "city_synonyms" : [
+            "CoffsHarbour",
+            "Coffs Harbour"
+          ]
+        },
+        {
+          "city_name" : "WaggaWagga",
+          "city_synonyms" : [
+            "Wagga Wagga",
+            "WaggaWagga"
+          ]
+        },
+        {
+          "city_name" : "PortMacquarie",
+          "city_synonyms" : [
+            "PortMacquarie",
+            "Port Macquarie"
+          ]
+        },
+        {
+          "city_name" : "Tamworth",
+          "city_synonyms" : [
+            "Tamworth"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "NorthernTerritory",
+      "region_synonyms" : [
+        "NorthernTerritory",
+        "Northern Territory"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Darwin",
+          "city_synonyms" : [
+            "Darwin"
+          ]
+        },
+        {
+          "city_name" : "AliceSprings",
+          "city_synonyms" : [
+            "Alice Springs",
+            "AliceSprings"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Queensland",
+      "region_synonyms" : [
+        "Queensland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brisbane",
+          "city_synonyms" : [
+            "Brisbane"
+          ]
+        },
+        {
+          "city_name" : "Townsville",
+          "city_synonyms" : [
+            "Townsville"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "SouthAustralia",
+      "region_synonyms" : [
+        "South Australia",
+        "SouthAustralia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Adelaide",
+          "city_synonyms" : [
+            "Adelaide"
+          ]
+        },
+        {
+          "city_name" : "Whyalla",
+          "city_synonyms" : [
+            "Whyalla"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Tasmania",
+      "region_synonyms" : [
+        "Tasmania"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Hobart",
+          "city_synonyms" : [
+            "Hobart"
+          ]
+        },
+        {
+          "city_name" : "Launceston",
+          "city_synonyms" : [
+            "Launceston"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Victoria",
+      "region_synonyms" : [
+        "Victoria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Melbourne",
+          "city_synonyms" : [
+            "Melbourne"
+          ]
+        },
+        {
+          "city_name" : "Geelong",
+          "city_synonyms" : [
+            "Geelong"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "WesternAustralia",
+      "region_synonyms" : [
+        "Western Australia",
+        "WesternAustralia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Perth",
+          "city_synonyms" : [
+            "Perth"
+          ]
+        },
+        {
+          "city_name" : "Bunbury",
+          "city_synonyms" : [
+            "Bunbury"
           ]
         }
       ]

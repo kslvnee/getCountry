@@ -960,6 +960,12 @@
       ],
       "cities" : [
         {
+          "city_name" : "Anderson",
+          "city_synonyms" : [
+            "Anderson"
+          ]
+        },
+        {
           "city_name" : "Evansville",
           "city_synonyms" : [
             "Evansville"
@@ -1203,7 +1209,8 @@
       "region_name" : "New-Jersey",
       "region_synonyms" : [
         "New Jersey",
-        "New-Jersey"
+        "New-Jersey",
+        "NewJersey"
       ],
       "cities" : [
         {
@@ -1233,6 +1240,12 @@
         },
         {
           "city_name" : "Paterson",
+          "city_synonyms" : [
+            "Paterson"
+          ]
+        },
+        {
+          "city_name" : "Princeton",
           "city_synonyms" : [
             "Paterson"
           ]
@@ -1491,6 +1504,12 @@
         },
         {
           "city_name" : "Exton",
+          "city_synonyms" : [
+            "Exton"
+          ]
+        },
+        {
+          "city_name" : "Harrisburg",
           "city_synonyms" : [
             "Exton"
           ]

@@ -1,0 +1,426 @@
+{
+  "country_name" : "UAE",
+  "country_synonyms" : [
+    "UAE"
+  ],
+  "regions" : [
+    {
+      "region_name" : "AbuDhabi",
+      "region_synonyms" : [
+        "Abu Dhabi",
+        "AbuDhabi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "AbuAlAbyad",
+          "city_synonyms" : [
+            "Abu al Abyad",
+            "AbuAlAbyad"
+          ]
+        },
+        {
+          "city_name" : "AbuDhabi",
+          "city_synonyms" : [
+            "Abu Dhabi",
+            "AbuDhabi"
+          ]
+        },
+        {
+          "city_name" : "AlAin",
+          "city_synonyms" : [
+            "Al Ain",
+            "AlAin"
+          ]
+        },
+        {
+          "city_name" : "Habshan",
+          "city_synonyms" : [
+            "Habshan"
+          ]
+        },
+        {
+          "city_name" : "KhalifaPort",
+          "city_synonyms" : [
+            "KhalifaPort",
+            "Khalifa Port"
+          ]
+        },
+
+        {
+          "city_name" : "MadinatZayed",
+          "city_synonyms" : [
+            "Madinat Zayed",
+            "MadinatZayed"
+          ]
+        },
+        {
+          "city_name" : "Marawah",
+          "city_synonyms" : [
+            "Marawah"
+          ]
+        },
+        {
+          "city_name" : "Ruwais",
+          "city_synonyms" : [
+            "Ruwais"
+          ]
+        },
+        {
+          "city_name" : "Ghayathi",
+          "city_synonyms" : [
+            "MGhayathi"
+          ]
+        },
+        {
+          "city_name" : "LiwaOasis",
+          "city_synonyms" : [
+            "Liwa Oasis",
+            "LiwaOasis"
+          ]
+        },
+        {
+          "city_name" : "Ghayathi",
+          "city_synonyms" : [
+            "Ghayathi"
+          ]
+        },
+        {
+          "city_name" : "Sila",
+          "city_synonyms" : [
+            "Sila"
+          ]
+        },
+        {
+          "city_name" : "SirBaniYas",
+          "city_synonyms" : [
+            "SirBaniYas",
+            "Sir Bani Yas"
+          ]
+        },
+        {
+          "city_name" : "Swaihan",
+          "city_synonyms" : [
+            "Swaihan"
+          ]
+        },
+        {
+          "city_name" : "ZayedPort",
+          "city_synonyms" : [
+            "ZayedPort",
+            "Zayed Port"
+          ]
+        }
+
+
+
+      ]
+    },
+    {
+      "region_name" : "Ajman",
+      "region_synonyms" : [
+        "Ajman"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ajman",
+          "city_synonyms" : [
+            "Ajman"
+          ]
+        },
+        {
+          "city_name" : "AlManama",
+          "city_synonyms" : [
+            "AlManama",
+            "Al Manama"
+          ]
+        },
+        {
+          "city_name" : "Masfut",
+          "city_synonyms" : [
+            "Masfut"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Dubai",
+      "region_synonyms" : [
+        "Dubai"
+      ],
+      "cities" : [
+        {
+          "city_name" : "AlAwir",
+          "city_synonyms" : [
+            "Al Awir",
+            "AlAwir"
+          ]
+        },
+        {
+          "city_name" : "Dubai",
+          "city_synonyms" : [
+            "Dubai"
+          ]
+        },
+        {
+          "city_name" : "JebelAli",
+          "city_synonyms" : [
+            "Jebel Ali",
+            "JebelAli"
+          ]
+        },
+        {
+          "city_name" : "AlQuoz",
+          "city_synonyms" : [
+            "AlQuoz",
+            "Al Quoz"
+          ]
+        },
+        {
+          "city_name" : "Hatta",
+          "city_synonyms" : [
+            "Hatta"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Fujairah",
+      "region_synonyms" : [
+        "Fujairah"
+      ],
+      "cities" : [
+        {
+          "city_name" : "FujairahCity",
+          "city_synonyms" : [
+            "FujairahCity",
+            "Fujairah City"
+          ]
+        },
+        {
+          "city_name" : "DibbaAl-Fujairah",
+          "city_synonyms" : [
+            "DibbaAl-Fujairah",
+            "Dibba Al-Fujairah"
+          ]
+        },
+        {
+          "city_name" : "AlBadiyah",
+          "city_synonyms" : [
+            "Al Badiyah",
+            "AlBadiyah"
+          ]
+        },
+        {
+          "city_name" : "Mirbah",
+          "city_synonyms" : [
+            "Mirbah"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "RasAlKhaimah",
+      "region_synonyms" : [
+        "RasAlKhaimah",
+        "Ras Al Khaimah"
+      ],
+      "cities" : [
+        {
+          "city_name" : "RasAlKhaimah",
+          "city_synonyms" : [
+            "RasAlKhaimah",
+            "Ras Al Khaimah"
+          ]
+        },
+        {
+          "city_name" : "Adhen",
+          "city_synonyms" : [
+            "Adhen"
+          ]
+        },
+        {
+          "city_name" : "AlAryam",
+          "city_synonyms" : [
+            "AlAryam",
+            "Al Aryam"
+          ]
+        },
+        {
+          "city_name" : "AlHamraniyah",
+          "city_synonyms" : [
+            "AlHamraniyah",
+            "Al Hamraniyah"
+          ]
+        },
+        {
+          "city_name" : "AlJazirahAlHamra",
+          "city_synonyms" : [
+            "Al Jazirah Al Hamra",
+            "AlJazirahAlHamra"
+          ]
+        },
+        {
+          "city_name" : "AlJeer",
+          "city_synonyms" : [
+            "Al Jeer",
+            "AlJeer"
+          ]
+        },
+        {
+          "city_name" : "AlQusaidat",
+          "city_synonyms" : [
+            "Al Qusaidat",
+            "AlQusaidat"
+          ]
+        },
+        {
+          "city_name" : "AlQor",
+          "city_synonyms" : [
+            "Al Qor",
+            "AlQor"
+          ]
+        },
+        {
+          "city_name" : "Ar-Rams",
+          "city_synonyms" : [
+            "Ar-Rams"
+          ]
+        },
+        {
+          "city_name" : "Asimah",
+          "city_synonyms" : [
+            "Asimah"
+          ]
+        },
+        {
+          "city_name" : "Digdaga",
+          "city_synonyms" : [
+            "Digdaga"
+          ]
+        },
+        {
+          "city_name" : "Ghalilah",
+          "city_synonyms" : [
+            "Ghalilah"
+          ]
+        },
+        {
+          "city_name" : "Huwaylat",
+          "city_synonyms" : [
+            "Huwaylat"
+          ]
+        },
+        {
+          "city_name" : "Khatt",
+          "city_synonyms" : [
+            "Khatt"
+          ]
+        },
+        {
+          "city_name" : "KhorKhwair",
+          "city_synonyms" : [
+            "KhorKhwair",
+            "Khor Khwair"
+          ]
+        },
+        {
+          "city_name" : "Shaam",
+          "city_synonyms" : [
+            "Sha'am",
+            "Shaam"
+          ]
+        },
+        {
+          "city_name" : "WadiShah",
+          "city_synonyms" : [
+            "WadiShah",
+            "Wadi Shah"
+          ]
+        },
+        {
+          "city_name" : "Masafi",
+          "city_synonyms" : [
+            "Masafi"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Sharjah",
+      "region_synonyms" : [
+        "Sharjah"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Sharjah",
+          "city_synonyms" : [
+            "Sharjah"
+          ]
+        },
+        {
+          "city_name" : "AlHamriyah",
+          "city_synonyms" : [
+            "AlHamriyah",
+            "Al Hamriyah"
+          ]
+        },
+        {
+          "city_name" : "AlMadam",
+          "city_synonyms" : [
+            "AlMadam",
+            "Al Madam"
+          ]
+        },
+        {
+          "city_name" : "KhorFakkan",
+          "city_synonyms" : [
+            "KhorFakkan",
+            "Khor Fakkan"
+          ]
+        },
+        {
+          "city_name" : "DibbaAl-Hisn",
+          "city_synonyms" : [
+            "DibbaAl-Hisn",
+            "Dibba Al-Hisn"
+          ]
+        },
+        {
+          "city_name" : "Dhaid",
+          "city_synonyms" : [
+            "Dhaid"
+          ]
+        },
+        {
+          "city_name" : "Kalba",
+          "city_synonyms" : [
+            "Kalba"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "UmmAl-Quwain",
+      "region_synonyms" : [
+        "UmmAl-Quwain",
+        "Umm al-Quwain"
+      ],
+      "cities" : [
+        {
+          "city_name" : "UmmAl-Quwain",
+          "city_synonyms" : [
+            "UmmAl-Quwain",
+            "Umm al-Quwain"
+          ]
+        },
+        {
+          "city_name" : "FalajAlMualla",
+          "city_synonyms" : [
+            "FalajAlMualla",
+            "Falaj Al Mualla"
+          ]
+        }
+      ]
+    }
+  ]
+}
