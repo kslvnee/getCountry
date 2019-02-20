@@ -17,6 +17,141 @@
           ]
         }
       ]
+    },
+    {
+      "region_name" : "EastJava",
+      "region_synonyms" : [
+        "EastJava",
+        "East Java"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Surabaya",
+          "city_synonyms" : [
+            "Surabaya"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "WestJava",
+      "region_synonyms" : [
+        "West Java",
+        "WestJava"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bandung",
+          "city_synonyms" : [
+            "Bandung"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "North Sumatera",
+      "region_synonyms" : [
+        "North Sumatera",
+        "NorthSumatera"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Medan",
+          "city_synonyms" : [
+            "Medan"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Central Java",
+      "region_synonyms" : [
+        "Central Java",
+        "CentralJava"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Semarang",
+          "city_synonyms" : [
+            "Semarang"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "South Sumatera",
+      "region_synonyms" : [
+        "South Sumatera",
+        "SouthSumatera"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Palembang",
+          "city_synonyms" : [
+            "Palembang"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "SouthSulawesi",
+      "region_synonyms" : [
+        "South Sulawesi",
+        "SouthSulawesi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Makassar",
+          "city_synonyms" : [
+            "Makassar"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "RiauIslands",
+      "region_synonyms" : [
+        "Riau Islands",
+        "RiauIslands"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Batam",
+          "city_synonyms" : [
+            "Batam"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "WestSumatra",
+      "region_synonyms" : [
+        "West Sumatra",
+        "WestSumatra"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Padang",
+          "city_synonyms" : [
+            "Padang"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Lampung",
+      "region_synonyms" : [
+        "Lampung"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bandar Lampung",
+          "city_synonyms" : [
+            "Bandar Lampung",
+            "BandarLampung"
+          ]
+        }
+      ]
     }
   ]
 }

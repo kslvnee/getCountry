@@ -1226,6 +1226,12 @@
           ]
         },
         {
+          "city_name" : "Hoboken",
+          "city_synonyms" : [
+            "Hoboken"
+          ]
+        },
+        {
           "city_name" : "Jersey-City",
           "city_synonyms" : [
             "Jersey City",
@@ -1874,6 +1880,12 @@
           "city_name" : "Chesapeake",
           "city_synonyms" : [
             "Chesapeake"
+          ]
+        },
+        {
+          "city_name" : "Culpeper",
+          "city_synonyms" : [
+            "Culpeper"
           ]
         },
         {

@@ -1,0 +1,498 @@
+{
+  "country_name" : "Romania",
+  "country_synonyms" : [
+    "Romania"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Alba",
+      "region_synonyms" : [
+        "Alba"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Abrud",
+          "city_synonyms" : [
+            "Abrud"
+          ]
+        },
+        {
+          "city_name" : "Aiud",
+          "city_synonyms" : [
+            "Aiud"
+          ]
+        },
+        {
+          "city_name" : "AlbaIulia",
+          "city_synonyms" : [
+            "AlbaIulia",
+            "Alba Iulia"
+          ]
+        },
+        {
+          "city_name" : "BaiaDeArieș",
+          "city_synonyms" : [
+            "Baia de Arieș",
+            "BaiaDeArieș"
+          ]
+        },
+        {
+          "city_name" : "Blaj",
+          "city_synonyms" : [
+            "Blaj"
+          ]
+        },
+        {
+          "city_name" : "Campeni",
+          "city_synonyms" : [
+            "Câmpeni",
+            "Campeni"
+          ]
+        },
+        {
+          "city_name" : "Cugir",
+          "city_synonyms" : [
+            "Cugir"
+          ]
+        },
+        {
+          "city_name" : "OcnaMureș",
+          "city_synonyms" : [
+            "Ocna Mureș",
+            "OcnaMureș"
+          ]
+        },
+        {
+          "city_name" : "Sebes",
+          "city_synonyms" : [
+            "Sebeș",
+            "Sebes"
+          ]
+        },
+        {
+          "city_name" : "Teiuș",
+          "city_synonyms" : [
+            "Teiuș"
+          ]
+        },
+        {
+          "city_name" : "Zlatna",
+          "city_synonyms" : [
+            "Zlatna"
+          ]
+        }
+
+
+      ]
+    },
+    {
+      "region_name" : "Arad",
+      "region_synonyms" : [
+        "Arad"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Arad",
+          "city_synonyms" : [
+            "Arad"
+          ]
+        },
+        {
+          "city_name" : "Chișineu-Criș",
+          "city_synonyms" : [
+            "Chișineu-Criș"
+          ]
+        },
+        {
+          "city_name" : "Curtici",
+          "city_synonyms" : [
+            "Curtici"
+          ]
+        },
+        {
+          "city_name" : "Ineu",
+          "city_synonyms" : [
+            "Ineu"
+          ]
+        },
+        {
+          "city_name" : "Lipova",
+          "city_synonyms" : [
+            "Lipova"
+          ]
+        },
+        {
+          "city_name" : "Nadlac",
+          "city_synonyms" : [
+            "Nădlac",
+            "Nadlac"
+          ]
+        },
+        {
+          "city_name" : "Pancota",
+          "city_synonyms" : [
+            "Pâncota",
+            "Pancota"
+          ]
+        },
+        {
+          "city_name" : "Pecica",
+          "city_synonyms" : [
+            "Pecica"
+          ]
+        },
+        {
+          "city_name" : "Santana",
+          "city_synonyms" : [
+            "Santana",
+            "Sântana"
+          ]
+        },
+        {
+          "city_name" : "Sebiș",
+          "city_synonyms" : [
+            "Sebiș"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Arges",
+      "region_synonyms" : [
+        "Argeș",
+        "Arges"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Campulung",
+          "city_synonyms" : [
+            "Câmpulung",
+            "Campulung"
+          ]
+        },
+        {
+          "city_name" : "Costești",
+          "city_synonyms" : [
+            "Costești"
+          ]
+        },
+        {
+          "city_name" : "CurteaDeArgeș",
+          "city_synonyms" : [
+            "Curtea de Argeș",
+            "CurteaDeArgeș"
+          ]
+        },
+        {
+          "city_name" : "Mioveni",
+          "city_synonyms" : [
+            "Mioveni"
+          ]
+        },
+        {
+          "city_name" : "Pitesti",
+          "city_synonyms" : [
+            "Pitesti"
+          ]
+        },
+        {
+          "city_name" : "Ștefanești",
+          "city_synonyms" : [
+            "Ștefănești",
+            "Ștefanești"
+          ]
+        },
+        {
+          "city_name" : "Topoloveni",
+          "city_synonyms" : [
+            "Topoloveni"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bacau",
+      "region_synonyms" : [
+        "Bacău",
+        "Bacau"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bacau",
+          "city_synonyms" : [
+            "Bacău",
+            "Bacau"
+          ]
+        },
+        {
+          "city_name" : "Buhuși",
+          "city_synonyms" : [
+            "Buhuși"
+          ]
+        },
+        {
+          "city_name" : "Comanești",
+          "city_synonyms" : [
+            "Comănești",
+            "Comanești"
+          ]
+        },
+        {
+          "city_name" : "Darmanești",
+          "city_synonyms" : [
+            "Dărmănești",
+            "Darmanești"
+          ]
+        },
+        {
+          "city_name" : "Moinești",
+          "city_synonyms" : [
+            "Moinești"
+          ]
+        },
+        {
+          "city_name" : "Onești",
+          "city_synonyms" : [
+            "Onești"
+          ]
+        },
+        {
+          "city_name" : "TarguOcna",
+          "city_synonyms" : [
+            "Târgu Ocna",
+            "TarguOcna"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bihor",
+      "region_synonyms" : [
+        "Bihor"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aleșd",
+          "city_synonyms" : [
+            "Aleșd"
+          ]
+        },
+        {
+          "city_name" : "Beiuș",
+          "city_synonyms" : [
+            "Beiuș"
+          ]
+        },
+        {
+          "city_name" : "Marghita",
+          "city_synonyms" : [
+            "Marghita"
+          ]
+        },
+        {
+          "city_name" : "Nucet",
+          "city_synonyms" : [
+            "Nucet"
+          ]
+        },
+        {
+          "city_name" : "Oradea",
+          "city_synonyms" : [
+            "Oradea"
+          ]
+        },
+        {
+          "city_name" : "Salonta",
+          "city_synonyms" : [
+            "Salonta"
+          ]
+        },
+        {
+          "city_name" : "Sacueni",
+          "city_synonyms" : [
+            "Săcueni",
+            "Sacueni"
+          ]
+        },
+        {
+          "city_name" : "Ștei",
+          "city_synonyms" : [
+            "Ștei"
+          ]
+        },
+        {
+          "city_name" : "ValeaLuiMihai",
+          "city_synonyms" : [
+            "Valea lui Mihai",
+            "ValeaLuiMihai"
+          ]
+        },
+        {
+          "city_name" : "Vașcau",
+          "city_synonyms" : [
+            "Vașcău",
+            "Vașcau"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bistrița-Nasaud",
+      "region_synonyms" : [
+        "Bistrița-Năsăud",
+        "Bistrița-Nasaud"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Beclean",
+          "city_synonyms" : [
+            "Beclean"
+          ]
+        },
+        {
+          "city_name" : "Bistrița",
+          "city_synonyms" : [
+            "Bistrița"
+          ]
+        },
+        {
+          "city_name" : "Nasaud",
+          "city_synonyms" : [
+            "Năsăud",
+            "Nasaud"
+          ]
+        },
+        {
+          "city_name" : "Sangeorz-Bai",
+          "city_synonyms" : [
+            "Sângeorz-Băi",
+            "Sangeorz-Bai"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Botoșani",
+      "region_synonyms" : [
+        "Botoșani",
+        "Botosani"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Botoșani",
+          "city_synonyms" : [
+            "Botoșani",
+            "Botosani"
+          ]
+        },
+        {
+          "city_name" : "Bucecea",
+          "city_synonyms" : [
+            "Bucecea"
+          ]
+        },
+        {
+          "city_name" : "Darabani",
+          "city_synonyms" : [
+            "Darabani"
+          ]
+        },
+        {
+          "city_name" : "Dorohoi",
+          "city_synonyms" : [
+            "Dorohoi"
+          ]
+        },
+        {
+          "city_name" : "Flamanzi",
+          "city_synonyms" : [
+            "Flămânzi",
+            "Flamanzi"
+          ]
+        },
+        {
+          "city_name" : "Saveni",
+          "city_synonyms" : [
+            "Săveni",
+            "Saveni"
+          ]
+        },
+        {
+          "city_name" : "Stefanesti",
+          "city_synonyms" : [
+            "Ștefănești",
+            "Stefanesti"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Brasov",
+      "region_synonyms" : [
+        "Brașov",
+        "Brasov"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brasov",
+          "city_synonyms" : [
+            "Brașov",
+            "Brasov"
+          ]
+        },
+        {
+          "city_name" : "Codlea",
+          "city_synonyms" : [
+            "Codlea"
+          ]
+        },
+        {
+          "city_name" : "Fagaras",
+          "city_synonyms" : [
+            "Făgăraș",
+            "Fagaras"
+          ]
+        },
+        {
+          "city_name" : "Ghimbav",
+          "city_synonyms" : [
+            "Ghimbav"
+          ]
+        },
+        {
+          "city_name" : "Predeal",
+          "city_synonyms" : [
+            "Predeal"
+          ]
+        },
+        {
+          "city_name" : "Rasnov",
+          "city_synonyms" : [
+            "Râșnov",
+            "Rasnov"
+          ]
+        },
+        {
+          "city_name" : "Rupea",
+          "city_synonyms" : [
+            "Rupea"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bucharest",
+      "region_synonyms" : [
+        "Bucharest"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bucharest",
+          "city_synonyms" : [
+            "Bucharest"
+          ]
+        }
+      ]
+    }
+  ]
+}
