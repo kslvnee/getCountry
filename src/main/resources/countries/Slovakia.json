@@ -1,0 +1,22 @@
+{
+  "country_name" : "Slovakia",
+  "country_synonyms" : [
+    "Slovakia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bratislava",
+      "region_synonyms" : [
+        "Bratislava"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bratislava",
+          "city_synonyms" : [
+            "Bratislava"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -993,6 +993,23 @@
         }
       ]
     },
+
+
+    {
+      "region_name" : "Kentucky",
+      "region_synonyms" : [
+        "Kentucky"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Louisville",
+          "city_synonyms" : [
+            "Louisville"
+          ]
+        }
+      ]
+    },
+
     {
       "region_name" : "Massachusetts",
       "region_synonyms" : [
@@ -1073,6 +1090,12 @@
           "city_name" : "Lansing",
           "city_synonyms" : [
             "Lansing"
+          ]
+        },
+        {
+          "city_name" : "Muskegon",
+          "city_synonyms" : [
+            "Muskegon"
           ]
         },
         {
@@ -1294,6 +1317,12 @@
           "city_name" : "Rochester",
           "city_synonyms" : [
             "Rochester"
+          ]
+        },
+        {
+          "city_name" : "Scardale",
+          "city_synonyms" : [
+            "Scardale"
           ]
         },
         {

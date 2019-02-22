@@ -1,0 +1,36 @@
+{
+  "country_name" : "Philippines",
+  "country_synonyms" : [
+    "Philippines"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Philippines",
+      "region_synonyms" : [
+        "Philippines"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Caloocan",
+          "city_synonyms" : [
+            "Caloocan"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "AgusanDelNorte",
+      "region_synonyms" : [
+        "AgusanDelNorte"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Butuan",
+          "city_synonyms" : [
+            "Butuan"
+          ]
+        }
+      ]
+    }
+  ]
+}

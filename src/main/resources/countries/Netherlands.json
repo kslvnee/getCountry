@@ -19,6 +19,591 @@
       ]
     },
     {
+      "region_name" : "Drenthe",
+      "region_synonyms" : [
+        "Drenthe"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Assen",
+          "city_synonyms" : [
+            "Assen"
+          ]
+        },
+        {
+          "city_name" : "Coevorden",
+          "city_synonyms" : [
+            "Coevorden"
+          ]
+        },
+        {
+          "city_name" : "Emmen",
+          "city_synonyms" : [
+            "Emmen"
+          ]
+        },
+        {
+          "city_name" : "Hoogeveen",
+          "city_synonyms" : [
+            "Hoogeveen"
+          ]
+        },
+        {
+          "city_name" : "Meppel",
+          "city_synonyms" : [
+            "Meppel"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Flevoland",
+      "region_synonyms" : [
+        "Flevoland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Almere",
+          "city_synonyms" : [
+            "Almere"
+          ]
+        },
+        {
+          "city_name" : "Biddinghuizen",
+          "city_synonyms" : [
+            "Biddinghuizen"
+          ]
+        },
+        {
+          "city_name" : "Emmeloord",
+          "city_synonyms" : [
+            "Emmeloord"
+          ]
+        },
+        {
+          "city_name" : "Lelystad",
+          "city_synonyms" : [
+            "Lelystad"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Friesland",
+      "region_synonyms" : [
+        "Friesland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bolsward",
+          "city_synonyms" : [
+            "Bolsward"
+          ]
+        },
+        {
+          "city_name" : "Dokkum",
+          "city_synonyms" : [
+            "Dokkum"
+          ]
+        },
+        {
+          "city_name" : "Franeker",
+          "city_synonyms" : [
+            "Franeker"
+          ]
+        },
+        {
+          "city_name" : "Harlingen",
+          "city_synonyms" : [
+            "Harlingen"
+          ]
+        },
+        {
+          "city_name" : "Hindeloopen",
+          "city_synonyms" : [
+            "Hindeloopen"
+          ]
+        },
+        {
+          "city_name" : "IJlst",
+          "city_synonyms" : [
+            "IJlst"
+          ]
+        },
+        {
+          "city_name" : "Leeuwarden",
+          "city_synonyms" : [
+            "Leeuwarden"
+          ]
+        },
+        {
+          "city_name" : "Sloten",
+          "city_synonyms" : [
+            "Sloten"
+          ]
+        },
+        {
+          "city_name" : "Sneek",
+          "city_synonyms" : [
+            "Sneek"
+          ]
+        },
+        {
+          "city_name" : "Stavoren",
+          "city_synonyms" : [
+            "Stavoren"
+          ]
+        },
+        {
+          "city_name" : "Workum",
+          "city_synonyms" : [
+            "Workum"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Gelderland",
+      "region_synonyms" : [
+        "Gelderland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Apeldoorn",
+          "city_synonyms" : [
+            "Apeldoorn"
+          ]
+        },
+        {
+          "city_name" : "Arnhem",
+          "city_synonyms" : [
+            "Arnhem"
+          ]
+        },
+        {
+          "city_name" : "Bredevoort",
+          "city_synonyms" : [
+            "Bredevoort"
+          ]
+        },
+        {
+          "city_name" : "Buren",
+          "city_synonyms" : [
+            "Buren"
+          ]
+        },
+        {
+          "city_name" : "Culemborg",
+          "city_synonyms" : [
+            "Culemborg"
+          ]
+        },
+        {
+          "city_name" : "Dieren",
+          "city_synonyms" : [
+            "Dieren"
+          ]
+        },
+        {
+          "city_name" : "Doetinchem",
+          "city_synonyms" : [
+            "Doetinchem"
+          ]
+        },
+        {
+          "city_name" : "Ede",
+          "city_synonyms" : [
+            "Ede"
+          ]
+        },
+        {
+          "city_name" : "Enspijk",
+          "city_synonyms" : [
+            "Enspijk"
+          ]
+        },
+        {
+          "city_name" : "Gendt",
+          "city_synonyms" : [
+            "Gendt"
+          ]
+        },
+        {
+          "city_name" : "Groenlo",
+          "city_synonyms" : [
+            "Groenlo"
+          ]
+        },
+        {
+          "city_name" : "Harderwijk",
+          "city_synonyms" : [
+            "Harderwijk"
+          ]
+        },
+        {
+          "city_name" : "Hattem",
+          "city_synonyms" : [
+            "Hattem"
+          ]
+        },
+        {
+          "city_name" : "Heukelum",
+          "city_synonyms" : [
+            "Heukelum"
+          ]
+        },
+        {
+          "city_name" : "Huissen",
+          "city_synonyms" : [
+            "Huissen"
+          ]
+        },
+        {
+          "city_name" : "Nijkerk",
+          "city_synonyms" : [
+            "Nijkerk"
+          ]
+        },
+        {
+          "city_name" : "Nijmegen",
+          "city_synonyms" : [
+            "Nijmegen"
+          ]
+        },
+        {
+          "city_name" : "Tiel",
+          "city_synonyms" : [
+            "Tiel"
+          ]
+        },
+        {
+          "city_name" : "Wageningen",
+          "city_synonyms" : [
+            "Wageningen"
+          ]
+        },
+        {
+          "city_name" : "Wijchen",
+          "city_synonyms" : [
+            "Wijchen"
+          ]
+        },
+        {
+          "city_name" : "Winterswijk",
+          "city_synonyms" : [
+            "Winterswijk"
+          ]
+        },
+        {
+          "city_name" : "Zaltbommel",
+          "city_synonyms" : [
+            "Zaltbommel"
+          ]
+        },
+        {
+          "city_name" : "Zevenaar",
+          "city_synonyms" : [
+            "Zevenaar"
+          ]
+        },
+        {
+          "city_name" : "Zutphen",
+          "city_synonyms" : [
+            "Zutphen"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Groningen",
+      "region_synonyms" : [
+        "Groningen"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Appingedam",
+          "city_synonyms" : [
+            "Appingedam"
+          ]
+        },
+        {
+          "city_name" : "Delfzijl",
+          "city_synonyms" : [
+            "Delfzijl"
+          ]
+        },
+        {
+          "city_name" : "Groningen",
+          "city_synonyms" : [
+            "Groningen"
+          ]
+        },
+        {
+          "city_name" : "Hoogezand-Sappemeer",
+          "city_synonyms" : [
+            "Hoogezand-Sappemeer"
+          ]
+        },
+        {
+          "city_name" : "Stadskanaal",
+          "city_synonyms" : [
+            "Stadskanaal"
+          ]
+        },
+        {
+          "city_name" : "Veendam",
+          "city_synonyms" : [
+            "Veendam"
+          ]
+        },
+        {
+          "city_name" : "Winschoten",
+          "city_synonyms" : [
+            "Winschoten"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Limburg",
+      "region_synonyms" : [
+        "Limburg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Echt",
+          "city_synonyms" : [
+            "Echt"
+          ]
+        },
+        {
+          "city_name" : "Geleen",
+          "city_synonyms" : [
+            "Geleen"
+          ]
+        },
+        {
+          "city_name" : "Gennep",
+          "city_synonyms" : [
+            "Gennep"
+          ]
+        },
+        {
+          "city_name" : "Heerlen",
+          "city_synonyms" : [
+            "Heerlen"
+          ]
+        },
+        {
+          "city_name" : "Kerkrade",
+          "city_synonyms" : [
+            "Kerkrade"
+          ]
+        },
+        {
+          "city_name" : "Kessel",
+          "city_synonyms" : [
+            "Kessel"
+          ]
+        },
+        {
+          "city_name" : "Landgraaf",
+          "city_synonyms" : [
+            "Landgraaf"
+          ]
+        },
+        {
+          "city_name" : "Maastricht",
+          "city_synonyms" : [
+            "Maastricht"
+          ]
+        },
+        {
+          "city_name" : "Montfort",
+          "city_synonyms" : [
+            "Montfort"
+          ]
+        },
+        {
+          "city_name" : "Nieuwstadt",
+          "city_synonyms" : [
+            "Nieuwstadt"
+          ]
+        },
+        {
+          "city_name" : "Roermond",
+          "city_synonyms" : [
+            "Roermond"
+          ]
+        },
+        {
+          "city_name" : "Sittard",
+          "city_synonyms" : [
+            "Sittard"
+          ]
+        },
+        {
+          "city_name" : "Stein",
+          "city_synonyms" : [
+            "Stein"
+          ]
+        },
+        {
+          "city_name" : "Susteren",
+          "city_synonyms" : [
+            "Susteren"
+          ]
+        },
+        {
+          "city_name" : "Thorn",
+          "city_synonyms" : [
+            "Thorn"
+          ]
+        },
+        {
+          "city_name" : "Valkenburg",
+          "city_synonyms" : [
+            "Valkenburg"
+          ]
+        },
+        {
+          "city_name" : "Weert",
+          "city_synonyms" : [
+            "Weert"
+          ]
+        },
+        {
+          "city_name" : "Venlo",
+          "city_synonyms" : [
+            "Venlo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "NorthBrabant",
+      "region_synonyms" : [
+        "NorthBrabant",
+        "North Brabant"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Boxtel",
+          "city_synonyms" : [
+            "Boxtel"
+          ]
+        },
+        {
+          "city_name" : "Breda",
+          "city_synonyms" : [
+            "Breda"
+          ]
+        },
+        {
+          "city_name" : "Eindhoven",
+          "city_synonyms" : [
+            "Eindhoven"
+          ]
+        },
+        {
+          "city_name" : "Geertruidenberg",
+          "city_synonyms" : [
+            "Geertruidenberg"
+          ]
+        },
+        {
+          "city_name" : "Geldrop",
+          "city_synonyms" : [
+            "Geldrop"
+          ]
+        },
+        {
+          "city_name" : "Grave",
+          "city_synonyms" : [
+            "Grave"
+          ]
+        },
+        {
+          "city_name" : "Helmond",
+          "city_synonyms" : [
+            "Helmond"
+          ]
+        },
+        {
+          "city_name" : "Heusden",
+          "city_synonyms" : [
+            "Heusden"
+          ]
+        },
+        {
+          "city_name" : "Klundert",
+          "city_synonyms" : [
+            "Klundert"
+          ]
+        },
+        {
+          "city_name" : "Oosterhout",
+          "city_synonyms" : [
+            "Oosterhout"
+          ]
+        },
+        {
+          "city_name" : "Oss",
+          "city_synonyms" : [
+            "Oss"
+          ]
+        },
+        {
+          "city_name" : "Ravenstein",
+          "city_synonyms" : [
+            "Ravenstein"
+          ]
+        },
+        {
+          "city_name" : "Roosendaal",
+          "city_synonyms" : [
+            "Roosendaal"
+          ]
+        },
+        {
+          "city_name" : "Tilburg",
+          "city_synonyms" : [
+            "Tilburg"
+          ]
+        },
+        {
+          "city_name" : "Valkenswaard",
+          "city_synonyms" : [
+            "Valkenswaard"
+          ]
+        },
+        {
+          "city_name" : "Veldhoven",
+          "city_synonyms" : [
+            "Veldhoven"
+          ]
+        },
+        {
+          "city_name" : "Waalwijk",
+          "city_synonyms" : [
+            "Waalwijk"
+          ]
+        },
+        {
+          "city_name" : "Willemstad",
+          "city_synonyms" : [
+            "Willemstad"
+          ]
+        },
+        {
+          "city_name" : "Woudrichem",
+          "city_synonyms" : [
+            "Woudrichem"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Groningen",
       "region_synonyms" : [
         "Groningen"

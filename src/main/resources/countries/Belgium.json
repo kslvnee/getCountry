@@ -15,6 +15,26 @@
           "city_synonyms" : [
             "Antwerp"
           ]
+        },
+        {
+          "city_name" : "Geel",
+          "city_synonyms" : [
+            "Geel"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Brussels",
+      "region_synonyms" : [
+        "Brussels"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Brussels",
+          "city_synonyms" : [
+            "Brussels"
+          ]
         }
       ]
     }

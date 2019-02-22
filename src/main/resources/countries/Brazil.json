@@ -27,7 +27,7 @@
       ],
       "cities" : [
         {
-          "city_name" : "Maceió",
+          "city_name" : "Maceio",
           "city_synonyms" : [
             "Maceió",
             "Maceio"
@@ -42,14 +42,14 @@
       ]
     },
     {
-      "region_name" : "Amapá",
+      "region_name" : "Amapa",
       "region_synonyms" : [
         "Amapá",
         "Amapa"
       ],
       "cities" : [
         {
-          "city_name" : "Macapá",
+          "city_name" : "Macapa",
           "city_synonyms" : [
             "Macapá",
             "Macapa"
@@ -59,6 +59,81 @@
           "city_name" : "Santana",
           "city_synonyms" : [
             "Santana"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Amazonas",
+      "region_synonyms" : [
+        "Amazonas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Manaus",
+          "city_synonyms" : [
+            "Manaus"
+          ]
+        },
+        {
+          "city_name" : "Parintins",
+          "city_synonyms" : [
+            "Parintins"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Bahia",
+      "region_synonyms" : [
+        "Bahia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alagoinhas",
+          "city_synonyms" : [
+            "Alagoinhas"
+          ]
+        },
+        {
+          "city_name" : "Barreiras",
+          "city_synonyms" : [
+            "Barreiras"
+          ]
+        },
+        {
+          "city_name" : "Camacari",
+          "city_synonyms" : [
+            "Camaçari",
+            "Camacari"
+          ]
+        },
+        {
+          "city_name" : "Eunapolis",
+          "city_synonyms" : [
+            "Eunápolis",
+            "Eunapolis"
+          ]
+        },
+        {
+          "city_name" : "Salvador",
+          "city_synonyms" : [
+            "Salvador"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Ceara",
+      "region_synonyms" : [
+        "Ceará",
+        "Ceara"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Fortaleza",
+          "city_synonyms" : [
+            "Fortaleza"
           ]
         }
       ]
