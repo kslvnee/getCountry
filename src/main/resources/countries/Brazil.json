@@ -139,6 +139,22 @@
       ]
     },
     {
+      "region_name" : "RioDeJaneiro",
+      "region_synonyms" : [
+        "Rio de Janeiro",
+        "RioDeJaneiro"
+      ],
+      "cities" : [
+        {
+          "city_name" : "RioDeJaneiro",
+          "city_synonyms" : [
+            "Rio de Janeiro",
+            "RioDeJaneiro"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "SaoPaulo",
       "region_synonyms" : [
         "São Paulo",

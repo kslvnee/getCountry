@@ -1,0 +1,22 @@
+{
+  "country_name" : "Luxembourg",
+  "country_synonyms" : [
+    "Luxembourg"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Luxembourg",
+      "region_synonyms" : [
+        "Luxembourg"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Diekirch",
+          "city_synonyms" : [
+            "Diekirch"
+          ]
+        }
+      ]
+    }
+  ]
+}

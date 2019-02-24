@@ -1,0 +1,22 @@
+{
+  "country_name" : "Uganda",
+  "country_synonyms" : [
+    "Uganda"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kampala",
+      "region_synonyms" : [
+        "Kampala"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kampala",
+          "city_synonyms" : [
+            "Kampala"
+          ]
+        }
+      ]
+    }
+  ]
+}

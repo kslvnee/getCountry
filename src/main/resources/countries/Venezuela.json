@@ -1,0 +1,22 @@
+{
+  "country_name" : "Venezuela",
+  "country_synonyms" : [
+    "Venezuela"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Caracas",
+      "region_synonyms" : [
+        "Caracas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Caracas",
+          "city_synonyms" : [
+            "Caracas"
+          ]
+        }
+      ]
+    }
+  ]
+}

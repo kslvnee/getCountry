@@ -1,0 +1,22 @@
+{
+  "country_name" : "Chile",
+  "country_synonyms" : [
+    "Chile"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Santiago",
+      "region_synonyms" : [
+        "Santiago"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Santiago",
+          "city_synonyms" : [
+            "Santiago"
+          ]
+        }
+      ]
+    }
+  ]
+}

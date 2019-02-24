@@ -1,0 +1,40 @@
+{
+  "country_name" : "Hungary",
+  "country_synonyms" : [
+    "Hungary"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Budapest",
+      "region_synonyms" : [
+        "Budapest"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Budapest",
+          "city_synonyms" : [
+            "Budapest"
+          ]
+        },
+        {
+          "city_name" : "Debrecen",
+          "city_synonyms" : [
+            "Debrecen"
+          ]
+        },
+        {
+          "city_name" : "Szeged",
+          "city_synonyms" : [
+            "Szeged"
+          ]
+        },
+        {
+          "city_name" : "Miskolc",
+          "city_synonyms" : [
+            "Miskolc"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "country_name" : "Bangladesh",
+  "country_synonyms" : [
+    "Bangladesh"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bangladesh",
+      "region_synonyms" : [
+        "Bangladesh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Barisal",
+          "city_synonyms" : [
+            "Barisal"
+          ]
+        },
+        {
+          "city_name" : "Chittagong",
+          "city_synonyms" : [
+            "Chittagong"
+          ]
+        },
+        {
+          "city_name" : "Comilla",
+          "city_synonyms" : [
+            "Comilla"
+          ]
+        },
+        {
+          "city_name" : "Dhaka",
+          "city_synonyms" : [
+            "Dhaka"
+          ]
+        },
+        {
+          "city_name" : "Gazipur",
+          "city_synonyms" : [
+            "Gazipur"
+          ]
+        },
+        {
+          "city_name" : "Khulna",
+          "city_synonyms" : [
+            "Khulna"
+          ]
+        },
+        {
+          "city_name" : "Mymensingh",
+          "city_synonyms" : [
+            "Mymensingh"
+          ]
+        },
+        {
+          "city_name" : "Narayanganj",
+          "city_synonyms" : [
+            "Narayanganj"
+          ]
+        },
+        {
+          "city_name" : "Rajshahi",
+          "city_synonyms" : [
+            "Rajshahi"
+          ]
+        },
+        {
+          "city_name" : "Rangpur",
+          "city_synonyms" : [
+            "Rangpur"
+          ]
+        },
+        {
+          "city_name" : "Sylhet",
+          "city_synonyms" : [
+            "Sylhet"
+          ]
+        }
+      ]
+    }
+  ]
+}

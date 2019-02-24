@@ -108,6 +108,27 @@
       ]
     },
     {
+      "region_name" : "Arkansas",
+      "region_synonyms" : [
+        "Arkansas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bentonville",
+          "city_synonyms" : [
+            "Bentonville"
+          ]
+        },
+        {
+          "city_name" : "LittleRock",
+          "city_synonyms" : [
+            "Little Rock",
+            "LittleRock"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "California",
       "region_synonyms" : [
         "California",
@@ -637,6 +658,12 @@
           ]
         },
         {
+          "city_name" : "Durango",
+          "city_synonyms" : [
+            "Durango"
+          ]
+        },
+        {
           "city_name" : "Fort-Collins",
           "city_synonyms" : [
             "Fort Collins",
@@ -898,6 +925,20 @@
       ]
     },
     {
+      "region_name" : "Idaho",
+      "region_synonyms" : [
+        "Idaho"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Boise",
+          "city_synonyms" : [
+            "Boise"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Illinois",
       "region_synonyms" : [
         "Illinois"
@@ -996,6 +1037,20 @@
 
 
     {
+      "region_name" : "Kansas",
+      "region_synonyms" : [
+        "Kansas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Lenexa",
+          "city_synonyms" : [
+            "Lenexa"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Kentucky",
       "region_synonyms" : [
         "Kentucky"
@@ -1005,6 +1060,41 @@
           "city_name" : "Louisville",
           "city_synonyms" : [
             "Louisville"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Louisiana",
+      "region_synonyms" : [
+        "Louisiana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "BatonRouge",
+          "city_synonyms" : [
+            "BatonRouge",
+            "Baton Rouge"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Maryland",
+      "region_synonyms" : [
+        "Maryland"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Frederick",
+          "city_synonyms" : [
+            "Frederick"
+          ]
+        },
+        {
+          "city_name" : "Waldorf",
+          "city_synonyms" : [
+            "Waldorf"
           ]
         }
       ]
@@ -1041,6 +1131,12 @@
           ]
         },
         {
+          "city_name" : "Quincy",
+          "city_synonyms" : [
+            "Quincy"
+          ]
+        },
+        {
           "city_name" : "Springfield",
           "city_synonyms" : [
             "Springfield"
@@ -1065,6 +1161,12 @@
           "city_synonyms" : [
             "Ann Arbor",
             "Ann-Arbor"
+          ]
+        },
+        {
+          "city_name" : "Dearborn",
+          "city_synonyms" : [
+            "Dearborn"
           ]
         },
         {
@@ -1332,6 +1434,12 @@
           ]
         },
         {
+          "city_name" : "Westbury",
+          "city_synonyms" : [
+            "Westbury"
+          ]
+        },
+        {
           "city_name" : "Yonkers",
           "city_synonyms" : [
             "Yonkers"
@@ -1374,6 +1482,12 @@
           "city_name" : "Greensboro",
           "city_synonyms" : [
             "Greensboro"
+          ]
+        },
+        {
+          "city_name" : "Greenville",
+          "city_synonyms" : [
+            "Greenville"
           ]
         },
         {
@@ -1440,9 +1554,21 @@
           ]
         },
         {
+          "city_name" : "Milford",
+          "city_synonyms" : [
+            "Dayton"
+          ]
+        },
+        {
           "city_name" : "Toledo",
           "city_synonyms" : [
             "Toledo"
+          ]
+        },
+        {
+          "city_name" : "Westerville",
+          "city_synonyms" : [
+            "Westerville"
           ]
         }
       ]
@@ -1906,6 +2032,12 @@
           ]
         },
         {
+          "city_name" : "Blacksburg",
+          "city_synonyms" : [
+            "Blacksburg"
+          ]
+        },
+        {
           "city_name" : "Chesapeake",
           "city_synonyms" : [
             "Chesapeake"
@@ -1921,6 +2053,12 @@
           "city_name" : "Fairfax",
           "city_synonyms" : [
             "Fairfax"
+          ]
+        },
+        {
+          "city_name" : "Leesburg",
+          "city_synonyms" : [
+            "Leesburg"
           ]
         },
         {

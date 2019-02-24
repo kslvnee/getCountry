@@ -1,0 +1,117 @@
+{
+  "country_name" : "Slovenia",
+  "country_synonyms" : [
+    "Slovenia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Slovenia",
+      "region_synonyms" : [
+        "Slovenia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Celje",
+          "city_synonyms" : [
+            "Celje"
+          ]
+        },
+        {
+          "city_name" : "Domzale",
+          "city_synonyms" : [
+            "Domžale",
+            "Domzale"
+          ]
+        },
+        {
+          "city_name" : "Izola",
+          "city_synonyms" : [
+            "Izola"
+          ]
+        },
+        {
+          "city_name" : "Jesenice",
+          "city_synonyms" : [
+            "Jesenice"
+          ]
+        },
+        {
+          "city_name" : "Kamnik",
+          "city_synonyms" : [
+            "Kamnik"
+          ]
+        },
+        {
+          "city_name" : "Koper",
+          "city_synonyms" : [
+            "Koper"
+          ]
+        },
+        {
+          "city_name" : "Kranj",
+          "city_synonyms" : [
+            "Kranj"
+          ]
+        },
+        {
+          "city_name" : "Ljubljana",
+          "city_synonyms" : [
+            "Ljubljana"
+          ]
+        },
+        {
+          "city_name" : "Maribor",
+          "city_synonyms" : [
+            "Maribor"
+          ]
+        },
+        {
+          "city_name" : "MurskaSobota",
+          "city_synonyms" : [
+            "MurskaSobota",
+            "Murska Sobota"
+          ]
+        },
+        {
+          "city_name" : "NovaGorica",
+          "city_synonyms" : [
+            "Nova Gorica",
+            "NovaGorica"
+          ]
+        },
+        {
+          "city_name" : "NovoMesto",
+          "city_synonyms" : [
+            "Novo Mesto",
+            "NovoMesto"
+          ]
+        },
+        {
+          "city_name" : "Ptuj",
+          "city_synonyms" : [
+            "Ptuj"
+          ]
+        },
+        {
+          "city_name" : "Trbovlje",
+          "city_synonyms" : [
+            "Trbovlje"
+          ]
+        },
+        {
+          "city_name" : "Velenje",
+          "city_synonyms" : [
+            "Velenje"
+          ]
+        },
+        {
+          "city_name" : "SkofjaLoka",
+          "city_synonyms" : [
+            "Škofja Loka",
+            "SkofjaLoka"
+          ]
+        }
+      ]
+    }
+  ]
+}

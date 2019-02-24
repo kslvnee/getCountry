@@ -5,8 +5,23 @@
   ],
   "regions" : [
     {
-      "region_name" : "Hong Kong",
+      "region_name" : "Beijing",
       "region_synonyms" : [
+        "Beijing"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Beijing",
+          "city_synonyms" : [
+            "Beijing"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "HongKong",
+      "region_synonyms" : [
+        "HongKong",
         "Hong Kong"
       ],
       "cities" : [
@@ -14,6 +29,20 @@
           "city_name" : "Hong Kong",
           "city_synonyms" : [
             "Hong Kong"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Shanghai",
+      "region_synonyms" : [
+        "Shanghai"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Shanghai",
+          "city_synonyms" : [
+            "Shanghai"
           ]
         }
       ]
