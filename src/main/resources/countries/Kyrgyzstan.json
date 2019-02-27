@@ -1,0 +1,23 @@
+{
+  "country_name" : "Kyrgyzstan",
+  "country_synonyms" : [
+    "Kyrgyzstan"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Bishkek",
+      "region_synonyms" : [
+        "Bishkek"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bishkek",
+          "city_synonyms" : [
+            "Bishkek",
+            "Бишкек"
+          ]
+        }
+      ]
+    }
+  ]
+}

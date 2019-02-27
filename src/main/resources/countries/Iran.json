@@ -1,0 +1,22 @@
+{
+  "country_name" : "Iran",
+  "country_synonyms" : [
+    "Iran"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tehran",
+      "region_synonyms" : [
+        "Tehran"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tehran",
+          "city_synonyms" : [
+            "Tehran"
+          ]
+        }
+      ]
+    }
+  ]
+}

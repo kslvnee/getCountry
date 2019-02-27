@@ -1047,6 +1047,12 @@
           "city_synonyms" : [
             "Lenexa"
           ]
+        },
+        {
+          "city_name" : "Manhattan",
+          "city_synonyms" : [
+            "Manhattan"
+          ]
         }
       ]
     },
@@ -1056,6 +1062,13 @@
         "Kentucky"
       ],
       "cities" : [
+        {
+          "city_name" : "BowlingGreen",
+          "city_synonyms" : [
+            "BowlingGreen",
+            "Bowling Green"
+          ]
+        },
         {
           "city_name" : "Louisville",
           "city_synonyms" : [
@@ -1085,6 +1098,12 @@
         "Maryland"
       ],
       "cities" : [
+        {
+          "city_name" : "Baltimore",
+          "city_synonyms" : [
+            "Baltimore"
+          ]
+        },
         {
           "city_name" : "Frederick",
           "city_synonyms" : [
@@ -1173,6 +1192,13 @@
           "city_name" : "Detroit",
           "city_synonyms" : [
             "Detroit"
+          ]
+        },
+        {
+          "city_name" : "FarmingtonHills",
+          "city_synonyms" : [
+            "Farmington Hills",
+            "FarmingtonHills"
           ]
         },
         {
@@ -1396,6 +1422,12 @@
         "New-York"
       ],
       "cities" : [
+        {
+          "city_name" : "Bronx",
+          "city_synonyms" : [
+            "Bronx"
+          ]
+        },
         {
           "city_name" : "Brooklyn",
           "city_synonyms" : [
@@ -1733,6 +1765,12 @@
         "Tennessee"
       ],
       "cities" : [
+        {
+          "city_name" : "Brentwood",
+          "city_synonyms" : [
+            "Brentwood"
+          ]
+        },
         {
           "city_name" : "Chattanooga",
           "city_synonyms" : [
@@ -2081,13 +2119,13 @@
           ]
         },
         {
-          "city_name" : "Richmond",
+          "city_name" : "Reston",
           "city_synonyms" : [
-            "Richmond"
+            "Reston"
           ]
         },
         {
-          "city_name" : "Virginia",
+          "city_name" : "Richmond",
           "city_synonyms" : [
             "Richmond"
           ]

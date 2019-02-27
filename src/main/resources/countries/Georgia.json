@@ -1,0 +1,22 @@
+{
+  "country_name" : "Georgia",
+  "country_synonyms" : [
+    "Georgia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tbilisi",
+      "region_synonyms" : [
+        "Tbilisi"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tbilisi",
+          "city_synonyms" : [
+            "Tbilisi"
+          ]
+        }
+      ]
+    }
+  ]
+}

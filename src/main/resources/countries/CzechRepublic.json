@@ -1,5 +1,5 @@
 {
-  "country_name" : "Czech Republic",
+  "country_name" : "CzechRepublic",
   "country_synonyms" : [
     "Czech Republic",
     "Czech rep.",
@@ -15,7 +15,8 @@
         {
           "city_name" : "Prague",
           "city_synonyms" : [
-            "Prague"
+            "Prague",
+            "Praha"
           ]
         }
       ]

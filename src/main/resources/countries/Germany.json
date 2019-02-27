@@ -5,11 +5,18 @@
   ],
   "regions" : [
     {
-      "region_name" : "Baden-Württemberg",
+      "region_name" : "Baden-Wurttemberg",
       "region_synonyms" : [
-        "Baden-Württemberg"
+        "Baden-Württemberg",
+        "Baden-Wurttemberg"
       ],
       "cities" : [
+        {
+          "city_name" : "Heidelberg",
+          "city_synonyms" : [
+            "Heidelberg"
+          ]
+        },
         {
           "city_name" : "Stuttgart",
           "city_synonyms" : [
@@ -106,6 +113,12 @@
         "Hesse"
       ],
       "cities" : [
+        {
+          "city_name" : "Frankfurt",
+          "city_synonyms" : [
+            "Frankfurt"
+          ]
+        },
         {
           "city_name" : "Wiesbaden",
           "city_synonyms" : [
