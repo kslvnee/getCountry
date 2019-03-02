@@ -1,0 +1,22 @@
+{
+  "country_name" : "Ecuador",
+  "country_synonyms" : [
+    "Ecuador"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Guayas",
+      "region_synonyms" : [
+        "Guayas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Guayaquil",
+          "city_synonyms" : [
+            "Guayaquil"
+          ]
+        }
+      ]
+    }
+  ]
+}

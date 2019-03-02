@@ -1,0 +1,23 @@
+{
+  "country_name" : "NewZealand",
+  "country_synonyms" : [
+    "New Zealand",
+    "New Zealand"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Wellington",
+      "region_synonyms" : [
+        "Wellington"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Wellington",
+          "city_synonyms" : [
+            "Wellington"
+          ]
+        }
+      ]
+    }
+  ]
+}

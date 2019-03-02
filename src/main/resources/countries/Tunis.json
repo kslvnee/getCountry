@@ -1,0 +1,22 @@
+{
+  "country_name" : "Tunis",
+  "country_synonyms" : [
+    "Tunis"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Tunis",
+      "region_synonyms" : [
+        "Tunis"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tunis",
+          "city_synonyms" : [
+            "Tunis"
+          ]
+        }
+      ]
+    }
+  ]
+}

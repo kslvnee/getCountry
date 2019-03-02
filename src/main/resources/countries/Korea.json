@@ -1,0 +1,22 @@
+{
+  "country_name" : "Korea",
+  "country_synonyms" : [
+    "Korea"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Seoul",
+      "region_synonyms" : [
+        "Seoul"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Seoul",
+          "city_synonyms" : [
+            "Seoul"
+          ]
+        }
+      ]
+    }
+  ]
+}

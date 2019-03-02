@@ -1,0 +1,22 @@
+{
+  "country_name" : "Mongolia",
+  "country_synonyms" : [
+    "Mongolia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Ulaanbaatar",
+      "region_synonyms" : [
+        "Ulaanbaatar"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ulaanbaatar",
+          "city_synonyms" : [
+            "Ulaanbaatar"
+          ]
+        }
+      ]
+    }
+  ]
+}

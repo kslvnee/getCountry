@@ -1,0 +1,22 @@
+{
+  "country_name" : "Iraq",
+  "country_synonyms" : [
+    "Iraq"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Baghdad",
+      "region_synonyms" : [
+        "Baghdad"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Baghdad",
+          "city_synonyms" : [
+            "Baghdad"
+          ]
+        }
+      ]
+    }
+  ]
+}

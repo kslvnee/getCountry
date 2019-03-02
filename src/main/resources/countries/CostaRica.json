@@ -1,0 +1,23 @@
+{
+  "country_name" : "CostaRica",
+  "country_synonyms" : [
+    "CostaRica",
+    "Costa Rica"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Alajuela",
+      "region_synonyms" : [
+        "Alajuela"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Alajuela",
+          "city_synonyms" : [
+            "Alajuela"
+          ]
+        }
+      ]
+    }
+  ]
+}

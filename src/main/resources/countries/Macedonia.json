@@ -1,0 +1,22 @@
+{
+  "country_name" : "Macedonia",
+  "country_synonyms" : [
+    "Macedonia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Skopje",
+      "region_synonyms" : [
+        "Skopje"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Skopje",
+          "city_synonyms" : [
+            "Skopje"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "country_name" : "Malaysia",
+  "country_synonyms" : [
+    "Malaysia"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Ipoh",
+      "region_synonyms" : [
+        "Ipoh"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Ipoh",
+          "city_synonyms" : [
+            "Ipoh"
+          ]
+        }
+      ]
+    }
+  ]
+}

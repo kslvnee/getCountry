@@ -148,6 +148,12 @@
       ],
       "cities" : [
         {
+          "city_name" : "Knoxfield",
+          "city_synonyms" : [
+            "Knoxfield"
+          ]
+        },
+        {
           "city_name" : "Melbourne",
           "city_synonyms" : [
             "Melbourne"

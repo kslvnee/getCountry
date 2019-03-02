@@ -1,19 +1,19 @@
 {
-  "country_name" : "New Zealand",
+  "country_name" : "Morocco",
   "country_synonyms" : [
-    "New Zealand"
+    "Morocco"
   ],
   "regions" : [
     {
-      "region_name" : "Wellington",
+      "region_name" : "Casablanca",
       "region_synonyms" : [
-        "Wellington"
+        "Casablanca"
       ],
       "cities" : [
         {
-          "city_name" : "Wellington",
+          "city_name" : "Casablanca",
           "city_synonyms" : [
-            "Wellington"
+            "Casablanca"
           ]
         }
       ]

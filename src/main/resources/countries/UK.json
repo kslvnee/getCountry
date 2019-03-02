@@ -8,9 +8,10 @@
   ],
   "regions" : [
     {
-      "region_name" : "East Midlands",
+      "region_name" : "EastMidlands",
       "region_synonyms" : [
-        "East Midlands"
+        "East Midlands",
+        "EastMidlands"
       ],
       "cities" : [
         {
@@ -46,11 +47,18 @@
       ]
     },
     {
-      "region_name" : "East of England",
+      "region_name" : "EastEngland",
       "region_synonyms" : [
-        "East of England"
+        "East of England",
+        "EastEngland"
       ],
       "cities" : [
+        {
+          "city_name" : "Bedford",
+          "city_synonyms" : [
+            "Bedford"
+          ]
+        },
         {
           "city_name" : "Cambridge",
           "city_synonyms" : [
@@ -110,9 +118,10 @@
       ]
     },
     {
-      "region_name" : "North East",
+      "region_name" : "NorthEast",
       "region_synonyms" : [
-        "North East"
+        "North East",
+        "NorthEast"
       ],
       "cities" : [
         {
@@ -138,9 +147,10 @@
       ]
     },
     {
-      "region_name" : "North West",
+      "region_name" : "NorthWest",
       "region_synonyms" : [
-        "North West"
+        "North West",
+        "NorthWest"
       ],
       "cities" : [
         {
@@ -188,9 +198,10 @@
       ]
     },
     {
-      "region_name" : "Northern Ireland",
+      "region_name" : "NorthernIreland",
       "region_synonyms" : [
-        "Northern Ireland"
+        "Northern Ireland",
+        "NorthernIreland"
       ],
       "cities" : [
         {
@@ -276,9 +287,10 @@
       ]
     },
     {
-      "region_name" : "South East",
+      "region_name" : "SouthEast",
       "region_synonyms" : [
-        "South East"
+        "South East",
+        "SouthEast"
       ],
       "cities" : [
         {
@@ -326,9 +338,10 @@
       ]
     },
     {
-      "region_name" : "South West",
+      "region_name" : "SouthWest",
       "region_synonyms" : [
-        "SSouth West"
+        "SSouth West",
+        "SouthWest"
       ],
       "cities" : [
         {
@@ -426,9 +439,10 @@
       ]
     },
     {
-      "region_name" : "West Midlands",
+      "region_name" : "WestMidlands",
       "region_synonyms" : [
-        "West Midlands"
+        "West Midlands",
+        "WestMidlands"
       ],
       "cities" : [
         {

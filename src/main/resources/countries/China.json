@@ -5,6 +5,140 @@
   ],
   "regions" : [
     {
+      "region_name" : "Anhui",
+      "region_synonyms" : [
+        "Anhui"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Anqing",
+          "city_synonyms" : [
+            "Anqing"
+          ]
+        },
+        {
+          "city_name" : "Bengbu",
+          "city_synonyms" : [
+            "Bengbu"
+          ]
+        },
+        {
+          "city_name" : "Bozhou",
+          "city_synonyms" : [
+            "Bozhou"
+          ]
+        },
+        {
+          "city_name" : "Chaohu",
+          "city_synonyms" : [
+            "Chaohu"
+          ]
+        },
+        {
+          "city_name" : "Chizhou",
+          "city_synonyms" : [
+            "Chizhou"
+          ]
+        },
+        {
+          "city_name" : "Chuzhou",
+          "city_synonyms" : [
+            "Chuzhou"
+          ]
+        },
+        {
+          "city_name" : "Fuyang",
+          "city_synonyms" : [
+            "Fuyang"
+          ]
+        },
+        {
+          "city_name" : "Hefei",
+          "city_synonyms" : [
+            "Fuyang"
+          ]
+        },
+        {
+          "city_name" : "Huaibei",
+          "city_synonyms" : [
+            "Fuyang"
+          ]
+        },
+        {
+          "city_name" : "Huainan",
+          "city_synonyms" : [
+            "Huainan"
+          ]
+        },
+        {
+          "city_name" : "Huangshan",
+          "city_synonyms" : [
+            "Huangshan"
+          ]
+        },
+        {
+          "city_name" : "Jieshou",
+          "city_synonyms" : [
+            "Jieshou"
+          ]
+        },
+        {
+          "city_name" : "Mingguang",
+          "city_synonyms" : [
+            "Mingguang"
+          ]
+        },
+        {
+          "city_name" : "Ningguo",
+          "city_synonyms" : [
+            "Ningguo"
+          ]
+        },
+        {
+          "city_name" : "Qianshan",
+          "city_synonyms" : [
+            "Qianshan"
+          ]
+        },
+        {
+          "city_name" : "Suzhou",
+          "city_synonyms" : [
+            "Suzhou"
+          ]
+        },
+        {
+          "city_name" : "Tianchang",
+          "city_synonyms" : [
+            "Tianchang"
+          ]
+        },
+        {
+          "city_name" : "Tongcheng",
+          "city_synonyms" : [
+            "Tongcheng"
+          ]
+        },
+        {
+          "city_name" : "Tongling",
+          "city_synonyms" : [
+            "Tongling"
+          ]
+        },
+        {
+          "city_name" : "Wuhu",
+          "city_synonyms" : [
+            "Wuhu"
+          ]
+        },
+        {
+          "city_name" : "Xuancheng",
+          "city_synonyms" : [
+            "Xuancheng"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Beijing",
       "region_synonyms" : [
         "Beijing"
