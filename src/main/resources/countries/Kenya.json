@@ -1,0 +1,64 @@
+{
+  "country_name" : "Kenya",
+  "country_synonyms" : [
+    "Kenya"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Kenya",
+      "region_synonyms" : [
+        "Kenya"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Baragoi",
+          "city_synonyms" : [
+            "Baragoi"
+          ]
+        },
+        {
+          "city_name" : "Bungoma",
+          "city_synonyms" : [
+            "Bungoma"
+          ]
+        },
+        {
+          "city_name" : "Busia",
+          "city_synonyms" : [
+            "Busia"
+          ]
+        },
+        {
+          "city_name" : "Butere",
+          "city_synonyms" : [
+            "Butere"
+          ]
+        },
+        {
+          "city_name" : "Dadaab",
+          "city_synonyms" : [
+            "Dadaab"
+          ]
+        },
+        {
+          "city_name" : "Eldoret",
+          "city_synonyms" : [
+            "Eldoret"
+          ]
+        },
+        {
+          "city_name" : "Emali",
+          "city_synonyms" : [
+            "Emali"
+          ]
+        },
+        {
+          "city_name" : "Embu",
+          "city_synonyms" : [
+            "Embu"
+          ]
+        }
+      ]
+    }
+  ]
+}

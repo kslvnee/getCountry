@@ -46,6 +46,12 @@
       ],
       "cities" : [
         {
+          "city_name" : "Avondale",
+          "city_synonyms" : [
+            "Avondale"
+          ]
+        },
+        {
           "city_name" : "Chandler",
           "city_synonyms" : [
             "Chandler"
@@ -2053,6 +2059,20 @@
           "city_synonyms" : [
             "Salt Lake City",
             "Salt-Lake-City"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Vermont",
+      "region_synonyms" : [
+        "Vermont"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Burlington",
+          "city_synonyms" : [
+            "Burlington"
           ]
         }
       ]

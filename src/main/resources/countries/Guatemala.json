@@ -1,0 +1,74 @@
+{
+  "country_name" : "Guatemala",
+  "country_synonyms" : [
+    "Guatemala"
+  ],
+  "regions" : [
+    {
+      "region_name" : "AltaVerapaz",
+      "region_synonyms" : [
+        "Alta Verapaz",
+        "AltaVerapaz"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Coban",
+          "city_synonyms" : [
+            "Cobán",
+            "Coban"
+          ]
+        },
+        {
+          "city_name" : "SanCristobalVerapaz",
+          "city_synonyms" : [
+            "San Cristóbal Verapaz",
+            "SanCristobalVerapaz"
+          ]
+        },
+        {
+          "city_name" : "Panzos",
+          "city_synonyms" : [
+            "Panzós",
+            "Panzos"
+          ]
+        },
+        {
+          "city_name" : "Chisec",
+          "city_synonyms" : [
+            "Chisec"
+          ]
+        },
+        {
+          "city_name" : "SanPedroCarcha",
+          "city_synonyms" : [
+            "San Pedro Carchá",
+            "SanPedroCarcha"
+          ]
+        },
+        {
+          "city_name" : "SantaCatalinaLaTinta",
+          "city_synonyms" : [
+            "Santa Catalina la Tinta",
+            "SantaCatalinaLaTinta"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "BajaVerapaz",
+      "region_synonyms" : [
+        "Baja Verapaz",
+        "BajaVerapaz"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Salama",
+          "city_synonyms" : [
+            "Salamá",
+            "Salama"
+          ]
+        }
+      ]
+    }
+  ]
+}

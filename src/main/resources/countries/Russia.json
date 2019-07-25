@@ -364,6 +364,22 @@
       ]
     },
     {
+      "region_name" : "Kemerovo",
+      "region_synonyms" : [
+        "Kemerovo",
+        "Кемерово"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Kemerovo",
+          "city_synonyms" : [
+            "Kemerovo",
+            "Кемерово"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Khakassia",
       "region_synonyms" : [
         "Khakassia"

@@ -1,0 +1,119 @@
+{
+  "country_name" : "Mexico",
+  "country_synonyms" : [
+    "Mexico",
+    "México"
+  ],
+  "regions" : [
+    {
+      "region_name" : "Aguascalientes",
+      "region_synonyms" : [
+        "Aguascalientes"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Aguascalientes",
+          "city_synonyms" : [
+            "Aguascalientes"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "BajaCalifornia",
+      "region_synonyms" : [
+        "BajaCalifornia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Tijuana",
+          "city_synonyms" : [
+            "Tijuana"
+          ]
+        },
+        {
+          "city_name" : "Mexicali",
+          "city_synonyms" : [
+            "Mexicali"
+          ]
+        },
+        {
+          "city_name" : "Ensenada",
+          "city_synonyms" : [
+            "Ensenada"
+          ]
+        },
+        {
+          "city_name" : "LaPaz",
+          "city_synonyms" : [
+            "La Paz",
+            "La Paz"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Campeche",
+      "region_synonyms" : [
+        "Campeche"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Campeche",
+          "city_synonyms" : [
+            "Campeche"
+          ]
+        },
+        {
+          "city_name" : "CiudadDelCarmen",
+          "city_synonyms" : [
+            "Ciudad del Carmen",
+            "CiudadDelCarmen"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Chiapas",
+      "region_synonyms" : [
+        "Chiapas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "TuxtlaGutierrez",
+          "city_synonyms" : [
+            "Tuxtla Gutiérrez",
+            "TuxtlaGutierrez"
+          ]
+        },
+        {
+          "city_name" : "Tapachula",
+          "city_synonyms" : [
+            "Tapachula"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "NuevoLeon",
+      "region_synonyms" : [
+        "Nuevo León",
+        "NuevoLeon"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Monterrey",
+          "city_synonyms" : [
+            "Monterrey"
+          ]
+        },
+        {
+          "city_name" : "Guadalupe",
+          "city_synonyms" : [
+            "Guadalupe"
+          ]
+        }
+      ]
+    }
+  ]
+}
