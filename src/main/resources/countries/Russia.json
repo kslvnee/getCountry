@@ -14,7 +14,8 @@
     {
       "region_name" : "Altai",
       "region_synonyms" : [
-        "Altai"
+        "Altai",
+        "Алтай"
       ],
       "cities" : [
         {
@@ -55,7 +56,8 @@
       "region_name" : "AmurOblast",
       "region_synonyms" : [
         "Amur",
-        "AmurOblast"
+        "AmurOblast",
+        "Амурская Область"
       ],
       "cities" : [
         {
@@ -70,7 +72,8 @@
     {
       "region_name" : "Arkhangelsk",
       "region_synonyms" : [
-        "Arkhangelsk Oblast"
+        "Arkhangelsk Oblast",
+        "Архангельская область"
       ],
       "cities" : [
         {
@@ -111,7 +114,8 @@
     {
       "region_name" : "Astrakhan",
       "region_synonyms" : [
-        "Astrakhan Oblast"
+        "Astrakhan Oblast",
+        "Астраханская область"
       ],
       "cities" : [
         {
@@ -126,7 +130,8 @@
     {
       "region_name" : "Bashkortostan",
       "region_synonyms" : [
-        "Bashkortostan"
+        "Bashkortostan",
+        "Башкортостан"
       ],
       "cities" : [
         {
@@ -141,7 +146,8 @@
     {
       "region_name" : "Belgorod",
       "region_synonyms" : [
-        "Belgorod Oblast"
+        "Belgorod Oblast",
+        "Белгородская область"
       ],
       "cities" : [
         {
@@ -169,7 +175,8 @@
     {
       "region_name" : "Bryansk",
       "region_synonyms" : [
-        "Bryansk Oblast"
+        "Bryansk Oblast",
+        "Брянская Область"
       ],
       "cities" : [
         {
@@ -191,13 +198,15 @@
     {
       "region_name" : "Chechen",
       "region_synonyms" : [
-        "Chechen"
+        "Chechen",
+        "Чеченская Область"
       ],
       "cities" : [
         {
           "city_name" : "Grozny",
           "city_synonyms" : [
-            "Grozny"
+            "Grozny",
+            "Грозный"
           ]
         }
       ]
@@ -205,7 +214,8 @@
     {
       "region_name" : "Chelyabinsk",
       "region_synonyms" : [
-        "Chelyabinsk"
+        "Chelyabinsk",
+        "Челябинская Область"
       ],
       "cities" : [
         {
@@ -228,7 +238,9 @@
     {
       "region_name" : "Chuvash",
       "region_synonyms" : [
-        "Chuvash"
+        "Chuvash",
+        "Чувашия",
+        "Чувашская"
       ],
       "cities" : [
         {
@@ -294,13 +306,15 @@
     {
       "region_name" : "Irkutsk",
       "region_synonyms" : [
-        "Irkutsk Oblast"
+        "Irkutsk Oblast",
+        "Иркутская область"
       ],
       "cities" : [
         {
           "city_name" : "Angarsk",
           "city_synonyms" : [
-            "Angarsk"
+            "Angarsk",
+            "Ангарск"
           ]
         },
         {
@@ -315,7 +329,8 @@
     {
       "region_name" : "Ivanovo",
       "region_synonyms" : [
-        "Ivanovo"
+        "Ivanovo",
+        "Иваново"
       ],
       "cities" : [
         {
@@ -330,13 +345,15 @@
     {
       "region_name" : "Kaliningrad",
       "region_synonyms" : [
-        "Kaliningrad"
+        "Kaliningrad",
+        "Калининград"
       ],
       "cities" : [
         {
           "city_name" : "Bagrationovsk",
           "city_synonyms" : [
-            "Bagrationovsk"
+            "Bagrationovsk",
+            "Багратионовск"
           ]
         },
         {
@@ -351,7 +368,9 @@
     {
       "region_name" : "Kaluga",
       "region_synonyms" : [
-        "Kaluga"
+        "Kaluga",
+        "Калуга",
+        "Калужская Область"
       ],
       "cities" : [
         {
@@ -367,7 +386,8 @@
       "region_name" : "Kemerovo",
       "region_synonyms" : [
         "Kemerovo",
-        "Кемерово"
+        "Кемерово",
+        "Кемеровская Область"
       ],
       "cities" : [
         {
@@ -382,13 +402,16 @@
     {
       "region_name" : "Khakassia",
       "region_synonyms" : [
-        "Khakassia"
+        "Khakassia",
+        "Хакассия",
+        "Хакасия"
       ],
       "cities" : [
         {
           "city_name" : "Abakan",
           "city_synonyms" : [
-            "Abakan"
+            "Abakan",
+            "Абакан"
           ]
         },
         {
@@ -400,13 +423,15 @@
         {
           "city_name" : "Chernogorsk",
           "city_synonyms" : [
-            "Chernogorsk"
+            "Chernogorsk",
+            "Черногорск"
           ]
         },
         {
           "city_name" : "Sayanogorsk",
           "city_synonyms" : [
-            "Sayanogorsk"
+            "Sayanogorsk",
+            "Саяногорск"
           ]
         },
         {
@@ -420,7 +445,8 @@
     {
       "region_name" : "Kirov",
       "region_synonyms" : [
-        "Kirov"
+        "Kirov",
+        "Кировская Область"
       ],
       "cities" : [
         {
@@ -435,7 +461,9 @@
     {
       "region_name" : "Kostroma",
       "region_synonyms" : [
-        "Kostroma"
+        "Kostroma",
+        "Кострома",
+        "Костромская Область"
       ],
       "cities" : [
         {
@@ -450,7 +478,8 @@
     {
       "region_name" : "Krasnodar",
       "region_synonyms" : [
-        "Krasnodar Krai"
+        "Krasnodar Krai",
+        "Краснодарский Край"
       ],
       "cities" : [
         {
@@ -500,7 +529,9 @@
     {
       "region_name" : "Krasnoyarsk",
       "region_synonyms" : [
-        "Krasnoyarsk"
+        "Krasnoyarsk",
+        "Красноярский край",
+        "Красноярская область"
       ],
       "cities" : [
         {
@@ -530,7 +561,8 @@
         {
           "city_name" : "Divnogorsk",
           "city_synonyms" : [
-            "Divnogorsk"
+            "Divnogorsk",
+            "Дивногорск"
           ]
         },
         {
@@ -566,7 +598,8 @@
         {
           "city_name" : "Krasnoyarsk",
           "city_synonyms" : [
-            "Krasnoyarsk"
+            "Krasnoyarsk",
+            "Красноярск"
           ]
         }
       ]
@@ -574,19 +607,22 @@
     {
       "region_name" : "Moscow",
       "region_synonyms" : [
-        "Moscow"
+        "Moscow",
+        "Московская Область"
       ],
       "cities" : [
         {
           "city_name" : "Aprelevka",
           "city_synonyms" : [
-            "Aprelevka"
+            "Aprelevka",
+            "Апрелевка"
           ]
         },
         {
           "city_name" : "Balashikha",
           "city_synonyms" : [
-            "Balashikha"
+            "Balashikha",
+            "Балашиха"
           ]
         },
         {
@@ -604,7 +640,8 @@
         {
           "city_name" : "Chernogolovka",
           "city_synonyms" : [
-            "Chernogolovka"
+            "Chernogolovka",
+            "Черноголовка"
           ]
         },
         {
@@ -1073,7 +1110,8 @@
     {
       "region_name" : "Kurgan",
       "region_synonyms" : [
-        "Kurgan Oblast"
+        "Kurgan Oblast",
+        "Курганская Область"
       ],
       "cities" : [
         {
@@ -1088,7 +1126,8 @@
     {
       "region_name" : "Kursk",
       "region_synonyms" : [
-        "Kursk Oblast"
+        "Kursk Oblast",
+        "Курская Область"
       ],
       "cities" : [
         {
@@ -1103,13 +1142,15 @@
     {
       "region_name" : "Leningrad",
       "region_synonyms" : [
-        "Leningrad Oblast"
+        "Leningrad Oblast",
+        "Ленинградская Область"
       ],
       "cities" : [
         {
           "city_name" : "Vyborg",
           "city_synonyms" : [
-            "Vyborg"
+            "Vyborg",
+            "Выборг"
           ]
         }
       ]
@@ -1117,7 +1158,8 @@
     {
       "region_name" : "Lipetsk",
       "region_synonyms" : [
-        "Lipetsk Oblast"
+        "Lipetsk Oblast",
+        "Липетцкая Область"
       ],
       "cities" : [
         {
@@ -1132,7 +1174,8 @@
     {
       "region_name" : "Mordovia",
       "region_synonyms" : [
-        "Mordovia"
+        "Mordovia",
+        "Мордовия"
       ],
       "cities" : [
         {
@@ -1165,7 +1208,8 @@
             "Nigniy Novgorod",
             "Nizhny Novgorod",
             "Nizhny-Novgorod",
-            "Нижний Новгород"
+            "Нижний Новгород",
+            "Нижний-Новгород"
           ]
         }
       ]
@@ -1173,7 +1217,8 @@
     {
       "region_name" : "Novgorod",
       "region_synonyms" : [
-        "Novgorod Oblast"
+        "Novgorod Oblast",
+        "Новгородская Область"
       ],
       "cities" : [
         {
@@ -1189,7 +1234,8 @@
     {
       "region_name" : "Novosibirsk",
       "region_synonyms" : [
-        "Novosibirsk Oblast"
+        "Novosibirsk Oblast",
+        "Новосибирская Область"
       ],
       "cities" : [
         {
@@ -1204,7 +1250,8 @@
     {
       "region_name" : "Omsk",
       "region_synonyms" : [
-        "Omsk Oblast"
+        "Omsk Oblast",
+        "Омская Область"
       ],
       "cities" : [
         {
@@ -1219,7 +1266,9 @@
     {
       "region_name" : "Orenburg",
       "region_synonyms" : [
-        "Orenburg"
+        "Orenburg",
+        "Оренбургская Область",
+        "Оренбуржская Область"
       ],
       "cities" : [
         {
@@ -1237,7 +1286,8 @@
         {
           "city_name" : "Novotroitsk",
           "city_synonyms" : [
-            "Novotroitsk"
+            "Novotroitsk",
+            "Новотроицк"
           ]
         },
         {
@@ -1252,7 +1302,8 @@
     {
       "region_name" : "Penza",
       "region_synonyms" : [
-        "Penza"
+        "Penza",
+        "Пензенская Область"
       ],
       "cities" : [
         {
@@ -1267,7 +1318,9 @@
     {
       "region_name" : "Perm",
       "region_synonyms" : [
-        "Perm"
+        "Perm",
+        "Пермский Край",
+        "Пермская Область"
       ],
       "cities" : [
         {
@@ -1282,7 +1335,8 @@
     {
       "region_name" : "PrimorskyKrai",
       "region_synonyms" : [
-        "Primorsky krai"
+        "Primorsky krai",
+        "Приморский Край"
       ],
       "cities" : [
         {
@@ -1297,7 +1351,8 @@
     {
       "region_name" : "Pskov",
       "region_synonyms" : [
-        "Pskov"
+        "Pskov",
+        "Псковская Область"
       ],
       "cities" : [
         {
@@ -1313,7 +1368,8 @@
       "region_name" : "Rostov-on-Don",
       "region_synonyms" : [
         "Rostov Oblast",
-        "Rostov-on-Don"
+        "Rostov-on-Don",
+        "Ростовская Область"
       ],
       "cities" : [
         {
@@ -1329,7 +1385,8 @@
             "RostovOnDon",
             "Rostov-na-Donu",
             "Rostov on Don",
-            "Ростов-на-Дону"
+            "Ростов-на-Дону",
+            "Ростов на Дону"
           ]
         }
       ]
@@ -1337,7 +1394,8 @@
     {
       "region_name" : "Ryazan",
       "region_synonyms" : [
-        "Ryazan"
+        "Ryazan",
+        "Рязанская Область"
       ],
       "cities" : [
         {
@@ -1383,13 +1441,15 @@
         {
           "city_name" : "Pavlovsk",
           "city_synonyms" : [
-            "Pavlovsk"
+            "Pavlovsk",
+            "Павловск"
           ]
         },
         {
           "city_name" : "Petergof",
           "city_synonyms" : [
-            "Petergof"
+            "Petergof",
+            "Петергоф"
           ]
         },
         {
@@ -1412,7 +1472,8 @@
             "Sankt-Petersburg",
             "Saint-P",
             "Sait-Petesburg",
-            "Санкт-Петербург"
+            "Санкт-Петербург",
+            "Санкт Петербург"
           ]
         },
         {
@@ -1424,7 +1485,8 @@
         {
           "city_name" : "Zelenogorsk",
           "city_synonyms" : [
-            "Zelenogorsk"
+            "Zelenogorsk",
+            "Зеленогорск"
           ]
         }
       ]
@@ -1432,7 +1494,8 @@
     {
       "region_name" : "Samara",
       "region_synonyms" : [
-        "Samara"
+        "Samara",
+        "Самарская Область"
       ],
       "cities" : [
         {
@@ -1447,7 +1510,8 @@
     {
       "region_name" : "Saratov",
       "region_synonyms" : [
-        "Saratov"
+        "Saratov",
+        "Саратовская Область"
       ],
       "cities" : [
         {
@@ -1462,7 +1526,8 @@
     {
       "region_name" : "Smolensk",
       "region_synonyms" : [
-        "Smolensk"
+        "Smolensk",
+        "Смоленская Область"
       ],
       "cities" : [
         {
@@ -1477,7 +1542,8 @@
     {
       "region_name" : "Stavropol",
       "region_synonyms" : [
-        "Stavropol"
+        "Stavropol",
+        "Ставропольский Край"
       ],
       "cities" : [
         {
@@ -1492,7 +1558,10 @@
     {
       "region_name" : "Sverdlovsk",
       "region_synonyms" : [
-        "Sverdlovsk Oblast"
+        "Sverdlovsk Oblast",
+        "Sverdlovsk Region",
+        "Свердловская Область",
+        "Свердловский Регион"
       ],
       "cities" : [
         {
@@ -1516,7 +1585,8 @@
         {
           "city_name" : "Novouralsk",
           "city_synonyms" : [
-            "Novouralsk"
+            "Novouralsk",
+            "Новоуральск"
           ]
         },
         {
@@ -1532,7 +1602,8 @@
     {
       "region_name" : "Tambov",
       "region_synonyms" : [
-        "Tambov"
+        "Tambov",
+        "Тамбовская Область"
       ],
       "cities" : [
         {
@@ -1547,31 +1618,36 @@
     {
       "region_name" : "Tatarstan",
       "region_synonyms" : [
-        "Tatarstan"
+        "Tatarstan",
+        "Татарстан"
       ],
       "cities" : [
         {
           "city_name" : "Agryz",
           "city_synonyms" : [
-            "Agryz"
+            "Agryz",
+            "Агрыз"
           ]
         },
         {
           "city_name" : "Almetyevsk",
           "city_synonyms" : [
-            "Almetyevsk"
+            "Almetyevsk",
+            "Альметьевск"
           ]
         },
         {
           "city_name" : "Bugulma",
           "city_synonyms" : [
-            "Bugulma"
+            "Bugulma",
+            "Бугульма"
           ]
         },
         {
           "city_name" : "Chistopol",
           "city_synonyms" : [
-            "Chistopol"
+            "Chistopol",
+            "Чистополь"
           ]
         },
         {
@@ -1591,7 +1667,8 @@
         {
           "city_name" : "Leninogorsk",
           "city_synonyms" : [
-            "Leninogorsk"
+            "Leninogorsk",
+            "Лениногорск"
           ]
         },
         {
@@ -1601,25 +1678,29 @@
             "Naberezhnye Chelny",
             "Naberezhny Chelny",
             "Chelny",
-            "Набережные Челны"
+            "Набережные Челны",
+            "Набережные-Челны"
           ]
         },
         {
           "city_name" : "Nizhnekamsk",
           "city_synonyms" : [
-            "Nizhnekamsk"
+            "Nizhnekamsk",
+            "Нижнекамск"
           ]
         },
         {
           "city_name" : "Yelabuga",
           "city_synonyms" : [
-            "Yelabuga"
+            "Yelabuga",
+            "Елабуга"
           ]
         },
         {
           "city_name" : "Zelenodolsk",
           "city_synonyms" : [
-            "Zelenodolsk"
+            "Zelenodolsk",
+            "Зеленодольск"
           ]
         }
       ]
@@ -1627,7 +1708,8 @@
     {
       "region_name" : "Tomsk",
       "region_synonyms" : [
-        "Tomsk"
+        "Tomsk",
+        "Томская Область"
       ],
       "cities" : [
         {
@@ -1642,7 +1724,8 @@
     {
       "region_name" : "Tula",
       "region_synonyms" : [
-        "Tula Oblast"
+        "Tula Oblast",
+        "Тульская Область"
       ],
       "cities" : [
         {
@@ -1663,7 +1746,8 @@
     {
       "region_name" : "Tver",
       "region_synonyms" : [
-        "Tver"
+        "Tver",
+        "Тверская Область"
       ],
       "cities" : [
         {
@@ -1678,7 +1762,8 @@
     {
       "region_name" : "Tyumen",
       "region_synonyms" : [
-        "Tyumen"
+        "Tyumen",
+        "Тюменскаа Область"
       ],
       "cities" : [
         {
@@ -1693,7 +1778,9 @@
     {
       "region_name" : "Udmurt",
       "region_synonyms" : [
-        "Udmurt"
+        "Udmurt",
+        "Удмуртия",
+        "Удмуртская Область"
       ],
       "cities" : [
         {
@@ -1729,13 +1816,15 @@
     {
       "region_name" : "Ulyanovsk",
       "region_synonyms" : [
-        "Ulyanovsk Oblast"
+        "Ulyanovsk Oblast",
+        "Ульяновская Область"
       ],
       "cities" : [
         {
           "city_name" : "Barysh",
           "city_synonyms" : [
-            "Barysh"
+            "Barysh",
+            "Брянск"
           ]
         },
         {
@@ -1774,7 +1863,8 @@
     {
       "region_name" : "Vladimir",
       "region_synonyms" : [
-        "Vladimir Oblast"
+        "Vladimir Oblast",
+        "Владимирская Область"
       ],
       "cities" : [
         {
@@ -1786,13 +1876,15 @@
         {
           "city_name" : "Murom",
           "city_synonyms" : [
-            "Murom"
+            "Murom",
+            "Муром"
           ]
         },
         {
           "city_name" : "Suzdal",
           "city_synonyms" : [
-            "Suzdal"
+            "Suzdal",
+            "Суздаль"
           ]
         },
         {
@@ -1806,7 +1898,8 @@
     {
       "region_name" : "Volgograd",
       "region_synonyms" : [
-        "Volgograd"
+        "Volgograd",
+        "Волгоградская Область"
       ],
       "cities" : [
         {
@@ -1821,7 +1914,8 @@
     {
       "region_name" : "Vologda",
       "region_synonyms" : [
-        "Vologda"
+        "Vologda",
+        "Вологодская Область"
       ],
       "cities" : [
         {
@@ -1836,7 +1930,8 @@
     {
       "region_name" : "Voronezh",
       "region_synonyms" : [
-        "Voronezh"
+        "Voronezh",
+        "Воронежская Область"
       ],
       "cities" : [
         {
@@ -1851,7 +1946,8 @@
     {
       "region_name" : "Yaroslavl",
       "region_synonyms" : [
-        "Yaroslavl"
+        "Yaroslavl",
+        "Ярославская Область"
       ],
       "cities" : [
         {
