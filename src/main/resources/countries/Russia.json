@@ -459,6 +459,29 @@
       ]
     },
     {
+      "region_name" : "Komi",
+      "region_synonyms" : [
+        "Komi Republic",
+        "Республика Коми"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Syktyvkar",
+          "city_synonyms" : [
+            "Syktyvkar",
+            "Сыктывкар"
+          ]
+        },
+        {
+          "city_name" : "Vorkuta",
+          "city_synonyms" : [
+            "Vorkuta",
+            "Воркута"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Kostroma",
       "region_synonyms" : [
         "Kostroma",
@@ -1369,6 +1392,7 @@
       "region_synonyms" : [
         "Rostov Oblast",
         "Rostov-on-Don",
+        "Rostov Region",
         "Ростовская Область"
       ],
       "cities" : [
@@ -1503,6 +1527,13 @@
           "city_synonyms" : [
             "Samara",
             "Самара"
+          ]
+        },
+        {
+          "city_name" : "Tolyatti",
+          "city_synonyms" : [
+            "Tolyatti",
+            "Тольятти"
           ]
         }
       ]
