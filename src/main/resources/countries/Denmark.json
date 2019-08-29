@@ -6,9 +6,9 @@
   "regions" : [
 
     {
-      "region_name" : "Capital",
+      "region_name" : "Copenhagen",
       "region_synonyms" : [
-        "Capital"
+        "Copenhagen"
       ],
       "cities" : [
         {
@@ -32,9 +32,9 @@
       ]
     },
     {
-      "region_name" : "Central",
+      "region_name" : "Aarhus",
       "region_synonyms" : [
-        "Central"
+        "Aarhus"
       ],
       "cities" : [
         {
@@ -46,9 +46,9 @@
       ]
     },
     {
-      "region_name" : "North",
+      "region_name" : "Aalborg",
       "region_synonyms" : [
-        "North"
+        "Aalborg"
       ],
       "cities" : [
         {
@@ -60,9 +60,9 @@
       ]
     },
     {
-      "region_name" : "South",
+      "region_name" : "Odense",
       "region_synonyms" : [
-        "South"
+        "Odense"
       ],
       "cities" : [
         {

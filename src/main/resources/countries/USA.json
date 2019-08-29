@@ -210,6 +210,12 @@
           ]
         },
         {
+          "city_name" : "Cupertino",
+          "city_synonyms" : [
+            "Cupertino"
+          ]
+        },
+        {
           "city_name" : "Daly-City",
           "city_synonyms" : [
             "Daly City",
@@ -957,6 +963,12 @@
           ]
         },
         {
+          "city_name" : "Champaign",
+          "city_synonyms" : [
+            "Champaign"
+          ]
+        },
+        {
           "city_name" : "Chicago",
           "city_synonyms" : [
             "Chicago"
@@ -1042,6 +1054,20 @@
     },
 
 
+    {
+      "region_name" : "Iowa",
+      "region_synonyms" : [
+        "Iowa"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Des-Moines",
+          "city_synonyms" : [
+            "Des Moines"
+          ]
+        }
+      ]
+    },
     {
       "region_name" : "Kansas",
       "region_synonyms" : [
@@ -1233,6 +1259,12 @@
           ]
         },
         {
+          "city_name" : "Novi",
+          "city_synonyms" : [
+            "Novi"
+          ]
+        },
+        {
           "city_name" : "Sterling-Heights",
           "city_synonyms" : [
             "Sterling Heights",
@@ -1282,6 +1314,12 @@
       ],
       "cities" : [
         {
+          "city_name" : "Ballwin",
+          "city_synonyms" : [
+            "Ballwin"
+          ]
+        },
+        {
           "city_name" : "Columbia",
           "city_synonyms" : [
             "Columbia"
@@ -1301,9 +1339,30 @@
           ]
         },
         {
+          "city_name" : "Saint-Louis",
+          "city_synonyms" : [
+            "Saint Louis",
+            "SaintLouis"
+          ]
+        },
+        {
           "city_name" : "Springfield",
           "city_synonyms" : [
             "Springfield"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Montana",
+      "region_synonyms" : [
+        "Montana"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Bozeman",
+          "city_synonyms" : [
+            "Bozeman"
           ]
         }
       ]
@@ -1314,6 +1373,12 @@
         "Nebraska"
       ],
       "cities" : [
+        {
+          "city_name" : "Kearney",
+          "city_synonyms" : [
+            "Kearney"
+          ]
+        },
         {
           "city_name" : "Lincoln",
           "city_synonyms" : [

@@ -5,15 +5,135 @@
   ],
   "regions" : [
     {
-      "region_name" : "Buenos Aires",
+      "region_name" : "Argentine-Northwest",
+      "region_synonyms" : [
+        "Argentine Northwest"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Jujuy",
+          "city_synonyms" : [
+            "Jujuy"
+          ]
+        },
+        {
+          "city_name" : "Salta",
+          "city_synonyms" : [
+            "Salta"
+          ]
+        },
+        {
+          "city_name" : "Tucuman",
+          "city_synonyms" : [
+            "Tucumán",
+            "Tucuman"
+          ]
+        },
+        {
+          "city_name" : "Catamarca",
+          "city_synonyms" : [
+            "Catamarca"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Buenos-Aires",
       "region_synonyms" : [
         "Buenos Aires"
       ],
       "cities" : [
         {
-          "city_name" : "Buenos Aires",
+          "city_name" : "Buenos-Aires",
           "city_synonyms" : [
             "Buenos Aires"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Gran-Chaco",
+      "region_synonyms" : [
+        "Gran Chaco"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Formosa",
+          "city_synonyms" : [
+            "Formosa"
+          ]
+        },
+        {
+          "city_name" : "Chaco",
+          "city_synonyms" : [
+            "Chaco"
+          ]
+        },
+        {
+          "city_name" : "Santiago-del-Estero",
+          "city_synonyms" : [
+            "Santiago del Estero"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Mesopotamia",
+      "region_synonyms" : [
+        "Mesopotamia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Misiones",
+          "city_synonyms" : [
+            "Misiones"
+          ]
+        },
+        {
+          "city_name" : "Corrientes",
+          "city_synonyms" : [
+            "Corrientes"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Cuyo",
+      "region_synonyms" : [
+        "Cuyo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "San-Juan",
+          "city_synonyms" : [
+            "San-Juan"
+          ]
+        },
+        {
+          "city_name" : "Mendoza",
+          "city_synonyms" : [
+            "Mendoza"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pampas",
+      "region_synonyms" : [
+        "Pampas"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Cordoba",
+          "city_synonyms" : [
+            "Córdoba",
+            "Cordoba"
+          ]
+        },
+        {
+          "city_name" : "Santa-Fe",
+          "city_synonyms" : [
+            "Santa Fe"
           ]
         }
       ]

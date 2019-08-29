@@ -5,6 +5,76 @@
   ],
   "regions" : [
     {
+      "region_name" : "Andalusia",
+      "region_synonyms" : [
+        "Andalusia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Seville",
+          "city_synonyms" : [
+            "Seville"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Aragon",
+      "region_synonyms" : [
+        "Aragon"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Zaragoza",
+          "city_synonyms" : [
+            "Zaragoza"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Palma",
+      "region_synonyms" : [
+        "Palma"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Palma",
+          "city_synonyms" : [
+            "Palma"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Cantabria",
+      "region_synonyms" : [
+        "Cantabria"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Santander",
+          "city_synonyms" : [
+            "Santander"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Toledo",
+      "region_synonyms" : [
+        "Toledo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Toledo",
+          "city_synonyms" : [
+            "Toledo"
+          ]
+        }
+      ]
+    },
+    {
       "region_name" : "Catalonia",
       "region_synonyms" : [
         "Catalonia"
@@ -28,6 +98,91 @@
           "city_name" : "Madrid",
           "city_synonyms" : [
             "Madrid"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Pamplona",
+      "region_synonyms" : [
+        "Pamplona"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Pamplona",
+          "city_synonyms" : [
+            "Pamplona"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Extremadura",
+      "region_synonyms" : [
+        "Extremadura"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Mérida",
+          "city_synonyms" : [
+            "Mérida",
+            "Merida"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Galicia",
+      "region_synonyms" : [
+        "Galicia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Galicia",
+          "city_synonyms" : [
+            "Galicia"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Oviedo",
+      "region_synonyms" : [
+        "Oviedo"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Oviedo",
+          "city_synonyms" : [
+            "Oviedo"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Murcia",
+      "region_synonyms" : [
+        "Murcia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Murcia",
+          "city_synonyms" : [
+            "Murcia"
+          ]
+        }
+      ]
+    },
+    {
+      "region_name" : "Valencia",
+      "region_synonyms" : [
+        "Valencia"
+      ],
+      "cities" : [
+        {
+          "city_name" : "Valencia",
+          "city_synonyms" : [
+            "Valencia"
           ]
         }
       ]

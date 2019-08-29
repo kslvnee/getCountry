@@ -12,6 +12,12 @@
       ],
       "cities" : [
         {
+          "city_name" : "Karlsruhe",
+          "city_synonyms" : [
+            "Karlsruhe"
+          ]
+        },
+        {
           "city_name" : "Heidelberg",
           "city_synonyms" : [
             "Heidelberg"
