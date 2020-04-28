@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/getcoderio/getCountry/branch/master/graph/badge.svg)](https://codecov.io/gh/getcoderio/getCountry)
 [![License](https://img.shields.io/github/license/getcoderio/getCountry.svg)](https://github.com/getcoderio/getCountry/blob/master/LICENSE)
 
-The simple library that transforms String location into Country/Region/City
+The simple library that transforms String location into Country/Region/City.
 
 
 ```kotlin
